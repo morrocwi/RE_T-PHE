@@ -1,0 +1,226 @@
+{
+  "angle": "manipulation-literacy-inoculation",
+  "verified": [
+    {
+      "pmid": "36001675",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 'these videos improve manipulation technique recognition, boost confidence in spotting these techniques, increase people's ability to discern trustworthy from untrustworthy content, and improve the quality of their sharing decisions' across 6 RCTs (n=6464) + YouTube field study (n=22,632). Correctly measures technique recognition (not belief in a specific claim). relevance_to_tphe already labels this an analogy across domains. No changes needed."
+    },
+    {
+      "pmid": "40820144",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'we find that the game significantly improves participants' ability to discern vaccine misinformation from non-misinformation, their confidence in their ability to do so, and the quality of their sharing decisions... participants improve their ability to correctly identify the use of specific misinformation techniques.' Technique-level recognition confirmed, not belief-in-specific-claim. relevance already flags analogy/second domain. No changes needed."
+    },
+    {
+      "pmid": "41845063",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Core claim correct (technique discernment measured via 'correct identification of tactics', not belief-in-specific-claim) but the key_finding omits the abstract's own effect-size disclosure, which the review brief requires strict handling of. Abstract states: 'Though effects were small (ds ≈ 0.08-0.38), they were significant across surveys.' CORRECTED key_finding to write back: \"Prebunking videos targeting scapegoating, decontextualization, and discrediting tactics improved manipulation and technique discernment (correct identification of tactics) and reduced willingness to share manipulative content, across diverse cultures and age groups, ahead of the 2024 EU elections. Effects were small but statistically significant across surveys (ds ≈ 0.08-0.38); longer (50s) videos showed more consistent improvement than shorter (20s) ones.\" relevance_to_tphe text is fine as-is (already flags analogy, cross-cultural relevance); no change needed there."
+    },
+    {
+      "pmid": "31934684",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "key_finding is accurate: 'playing Bad News significantly improves people's ability to spot misinformation techniques compared to a gamified control group' -- technique-level recognition, correct. But relevance_to_tphe is the one record in this inoculation set that omits the required domain-analogy caveat present on all its sibling records (36001675, 40820144, 41845063, 35600423 all explicitly say 'analogy, not direct transplant' re: misinformation vs interpersonal coercion) -- an inconsistency the reviewer brief flags as something to label explicitly. CORRECTED relevance_to_tphe to write back: \"supports: Layer 0 awareness mechanism -- independent replication strengthens the evidence base that active/gamified pattern-exposure (not passive warning) improves later recognition; relevant if T-PHE's self-check/signals tool is interactive rather than purely informational. Domain is online misinformation headlines, not interpersonal relationship coercion -- analogy only, not a direct transplant.\""
+    },
+    {
+      "pmid": "35600423",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Core claim correct and this is the strongest 'cross-protection generalizes to untrained techniques' evidence in the set -- but the key_finding omits the abstract's quantified effect sizes, which per the strict effect-size instruction should be surfaced, especially because the cross-protection effect is much weaker than the main effect (a materially important nuance for how hard T-PHE can lean on 'recognising the pattern once protects against novel instances'). Abstract: 'a 15 min game confers psychological resistance against real-world misinformation... (Cohen's d = 0.37... p < 0.001), and that cross-protection is achieved but at a reduced effect size (d = 0.10... p = 0.001).' CORRECTED key_finding to write back: \"Technique-based inoculation (teaching the general manipulation technique rather than a specific false claim) reduced susceptibility to real-world viral misinformation that used the trained-against techniques (Cohen's d = 0.37, p < 0.001), and conferred cross-protection against misinformation using techniques not explicitly trained on, though at a substantially reduced effect size (d = 0.10, p = 0.001).\""
+    },
+    {
+      "pmid": "37929261",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "key_finding is accurate and appropriately hedged, but slightly undersells the paper's actual bottom line, which is reassuring rather than purely cautionary: abstract states inoculation effects ARE somewhat influenced by item effects but NOT by testing effects, and concludes 'inoculation interventions are effective at improving people's ability to spot misinformation techniques and that the Bad News game does not make people more skeptical of real news.' Minor FIX for completeness/accuracy (net finding is 'effects hold up under scrutiny, with one caveat', not open-ended doubt) -- also add the missing domain-analogy caveat for consistency with sibling inoculation records. CORRECTED key_finding to write back: \"Methodological study interrogating whether observed inoculation effects on misinformation recognition reflect genuine learning versus item-repetition or pretest-sensitization artifacts. Finds inoculation effects are somewhat influenced by item effects but NOT by testing effects, and confirms inoculation interventions are effective at improving people's ability to spot misinformation techniques (without making people more broadly skeptical of real news) -- a reassuring result with one methodological caveat, not a refutation.\" CORRECTED relevance_to_tphe to write back (append one clause): \"complicates: a methodological caution relevant to any future T-PHE evaluation design -- if T-PHE later measures 'recognition improved after Layer 0 exposure' via pre/post self-check items, this paper flags that naive pre/post designs can inflate apparent recognition gains through item effects specifically (though not through pretest-sensitization/testing effects). Useful for the evaluation-design section, not for claiming T-PHE works. Misinformation domain only -- analogy, not a direct transplant to interpersonal coercion.\""
+    },
+    {
+      "pmid": "42535453",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Confirmed: abstract text is literally 'This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of...' -- no outcome data. key_finding and relevance_to_tphe already correctly restrict this to protocol/registration status and explicitly warn never to cite as supporting evidence of effect. No changes needed."
+    },
+    {
+      "pmid": "37011949",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 'favorable changes in attitudes toward controlling and supportive dating behaviors were associated with lower incidents of some TDV behaviors' and explicitly frames the broader literature gap ('limited evidence of meaningful effects on behavior' from attitude/knowledge proxies). key_finding and relevance_to_tphe (used as a 'complicates' bounding caution) match. No changes needed."
+    },
+    {
+      "pmid": "23790995",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "MAJOR ERROR. Current key_finding claims the programme 'showed longer-term (1-year) effects on bystander intervention behaviors' framed as a positive recognition/prevention result. The abstract's actual RESULTS directly contradict this: 'No differences were observed in intentions to intervene...; recognition of abusive behaviors (-0.03, 95% CI=-0.15, 0.09); or positive bystander behaviors (0.04, 95% CI=-0.11, 0.19).' The only significant effects were on reduced PERPETRATION (-0.15, 95% CI=-0.27,-0.03) and reduced NEGATIVE bystander behaviors i.e. laughing/going along with abuse (-0.41, 95% CI=-0.72,-0.10) -- not on recognition or positive bystander intervention. This is exactly the kind of record the T-PHE authors need most: a rigorous cluster RCT in which the recognition outcome specifically FAILED to show a 1-year effect, even though downstream behavior (perpetration) did improve -- i.e. dissociates 'recognition changed' from 'behavior changed', the opposite pattern from what the current key_finding implies. Verdict must flip from 'supports' to 'complicates'. CORRECTED key_finding to write back: \"In a 12-month follow-up of a cluster RCT (16 high schools, N=1513 male athletes), Coaching Boys Into Men (a coach-delivered dating violence prevention programme) showed NO significant 1-year effect on its primary recognition-of-abusive-behaviors outcome (-0.03, 95% CI=-0.15,0.09), intentions to intervene, gender-equitable attitudes, or positive bystander behaviors (0.04, 95% CI=-0.11,0.19). It DID show significant reductions in dating violence perpetration (-0.15, 95% CI=-0.27,-0.03) and in negative bystander behaviors i.e. laughing along with peers' abusive behaviors (-0.41, 95% CI=-0.72,-0.10).\" CORRECTED relevance_to_tphe to write back: \"complicates: a directly on-point cluster-RCT dissociation between recognition and behavior -- this trial's primary 'recognition of abusive behaviors' outcome, the closest published analogue to T-PHE's Layer 0 mechanism, showed NO measurable 1-year improvement, even though a downstream behavioral outcome (perpetration) did improve via other programme components. This is strong caution against assuming 'improved recognition' is either necessary or the active ingredient behind any behavioral protection a programme like Layer 0 might eventually show -- recognition and protective behavior change appear here as separable, not automatically coupled, outcomes.\""
+    },
+    {
+      "pmid": "28821469",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Confirmed design/protocol-only paper: RESULTS section reports only baseline participating-school demographics, CONCLUSIONS use future tense ('This study will evaluate...'). key_finding correctly states 'no outcome data in this record'. relevance_to_tphe correctly restricts claim to methodology template. No changes needed."
+    },
+    {
+      "pmid": "38580464",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Title match is exact except a curly vs straight apostrophe/quote character (cosmetic encoding difference, not a real mismatch). key_finding and relevance_to_tphe (transferability/adaptation caution, ASTAIRE/FIC framework) match the abstract closely. No changes needed."
+    },
+    {
+      "pmid": "28234197",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 'program participants reported a greater ability to recognize risk cues, a greater willingness to engage in self-protective behaviors, and a greater level of perceived self-efficacy... compared to the control group.' Design (quasi-experimental, N=103) matches. relevance_to_tphe already caveats this as self-reported perception/intention, not verified behavior change. No changes needed."
+    },
+    {
+      "pmid": "38336660",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Real (non-cosmetic) title mismatch: PubMed's actual title ends '...need from service providers.' -- the search record's title drops the final word 'providers'. This is outside the write-back scope given (only key_finding/relevance_to_tphe for this angle), so flagging for audit only, not corrected in the search file. key_finding and relevance_to_tphe content are accurate to the abstract (37 IPSV survivors, thematic analysis, 'counteract the gaslighting' theme = help survivors label IPSV as violence). Population count in JSON design field doesn't state N=37 but that's not a stated-wrong number, just an omission -- not flagged as an error."
+    },
+    {
+      "pmid": "35974354",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms qualitative pathway themes (being silenced/unheard, negative labelling) and the ALSPAC quantitative arm (child maltreatment -> adolescent loneliness -> young-adult IPVA, with loneliness mediating). Ns (17 women; 2127 female/1145 male ALSPAC) match. relevance_to_tphe's 'awareness is one lever among several' framing matches the abstract's mediation-pathway structure. No changes needed."
+    },
+    {
+      "pmid": "37882155",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "N=41 SGM-AFAB, three-quarters disclosed, variation by demographic/relationship-to-discloser -- all confirmed in abstract. Note for context (not an error, just an underused strengthening point): the abstract's most common disclosure barrier was 'not viewing the IPV as abuse' -- i.e. failure to recognize is literally named as the top barrier, which would make the relevance_to_tphe case for Layer 0 even stronger than currently written, but the existing text is not inaccurate, so left as-is (KEEP, not FIX) rather than rewriting a correct-but-conservative claim."
+    },
+    {
+      "pmid": "39536684",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms IPVIS measures 'awareness of and agreeance with negative IPV stereotypes/attitudes... internalized by individuals victimized by IPV', framed as a help-seeking barrier distinct from abuse recognition itself. key_finding and relevance_to_tphe (recognition necessary-but-not-sufficient caution) match. No changes needed."
+    },
+    {
+      "pmid": "33114157",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 19 measures identified, Nutbeam and Sørensen models as dominant theoretical foundations, multidimensional access/appraise/understand/apply framing. key_finding and relevance_to_tphe (mapping recognition onto the 'appraise' stage) match. No changes needed."
+    },
+    {
+      "pmid": "37727706",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Item-count error. The abstract's EFA step used a 50-item pool ('A total of 50-items were included in exploratory factor analysis') but the FINAL validated instrument, per the abstract's own CONCLUSIONS, is a 31-item tool ('Health Literacy Assessment Tool for 9-10 Years Old children (31-item) showed psychometric properties...'); the four CFA-confirmed subscale item counts given in RESULTS (9+6+8+9=32) are internally inconsistent with the stated '31-item' total by 1, which appears to be the source paper's own rounding/typo, not something to resolve further from the abstract alone -- report both figures rather than picking one. The search record's key_finding states '50-item, 4-dimension health literacy assessment tool' as the FINAL product, which conflates the initial item pool with the validated instrument -- a real factual error. CORRECTED key_finding to write back: \"Developed and psychometrically validated a health literacy assessment tool for Thai children aged 9-10: starting from a 50-item pool, EFA identified a 4-dimension solution (access, understand, appraise, apply) explaining 36.05% of variance; CFA confirmed good model fit (GFI=0.937, CFI=0.903, RMSEA=0.040), and the abstract's own conclusion reports the final validated tool as 31 items (Cronbach's alpha=0.902), though the four subscale item counts given in RESULTS sum to 32 -- a minor internal inconsistency in the source abstract itself, not resolvable without the full text.\""
+    },
+    {
+      "pmid": "26289454",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms N=11, four domains (parents/community exposure, sexual-nature behaviors, controlling behaviors, psychological/emotional/verbal abuse) and the intersectionality framing. key_finding and relevance_to_tphe (cultural-adaptation caution for a Muslim-diaspora audience, small-N caveat) match. No changes needed."
+    },
+    {
+      "pmid": "26442989",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms N=18, five themes (recognition of IPV, perceived vulnerability, experience/responses, help-seeking/support, prevention strategies) and a general cultural-norms discussion. key_finding matches closely; relevance_to_tphe's specific 'shapes both recognition and willingness to seek help' framing is a fair paraphrase of the abstract's broader 'intertwined cultural norms... challenges for IPV prevention' statement, not a verbatim overclaim. No changes needed."
+    }
+  ],
+  "overall_note": "20/20 PMIDs resolved to real PubMed records with matching titles (one real title truncation on 38336660, dropping the word 'providers' -- flagged but out of this write-back's scope) and matching years. One MAJOR correction: PMID 23790995 (Coaching Boys Into Men 1-year follow-up) was mischaracterized as showing 'longer-term effects on bystander intervention behaviors' when the abstract explicitly reports NO significant effect on recognition of abusive behaviors or positive bystander behaviors at 1 year -- only reduced perpetration and reduced negative bystander behaviors were significant. This flips the record from 'supports' to 'complicates' and is arguably the single most important correction in this angle, since it is a rigorous cluster RCT showing recognition itself did not durably improve even where other outcomes did. One item-count error was corrected (37727706: final validated Thai child health-literacy tool is 31 items, not 50 -- 50 was the initial EFA item pool). Effect sizes were added where the abstract reported them but the record's key_finding had omitted them (41845063: ds≈0.08-0.38; 35600423: d=0.37 main effect vs d=0.10 cross-protection, an important asymmetry for how strongly T-PHE can claim novel-instance generalization). One relevance_to_tphe was brought into line with its sibling records by adding the required domain-analogy caveat that had been dropped (31934684), and a second (37929261) had both a slight positive-conclusion omission and the missing analogy caveat corrected. No record was dropped: all 20 resolve, are in scope, and (after the FIXes above) are accurately characterized. The existing gaps_noted and limits_of_this_search sections in the source file remain accurate and were not touched."
+}
