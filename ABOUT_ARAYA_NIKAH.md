@@ -7,7 +7,7 @@
 
 | Source status used on this page | Meaning |
 |---|---|
-| **Registered** | Recorded in a public register (company or social-enterprise registration). Verifiable with the registrar. |
+| **Registered** | A public registration (company or social-enterprise) as recorded in the organisation's own legal-entity register. This repository has not itself queried the registrar; verify with the Department of Business Development and the Office of Social Enterprise Promotion before citing. |
 | **Organisation-attested** | Stated in the organisation's own governance records (internal, effective 2026-06-21) or on its public website. Not independently audited. |
 | **Not independently assured** | Operational figures reported by the organisation. No external verification has been performed. |
 
@@ -55,11 +55,16 @@ and referral" safeguard.
 ## 4. Religious position
 
 *Organisation-attested.* The organisation follows Ahl al-Sunnah wa-l-Jamaʿah across the four Sunni
-schools of law (Hanafi, Maliki, Shafiʿi, Hanbali), and operates an internal working discipline
-described as an ethical chain from al-Haqq (ultimate truth) through faqr (recognition of limits),
-taqwa (God-conscious restraint) and amanah (entrusted responsibility) to hikmah (wisdom), with
-justice (ʿadl), mercy and proper manners as standing guards. The organisation states explicitly
-that this is an internal operating discipline and **not a fatwa**. Questions of religious validity
+schools of law (Hanafi, Maliki, Shafiʿi, Hanbali), with an Ashʿari-leaning theological vocabulary,
+and operates an internal working discipline described as an eight-node chain: al-Haqq (ultimate
+truth) → khalq (createdness: neither humans nor AI are the source of truth) → faqr (recognition of
+limits) → qabul (openness to correction) → fahm al-ʿabd (bounded understanding) → taqwa
+(God-conscious restraint) → amanah (entrusted responsibility) → hikmah (wisdom), with bayyina
+(sufficient evidence: no material claim without evidence) as an operating filter between taqwa and
+amanah. Four standing guards cross-cut the chain: justice (ʿadl), mercy and goodness, proper manners,
+and safety before speed. The summary in this paragraph is a compression of the organisation's
+record, not the record itself. The organisation states explicitly that this is an internal
+operating discipline and **not a fatwa**. Questions of religious validity
 are referred to qualified scholars and the relevant Islamic committee.
 
 ## 5. Origin and growth (timeline)
@@ -70,7 +75,7 @@ are referred to qualified scholars and the relevant Islamic committee.
 |---|---|
 | c. 2001 | Family business in Islamic wedding attire |
 | 2008 | Wedding studio |
-| 2013 | Demand from cross-cultural couples becomes visible; the founder records seeing violence in cross-cultural divorces from this period |
+| 2013 | Demand from cross-cultural couples becomes visible |
 | c. 2015 | Cultural wedding and nikah planning |
 | 2019 | Family workshops |
 | 2022 | Company incorporated (former name) |
@@ -119,7 +124,7 @@ with a group nikah ceremony; completion of the course confers no automatic right
 | Premarital group-training cohorts | 19 (first cohort 10 February 2024) |
 | Cross-cultural couples supported | more than 300 |
 | Women and children reached by education | more than 500 |
-| Premarital-programme participants since 2024 (figure used in the abstract) | more than 600 |
+| Premarital-programme participants since 2024 (figure used in the abstract) | more than 600 (reported directly by the author for the abstract; not in the governance records listed under Sources; see `CLAIMS.md` C-06) |
 
 Monitoring tools in use are basic (web analytics, forms, social-media insights, learning-platform
 tracking); the organisation records that monitoring and evaluation are not yet standardised and
@@ -135,9 +140,12 @@ not as an independent account.
 
 ## Sources
 
-- ARAYA Nikah organisational governance records (identity core; organisation history and
-  strategy; Family of Peace theory of change; legal and regulatory register; course product
-  specification). Internal, effective 2026-06-21. Available to reviewers on request from the
-  corresponding author.
+- ARAYA Nikah organisational governance records: identity core, organisation history and
+  strategy, Family of Peace theory of change, legal-entity register, and religious operating
+  discipline (each internal, effective 2026-06-21); legal and regulatory register and course
+  product specification (internal, approved, no effective date recorded; the legal register marks
+  its citations as pending legal review). Available to reviewers on request from the corresponding
+  author. The "more than 600 participants" figure is not in these records; it was supplied by the
+  author for the abstract (see `CLAIMS.md` C-06).
 - Public website: https://www.arayaweddingplanner.com/en/about-us/
 - Thailand, Social Enterprise Promotion Act B.E. 2562 (2019).
