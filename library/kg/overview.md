@@ -91,5 +91,6 @@ graph LR
   C06 -->|supports x3| P6
   C06 -->|supports x1| P7
   C15 -.->|complicates x1| P5
-  C15 -->|supports x4| P5
+  C15 ---|relates_to x1| P5
+  C15 -->|supports x3| P5
 ```

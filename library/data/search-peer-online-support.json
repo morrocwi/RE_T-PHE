@@ -123,7 +123,7 @@
       "design": "quantitative + automatic (machine-learning) content analysis of 90,040 messages (8,343 hand-coded subset)",
       "population_setting": "a popular Chinese online community's IPV discussion group",
       "key_finding": "Social support was commonly present in messages; only a small minority of messages expressed victim-blaming; the community functioned as a source of informational resources and emotional encouragement for IPV victims.",
-      "relevance_to_tphe": "supports: empirical, non-Western evidence that an unmoderated-by-default peer community around IPV/relationship harm can generate predominantly supportive (not blaming) content, relevant to T-PHE's assumption that peer spaces can be a source of relationship-safety support in an Asian cultural context.",
+      "relevance_to_tphe": "supports: empirical, non-Western evidence that a peer community around IPV/relationship harm can generate predominantly supportive (not blaming) content; the abstract does not state the community's moderation status, so no claim about being unmoderated-by-default is made. This is China-specific, offered only as a non-Western analogy - not evidence for a Thai or Muslim-majority setting.",
       "evidence_level": "observational content analysis, single platform/country, no outcome measure of victim wellbeing",
       "abstract_read": true
     },
@@ -239,8 +239,8 @@
       "journal": "Psychotherapy Research",
       "design": "cross-sectional online survey, N=443",
       "population_setting": "heterogeneous adult sample comparing disclosure in therapy vs. anonymous/non-anonymous online spaces",
-      "key_finding": "Attachment style significantly predicted likelihood of disclosing distressing topics online and whether disclosures in therapy vs. anonymous/non-anonymous online spaces were experienced as helpful; younger patients and those with avoidant/ambivalent attachment styles were flagged as more likely to view online disclosure as an appropriate venue.",
-      "relevance_to_tphe": "supports and complicates: gives an individual-differences mechanism (attachment style) for why 'younger people treat digital spaces as safer' is not uniformly true, and flags that clinicians (by extension, T-PHE's moderators) should monitor rather than assume the value of online disclosure for every learner.",
+      "key_finding": "Attachment style significantly predicted likelihood of disclosing distressing topics online and whether disclosures in therapy vs. anonymous/non-anonymous online spaces were experienced as helpful; clinicians are advised to monitor whether younger patients and those with avoidant/ambivalent attachment styles view psychotherapy itself as an appropriate venue for disclosure, given their documented tendency to disclose online instead.",
+      "relevance_to_tphe": "supports and complicates: gives an individual-differences mechanism (attachment style) for why 'younger people treat digital spaces as safer' is not uniformly true, and flags that clinicians should monitor whether such patients still see psychotherapy (the professional venue) as legitimate, given their tendency to disclose online instead - by extension a caution for T-PHE's moderators not to assume online disclosure substitutes for professional venues.",
       "evidence_level": "cross-sectional survey study, correlational, self-report",
       "abstract_read": true
     },

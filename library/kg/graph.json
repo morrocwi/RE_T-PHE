@@ -166,6 +166,71 @@
    "label": "single-session"
   },
   {
+   "id": "OD:inoculation",
+   "type": "outcome_domain",
+   "label": "inoculation"
+  },
+  {
+   "id": "OD:prebunking",
+   "type": "outcome_domain",
+   "label": "prebunking"
+  },
+  {
+   "id": "OD:gaslighting",
+   "type": "outcome_domain",
+   "label": "gaslighting"
+  },
+  {
+   "id": "OD:emotional abuse",
+   "type": "outcome_domain",
+   "label": "emotional abuse"
+  },
+  {
+   "id": "OD:recognition of abuse",
+   "type": "outcome_domain",
+   "label": "recognition of abuse"
+  },
+  {
+   "id": "OD:dating violence",
+   "type": "outcome_domain",
+   "label": "dating violence"
+  },
+  {
+   "id": "OD:humility",
+   "type": "outcome_domain",
+   "label": "humility"
+  },
+  {
+   "id": "OD:self-compassion",
+   "type": "outcome_domain",
+   "label": "self-compassion"
+  },
+  {
+   "id": "OD:empathy",
+   "type": "outcome_domain",
+   "label": "empathy"
+  },
+  {
+   "id": "OD:self-regulation",
+   "type": "outcome_domain",
+   "label": "self-regulation"
+  },
+  {
+   "id": "OD:conscientiousness",
+   "type": "outcome_domain",
+   "label": "conscientiousness"
+  },
+  {
+   "id": "OD:trustworthiness",
+   "type": "outcome_domain",
+   "label": "trustworthiness"
+  },
+  {
+   "id": "OD:religiosity",
+   "type": "outcome_domain",
+   "label": "religiosity"
+  },
+  {
    "id": "CAT:01",
    "type": "category",
    "label": "Burden of intimate-partner violence and primary-prevention frameworks"
@@ -2235,6 +2300,11 @@
    "relation": "supports"
   },
   {
+   "source": "PMID:31686618",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:30125773",
    "target": "CAT:01",
    "relation": "in_category"
@@ -2355,6 +2425,11 @@
    "relation": "in_category"
   },
   {
+   "source": "PMID:32257154",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:30613427",
    "target": "CAT:01",
    "relation": "in_category"
@@ -2372,6 +2447,11 @@
   {
    "source": "PMID:40462272",
    "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40462272",
+   "target": "OD:humility",
    "relation": "measures_or_discusses"
   },
   {
@@ -2735,6 +2815,11 @@
    "relation": "measures_or_discusses"
   },
   {
+   "source": "PMID:23338828",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:14996680",
    "target": "CAT:03",
    "relation": "in_category"
@@ -2748,6 +2833,11 @@
    "source": "PMID:14996680",
    "target": "SG:epistemic humility",
    "relation": "informs"
+  },
+  {
+   "source": "PMID:14996680",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:22565034",
@@ -2950,6 +3040,11 @@
    "relation": "supports"
   },
   {
+   "source": "PMID:28789659",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:23917943",
    "target": "CAT:03",
    "relation": "in_category"
@@ -3022,6 +3117,11 @@
   {
    "source": "PMID:36693203",
    "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36693203",
+   "target": "OD:humility",
    "relation": "measures_or_discusses"
   },
   {
@@ -3357,6 +3457,11 @@
   {
    "source": "PMID:31012540",
    "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31012540",
+   "target": "OD:humility",
    "relation": "measures_or_discusses"
   },
   {
@@ -3935,6 +4040,11 @@
    "relation": "measures_or_discusses"
   },
   {
+   "source": "PMID:39425490",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:31896308",
    "target": "CAT:06",
    "relation": "in_category"
@@ -4017,6 +4127,11 @@
   {
    "source": "PMID:32460657",
    "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32460657",
+   "target": "OD:humility",
    "relation": "measures_or_discusses"
   },
   {
@@ -4223,6 +4338,11 @@
    "source": "PMID:38867221",
    "target": "CAT:07",
    "relation": "in_category"
+  },
+  {
+   "source": "PMID:38867221",
+   "target": "OD:emotional abuse",
+   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:39653570",
@@ -4515,6 +4635,11 @@
    "relation": "in_category"
   },
   {
+   "source": "PMID:10073197",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "REF:WHO-EURO:9789289053594",
    "target": "CAT:09",
    "relation": "in_category"
@@ -4588,6 +4713,11 @@
    "source": "PMID:28024446",
    "target": "CAT:10",
    "relation": "in_category"
+  },
+  {
+   "source": "PMID:28024446",
+   "target": "OD:religiosity",
+   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:41540416",
@@ -4740,11 +4870,6 @@
    "relation": "measures_or_discusses"
   },
   {
-   "source": "PMID:28351830",
-   "target": "OD:self-assessment",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:26350482",
    "target": "CAT:13",
    "relation": "in_category"
@@ -4793,11 +4918,6 @@
    "source": "PMID:32675229",
    "target": "CAT:13",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:32675229",
-   "target": "OD:harms",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:28327116",
@@ -4915,6 +5035,11 @@
    "relation": "measures_or_discusses"
   },
   {
+   "source": "PMID:42127226",
+   "target": "OD:trustworthiness",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:32339059",
    "target": "CAT:14",
    "relation": "in_category"
@@ -4990,6 +5115,11 @@
    "relation": "measures_or_discusses"
   },
   {
+   "source": "PMID:31742562",
+   "target": "OD:trustworthiness",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "PMID:35536616",
    "target": "CAT:14",
    "relation": "in_category"
@@ -5017,7 +5147,7 @@
   {
    "source": "PMID:29708521",
    "target": "P5",
-   "relation": "supports"
+   "relation": "relates_to"
   },
   {
    "source": "PMID:29708521",
