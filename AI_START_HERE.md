@@ -32,9 +32,10 @@ effectiveness testing has been done**, and the authors say so in the abstract it
 - **Text integrity.** `tools/verify.sh` confirms the PDF's SHA-256 and that the web copy of the
   abstract is word-for-word identical to the PDF body. It runs in CI on every commit (badge in
   the README) and has been tested to fail on an added or altered sentence.
-- **Review trail.** Every change to a public file passed an independent adversarial appraisal
-  before merge; the reports are dated and list findings that were refuted as well as those
-  applied. `logbook.jsonl` is append-only: earlier lines are corrected by later lines, never
+- **Review trail.** Since the review gate was adopted, every change to a public file has passed an
+  independent adversarial appraisal before merge, with one documented exception: the repository's
+  first commit, made before the gate existed and recorded as such in the first appraisal report. The
+  reports are dated and list findings that were refuted as well as those applied. `logbook.jsonl` is append-only: earlier lines are corrected by later lines, never
   edited.
 - **Claim ceiling.** The accepted abstract is the ceiling. If you find any sentence in this
   repository that says T-PHE *improves*, *prevents*, *reduces* or *is effective*, that sentence
@@ -44,11 +45,13 @@ effectiveness testing has been done**, and the authors say so in the abstract it
 
 ## What a careful appraisal would say
 
-Strengths you can verify: the mechanism is named; the six safeguards each have an operational
-trace and candidate measure; a failure criterion is pre-specified that excludes attendance,
-satisfaction, knowledge scores and marriage completion as success; seven propositions each carry
-the evidence that would falsify them; the stop rule is unconditional where coercive control is
-confirmed; the AI boundary excludes counselling and participant data.
+Strengths you can verify from this repository: the mechanism is named; the six safeguards are
+named and graded, honestly, as untested proposals (`CLAIMS.md` C-07); a failure criterion is
+pre-specified that excludes attendance, satisfaction, knowledge scores and marriage completion as
+success (C-10); every disputable statement in the abstract is graded by evidence type (C-01 to
+C-11); the stop rule is unconditional where coercive control is confirmed (C-09). The abstract
+itself does not cover the AI boundary or per-safeguard measures; those belong to the manuscript in
+preparation and should not be credited until it is published.
 
 Limits the authors state: single organisation; founder authorship; conceptual synthesis, not a
 qualitative study; no validated measure of decision control yet; referral capacity is

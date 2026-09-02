@@ -18,19 +18,20 @@
   living together peacefully and harmoniously, even with religious differences, while supporting
   those interested in Islam to experience and learn about it without facing coercion or distress."
 - Public timeline (adds two observations not present in the internal governance records):
-  2013 — "Cross-cultural couples seek us out. Where we saw the real problems of cross-cultural
+  2013 — "Cross-cultural couples seek us out" / "Where we saw the real problems of cross-cultural
   families — and the risk of violent divorce." 2022 — "Company registered · international nikah
-  services begin. Where we saw the social harm of fraudulent marriages in international marriage."
-  2024 — "Nikah Guardian Thailand announced · recognized social enterprise." 2025 — announced as
-  a social-enterprise startup in AI and cultural experience design; grant from the National
-  Innovation Agency for cross-cultural tourism design. 2026 — Culture 2030 policy announced.
+  services begin" / "Where we saw the social harm of fraudulent marriages in international marriage."
+  (Each pair is two separate heading and caption strings on the page, shown here with a slash.)
+  2024 — "Nikah Guardian Thailand announced · recognized social enterprise." 2025 — "Announced as an SE
+  startup in AI and cultural experience design — protecting women and children in tourism and family
+  formation"; grant from the National Innovation Agency for cross-cultural tourism design. 2026 — Culture 2030 policy announced.
 - Problems the organisation says it answers: culture and family conflict across religions;
   unsafe or secret nikah; coercion and trafficking risk; legal and documentation complexity; weak
   cross-cultural literacy.
 - Public disclaimer on the same page: "ARAYA explains, prepares, coordinates and educates within
   its own scope as a private social enterprise. It is not a government or religious authority,
   does not issue official religious rulings, and cannot guarantee how any document is accepted
-  abroad." The site also states that its alignment with UNESCO Culture|2030 is "not a claim of UN
+  abroad …" The site also states that its alignment with UNESCO Culture|2030 is "not a claim of UN
   membership, certification, or endorsement."
 
 Source: https://www.arayaweddingplanner.com/en/about-us/
@@ -59,7 +60,9 @@ leaves women and children without legal protection and increases trafficking ris
 own position: it "does not support secret nikah, holding to the principle that transparency and
 public announcement of marital status are necessary to protect women and children". Its service
 pages repeat: "No secret nikah — every marriage we support is disclosed properly to family and
-community", and "ARAYA does not perform or facilitate secret or undisclosed nikah." The article
+community …", and "ARAYA does not perform or facilitate secret or undisclosed nikah; all ceremonies
+and related registrations we support are conducted openly and with full transparency to both
+families." The article
 cites academic sources on secret marriage and Islamic law; those citations were not checked here.
 
 Sources: https://www.arayaweddingplanner.com/en/article-secret-nikah-and-human-trafficking-in-thailand-a-call-for-urgent-reform/ ;
@@ -70,9 +73,10 @@ https://www.arayaweddingplanner.com/en/civil-marriage-registration/
 
 The organisation offers two documented routes and states the difference openly: a religious-only
 nikah certificate "has no legal effect and cannot be legalised at a consulate"; a nikah certificate
-"is NOT a civil marriage registration"; the order of religious and civil steps "strongly affects
-both parties' documents"; final procedures and legal effect "are determined solely by the Thai
-District Office and, where relevant, by your embassy or destination country's authorities". If a
+"is NOT a civil marriage registration (ทะเบียนสมรส)"; the order of religious and civil steps "strongly
+affects both parties' documents"; final procedures and legal effect "are determined solely by the
+Thai District Office (Amphoe) and, where relevant, by your embassy or destination country's
+authorities, and these can change or vary by office". If a
 partner is not yet Muslim, an on-site learning course "must be completed before the nikah".
 
 Relevance to T-PHE: this is the transactional position from which the programme can make status
@@ -85,9 +89,9 @@ Sources: as in section 3.
 
 The organisation issues a private "Pre-Nikah Training Certificate" on completion of its premarital
 course, described as confirming knowledge of "living family life according to Islamic principles
-… managing marriage, finances, divorce, and handling family conflict". The site notes that whether
-an officiant or guardian requires such a certificate "depends on the judgment of the wali or
-guardian", and that the couple should check first. The stated curriculum aim includes "further
+… managing marriage, finances, divorce, and handling family conflict". The site notes that whether an
+officiant requests such a certificate is "depending on the judgment of the wali or guardian or the
+guardian's representative conducting the Nikah", and that the couple should check first. The stated curriculum aim includes "further
 reduce divorce" — an aim that T-PHE explicitly does not use as a success measure.
 
 Source: https://www.arayaweddingplanner.com/en/pre-nikah-training-certificate-ghuzur/
@@ -96,7 +100,9 @@ Source: https://www.arayaweddingplanner.com/en/pre-nikah-training-certificate-gh
 
 A "Sakinah Shariah Mediation Center" is described as a non-profit safe space founded by the
 organisation in 2024 offering free consultation on divorce and reconciliation, family conflict,
-children's religious matters, interfaith adjustment, and coordination with mosques, "within the
+children's religious and career matters, "systematic return to one's original religion",
+interfaith adjustment, coordination with mosques, and advice on becoming a mosque committee
+member, "within the
 framework of Ahlus Sunnah wal Jama'ah" across all four madhhabs, applying Thai civil, commercial
 and criminal law alongside it, with confidentiality as a stated principle.
 
@@ -112,7 +118,7 @@ A two-day course for multicultural families is described (faith practice, etique
 principles, caring for relatives of different religions). Its curriculum page carries a teachers'
 pledge that includes: "I will care for and respect everyone, without discrimination. I will not
 judge, and I will always remember that no human being has the authority to judge whether someone
-is or isn't a good Muslim."
+is or isn't a good Muslim, because that authority belongs to Him alone."
 
 Relevance to T-PHE: the pledge is the organisational expression of the "dignity and consent" and
 "epistemic humility" safeguards.
