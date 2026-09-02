@@ -31,6 +31,8 @@ Unique PubMed records admitted across categories: **187**.
 2. An independent verifier re-fetches every PMID and checks title, year, numbers and whether the annotation overstates the abstract.
 3. KEEP and FIX entries are published; FIX entries show the correction; DROP entries are listed as not admitted.
 4. The raw search and verification files are kept in `library/data/` so any entry can be audited.
+5. Verification used NCBI E-utilities only (no web fetch). WHO, USPSTF, NICE and Cochrane items that are not PubMed-indexed were checked by title or identifier search, not against the live document; their rows say so.
+6. The *Finding* and *Relevance annotation* text is AI-drafted from abstracts and verifier-checked; it is not the authors' wording and not a substitute for reading the paper.
 
 ## Reading rule
 

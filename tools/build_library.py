@@ -94,6 +94,7 @@ def main():
     for angle, (num, title, scope) in CATEGORIES.items():
         S, V = load(angle)
         if S is None:
+            print(f"notice: no search/verify pair for angle '{angle}' (category {num}); skipped")
             continue
         vmap = {}
         for vr in V.get("verified", []):
@@ -136,7 +137,8 @@ def main():
     for num, (title, scope, angle, rows, q, lim, src) in sorted(per_cat.items()):
         fn = f"{num}-{re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')}.md"
         index.append(f"| {num} | {title} | {len(rows)} | [{fn}]({fn}) |")
-        md = [f"# {num}. {title}", "", f"*Scope:* {scope}", ""]
+        md = [f"# {num}. {title}", "", f"*Scope:* {scope}", "",
+              "*Provenance of the text in this table:* the **Finding** and **Relevance annotation** columns are AI-drafted readings of the PubMed abstract, checked by an independent verifier; they are not the authors' own wording. The **Verifier** column shows the verdict and, for FIX entries, the correction that must be applied before citing.", ""]
         if src:
             md += [f"*Origin:* {src}. Citations were supplied as a reading list and then verified; annotations below are limited to what the verifier confirmed.", ""]
         if q:
@@ -182,7 +184,9 @@ def main():
               "1. A search pass records the PMID, reads the abstract, and writes the finding and a relevance annotation.",
               "2. An independent verifier re-fetches every PMID and checks title, year, numbers and whether the annotation overstates the abstract.",
               "3. KEEP and FIX entries are published; FIX entries show the correction; DROP entries are listed as not admitted.",
-              "4. The raw search and verification files are kept in `library/data/` so any entry can be audited.", "",
+              "4. The raw search and verification files are kept in `library/data/` so any entry can be audited.",
+              "5. Verification used NCBI E-utilities only (no web fetch). WHO, USPSTF, NICE and Cochrane items that are not PubMed-indexed were checked by title or identifier search, not against the live document; their rows say so.",
+              "6. The *Finding* and *Relevance annotation* text is AI-drafted from abstracts and verifier-checked; it is not the authors' wording and not a substitute for reading the paper.", "",
               "## Reading rule", "",
               "Nothing in this library is evidence that T-PHE is effective. Entries position the proposal; the abstract remains the claim ceiling."]
     # ---- unified JSON (one schema for every admitted entry) ----
@@ -219,8 +223,11 @@ def main():
             node(rid, "record", f"{e['first_author']} {e['year']}".strip(), year=e["year"], category=num)
             kg_edges.append({"source": rid, "target": "CAT:" + num, "relation": "in_category"})
             ann = (e["relevance_annotation"] or "").lower()
-            stance = "contradicts" if "contradict" in ann else ("complicates" if "complicat" in ann else ("supports" if "support" in ann else "relates_to"))
-            for p in set(re.findall(r"\bp([1-7])\b", ann)):
+            def has(word):
+                # negation-aware cue: ignore "rather than contradicting", "not contradict", "does not support", "no support"
+                return bool(re.search(r"\b" + word, ann)) and not re.search(r"(rather than|not|does not|no|without)\s+(\w+\s+)?" + word, ann)
+            stance = "contradicts" if has("contradict") else ("complicates" if has("complicat") else ("supports" if has("support") else "relates_to"))
+            for p in sorted(set(re.findall(r"\bp([1-7])\b", ann))):
                 kg_edges.append({"source": rid, "target": f"P{p}", "relation": stance})
             for sg in SAFEGUARDS:
                 if sg.lower() in ann:

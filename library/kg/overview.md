@@ -34,8 +34,8 @@ graph LR
   C01 -->|supports x1| P5
   C01 -->|supports x1| P7
   C02 -.->|complicates x2| P1
-  C02 -.->|contradicts x1| P1
-  C02 -->|supports x2| P1
+  C02 ---|relates_to x2| P1
+  C02 -->|supports x1| P1
   C02 -->|supports x3| P2
   C02 -->|supports x3| P3
   C02 -.->|complicates x1| P4
@@ -43,7 +43,8 @@ graph LR
   C02 -->|supports x3| P5
   C02 -.->|complicates x1| P6
   C02 ---|relates_to x1| P6
-  C02 -->|supports x2| P7
+  C02 ---|relates_to x1| P7
+  C02 -->|supports x1| P7
   C03 ---|relates_to x1| P1
   C03 -->|supports x2| P1
   C03 ---|relates_to x1| P2

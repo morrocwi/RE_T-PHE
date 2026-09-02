@@ -12,6 +12,11 @@ Claim ceiling: the accepted abstract. Nothing in this repository claims that T-P
 - [Abstract, verbatim web copy](abstract/ABSTRACT.md): the accepted abstract; PDF in the same folder is the document of record, SHA-256 pinned
 - [Evidence ledger](CLAIMS.md): every disputable statement graded by evidence type
 
+## Evidence library
+- [Evidence library index](library/README.md): verified PubMed and global-guidance records in twelve categories; each entry shows the verifier's verdict and corrections
+- [Unified JSON](library/library.json): every admitted entry in one schema
+- [Knowledge graph](library/kg/graph.json): records, categories, propositions P1–P7, safeguards, outcome domains and their relations
+
 ## Governance and review trail
 - [Rules for contributors](AGENTS.md): independent adversarial appraisal before every merge; medical-science register only; no participant data
 - [Appraisal reports](docs/reports/): dated independent critical appraisals with findings and resolutions

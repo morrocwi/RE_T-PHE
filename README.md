@@ -18,6 +18,7 @@ the TIMA/FIMA Scientific Convention 2026.
 | **Document of record** | [`abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf`](abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf) (camera-ready, SHA-256 in [`abstract/SHA256SUMS`](abstract/SHA256SUMS)) |
 | **Web copy** | [`abstract/ABSTRACT.md`](abstract/ABSTRACT.md) |
 | **Evidence ledger** | [`CLAIMS.md`](CLAIMS.md) — every statement in the abstract graded by the type of evidence behind it |
+| **Evidence library** | [`library/README.md`](library/README.md) — verified PubMed and global-guidance records in twelve categories, with a unified JSON and a knowledge graph; context sources separated; not a systematic review |
 | **Setting** | [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) — background on the originating organisation, each statement labelled by source status; context for readers, not part of the paper |
 | **Side data** | [`docs/side-data/family-of-peace-theory-of-change.md`](docs/side-data/family-of-peace-theory-of-change.md) — the organisation's theory of change in logic-model form; T-PHE does not adopt it |
 | **License** | [CC BY 4.0](LICENSE) |
@@ -81,6 +82,7 @@ llms.txt        machine-readable index of this repository
 abstract/       camera-ready PDF (document of record), SHA256SUMS, web copy
 CLAIMS.md       evidence ledger for every statement in the abstract
 ABOUT_ARAYA_NIKAH.md  organisational setting, source-status labelled (context, not evidence)
+library/        evidence library by category (verified records, library.json, kg/graph.json); tools/build_library.py rebuilds it
 docs/side-data/  the organisation's own theory of change, logic-model form (side data; not adopted by the paper)
 AGENTS.md       rules for any human or AI contributor (review gate, language standard)
 GOAL.md         what this research programme is trying to achieve, and how it will know

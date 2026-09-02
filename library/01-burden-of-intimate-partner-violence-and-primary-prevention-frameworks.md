@@ -2,6 +2,8 @@
 
 *Scope:* Global burden estimates, WHO RESPECT-related evidence, community and faith-based prevention trials.
 
+*Provenance of the text in this table:* the **Finding** and **Relevance annotation** columns are AI-drafted readings of the PubMed abstract, checked by an independent verifier; they are not the authors' own wording. The **Verifier** column shows the verdict and, for FIX entries, the correction that must be applied before citing.
+
 *Search queries run (PubMed E-utilities):*
 
 - `RESPECT+women+intimate+partner+violence+prevention+WHO`

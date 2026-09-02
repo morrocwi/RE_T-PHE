@@ -2,6 +2,8 @@
 
 *Scope:* Thai epidemiology and health-system evidence; national-journal sources separated as context.
 
+*Provenance of the text in this table:* the **Finding** and **Relevance annotation** columns are AI-drafted readings of the PubMed abstract, checked by an independent verifier; they are not the authors' own wording. The **Verifier** column shows the verdict and, for FIX entries, the correction that must be applied before citing.
+
 *Origin:* external draft #3 received 2026-09-02 + addendum (external draft #7, 2026-09-02 21:37). Citations were supplied as a reading list and then verified; annotations below are limited to what the verifier confirmed.
 
 | ID | Reference | Design / evidence level | Finding as supported by the abstract | Relevance annotation | Verifier |

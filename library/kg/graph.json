@@ -1950,12 +1950,12 @@
   },
   {
    "source": "PMID:24294929",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
    "source": "PMID:24294929",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -1980,12 +1980,12 @@
   },
   {
    "source": "PMID:30489129",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
    "source": "PMID:30489129",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -2011,12 +2011,12 @@
   {
    "source": "PMID:30725473",
    "target": "P1",
-   "relation": "supports"
+   "relation": "relates_to"
   },
   {
    "source": "PMID:30725473",
    "target": "P7",
-   "relation": "supports"
+   "relation": "relates_to"
   },
   {
    "source": "PMID:25938709",
@@ -2101,7 +2101,7 @@
   {
    "source": "PMID:39757299",
    "target": "P1",
-   "relation": "contradicts"
+   "relation": "relates_to"
   },
   {
    "source": "PMID:39757299",
@@ -2265,12 +2265,12 @@
   },
   {
    "source": "PMID:26200817",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
    "source": "PMID:26200817",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -2350,12 +2350,12 @@
   },
   {
    "source": "PMID:41151831",
-   "target": "P4",
+   "target": "P2",
    "relation": "supports"
   },
   {
    "source": "PMID:41151831",
-   "target": "P2",
+   "target": "P4",
    "relation": "supports"
   },
   {
@@ -2375,12 +2375,12 @@
   },
   {
    "source": "PMID:32460786",
-   "target": "P5",
+   "target": "P3",
    "relation": "supports"
   },
   {
    "source": "PMID:32460786",
-   "target": "P3",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -2525,12 +2525,12 @@
   },
   {
    "source": "REF:",
-   "target": "P5",
+   "target": "P2",
    "relation": "relates_to"
   },
   {
    "source": "REF:",
-   "target": "P2",
+   "target": "P5",
    "relation": "relates_to"
   },
   {
@@ -2790,12 +2790,12 @@
   },
   {
    "source": "PMID:24053261",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
    "source": "PMID:24053261",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -3175,12 +3175,12 @@
   },
   {
    "source": "PMID:34770188",
-   "target": "P4",
+   "target": "P3",
    "relation": "supports"
   },
   {
    "source": "PMID:34770188",
-   "target": "P3",
+   "target": "P4",
    "relation": "supports"
   },
   {
@@ -3245,12 +3245,12 @@
   },
   {
    "source": "PMID:40116416",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
    "source": "PMID:40116416",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -3395,12 +3395,12 @@
   },
   {
    "source": "PMID:39425490",
-   "target": "P5",
+   "target": "P3",
    "relation": "supports"
   },
   {
    "source": "PMID:39425490",
-   "target": "P3",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -3550,12 +3550,12 @@
   },
   {
    "source": "PMID:34780506",
-   "target": "P6",
+   "target": "P3",
    "relation": "supports"
   },
   {
    "source": "PMID:34780506",
-   "target": "P3",
+   "target": "P6",
    "relation": "supports"
   },
   {

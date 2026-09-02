@@ -184,7 +184,7 @@
       "population_setting": "4,009 females aged 16-29 across 25 family planning clinics (17 clusters), USA",
       "key_finding": "The universal education/counseling intervention (ARCHES) did NOT significantly reduce reproductive coercion (ARR 1.50, 95% CI 0.95-2.35) or partner violence (ARR 1.07, 95% CI 0.84-1.38) at 1-year follow-up, though it improved secondary outcomes such as recognition and self-efficacy.",
       "relevance_to_tphe": "Directly instructive for T-PHE's FAILURE CRITERION: a rigorously trialed, well-known couple/clinic-based education-and-counseling intervention improved intermediate awareness/self-efficacy measures without producing a statistically significant reduction in the actual coercion/violence outcome — the exact 'success on process, silent on the core outcome' pattern T-PHE's failure criterion is designed to flag. This complicates any optimistic reading of P1/P4 by showing education-plus-counseling alone is an insufficient governance mechanism in a comparable (though non-Muslim, non-Thai) context.",
-      "evidence_level": "Th_coqc-equivalent for medical evidence: cluster RCT (strongest design in this set), null primary-outcome result",
+      "evidence_level": "cluster RCT (strongest design in this set), null primary-outcome result",
       "abstract_read": true
     },
     {

@@ -2,6 +2,8 @@
 
 *Scope:* Preconception care, premarital genetic screening, coercive-control and reproductive-coercion reviews, decision aids.
 
+*Provenance of the text in this table:* the **Finding** and **Relevance annotation** columns are AI-drafted readings of the PubMed abstract, checked by an independent verifier; they are not the authors' own wording. The **Verifier** column shows the verdict and, for FIX entries, the correction that must be applied before citing.
+
 *Origin:* external AI draft received 2026-09-02 21:18. Citations were supplied as a reading list and then verified; annotations below are limited to what the verifier confirmed.
 
 | ID | Reference | Design / evidence level | Finding as supported by the abstract | Relevance annotation | Verifier |
