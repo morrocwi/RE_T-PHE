@@ -1,0 +1,19 @@
+name: verify
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - run: bash tools/verify.sh
+      - name: no private material tracked
+        run: |
+          if git ls-files | grep -E '^private/' | grep -qv '^private/README.md$'; then
+            echo "tracked file inside private/"; exit 1; fi
+          if git grep -nE '\+66 ?[0-9]{2} ?[0-9]{3} ?[0-9]{4}|/home/[a-z]+/' -- ':!abstract/*.pdf' ':!.github/workflows/verify.yml'; then
+            echo "private detail found in tracked text"; exit 1; fi
+          echo "OK: no private material tracked"

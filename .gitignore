@@ -1,0 +1,25 @@
+# Working area: data, strategy, drafts, correspondence — never published.
+private/*
+!private/README.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
+
+# LaTeX / build artefacts (if a manuscript is added later)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the abstract as below."
+title: "Before Family Risk Becomes a Health Crisis: Trustworthy Premarital Health Education as Primary Prevention Infrastructure"
+type: generic
+authors:
+  - family-names: Lahtee
+    given-names: Yaoharee
+    orcid: "https://orcid.org/0009-0005-3861-0626"
+    affiliation: "ARAYA Nikah Social Enterprise Co., Ltd., Bangkok, Thailand; Independent Researcher, Thailand"
+date-released: 2026-09-02
+year: 2026
+url: "https://github.com/morrocwi/RE_T-PHE"
+repository-code: "https://github.com/morrocwi/RE_T-PHE"
+license: CC-BY-4.0
+keywords:
+  - premarital health education
+  - health promotion
+  - intimate-partner harm
+  - primary prevention
+  - safeguarding
+abstract: >-
+  Conference abstract (TIMA/FIMA Scientific Convention 2026) proposing Trustworthy Premarital
+  Health Education (T-PHE) as primary prevention infrastructure. Practitioner-led, document-informed
+  conceptual synthesis; programme theory with six safeguards, a pre-specified failure criterion and
+  outcome domains for prospective testing. No effectiveness testing undertaken.
