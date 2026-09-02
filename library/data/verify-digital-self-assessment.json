@@ -1,0 +1,226 @@
+{
+  "angle": "digital-self-assessment-ipv",
+  "verified": [
+    {
+      "pmid": "26231225",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Protocol paper. Abstract: 'Primary self-reported outcomes are: self-efficacy ... immediately after completion, 6 and 12 months post-baseline; and depressive symptoms ... 6 and 12 months post-baseline.' Design/self-directed description matches. No outcome claims made, so record correctly stays at protocol-level evidence."
+    },
+    {
+      "pmid": "31155223",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Numbers verified verbatim. Abstract: 'Mean self-efficacy at 6 months and 12 months was lower for participants in the intervention group than for participants in the control group ... (6 months: 27·5 [SD 5·1] vs 28·1 [4·4], imputed mean difference 1·3 [95% CI 0·3 to 2·3]; 12 months: 27·8 [SD 5·4] vs 29·0 [5·0], imputed mean difference 1·6 [95% CI 0·5 to 2·7])' and '179 (79%) ... in the intervention group and 156 (80%) ... in the control group completed 12-month follow-up' and 'no difference between groups in depressive symptoms at 6 months or 12 months'. Direction (lower self-efficacy in intervention arm, i.e. adverse-direction/null) correctly stated. Relevance claim correctly frames this as complicating (not disproving) the assumption, and does not overstate Australia-trial results as generalizable to a Thai premarital self-check."
+    },
+    {
+      "pmid": "26362841",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Theoretical/conceptual paper, correctly labeled non-empirical. Abstract: 'the Internet as a method of intervention delivery for DV might overcome many of the barriers present in health care settings. Using the PRM as a framework for an online DV intervention may help women on a pathway to safety and well-being for themselves and their children.' Key finding is a fair paraphrase; relevance claim is appropriately framed as theoretical rationale, not an efficacy claim."
+    },
+    {
+      "pmid": "28351830",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract is generic and does NOT confirm the specific risk items listed in key_finding ('verifying identity/safety online, risk of partner discovery, attrition'). Actual abstract text: 'we outline some of the methodological and ethical challenges encountered during recruitment, retention, and evaluation ... randomized controlled trials can be safely conducted via the Web in this sensitive area.' Correction: soften key_finding to 'Reports on methodological and ethical challenges encountered during recruitment, retention, and evaluation of a web-based DV trial, and concludes such trials can be conducted safely with careful design' and drop the specific parenthetical examples (identity verification, partner discovery) since they are not stated in the abstract itself and may only appear in the full text."
+    },
+    {
+      "pmid": "26350482",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Three hundred female college students experiencing abuse and three hundred friends ... will be recruited in Maryland and Oregon' matches population_setting. App description (relationship health, safety priorities, severity of violence inputs -> personalized safety plan) matches key_finding. Protocol paper, no outcome overclaim."
+    },
+    {
+      "pmid": "33576291",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Reproductive-coercion reduction is correctly reported as significant. But abstract states the suicide-risk finding's own p-value as NOT significant: 'Reduction in RC and improvement in suicide risk were significantly greater in the myPlan group relative to controls (p = .019 and p = .46, respectively).' p=.46 is far above the conventional 0.05 threshold, so despite the abstract's own sentence using the word 'significantly' for both outcomes, the reported p-value for suicide risk contradicts that word. Correction: key_finding should read '...reduction in reproductive coercion was significantly greater in the myPlan group than controls (p=.019); the abstract also reports a greater improvement in suicide risk in the myPlan group, but its own stated p-value (p=.46) does not support significance for that outcome - flag as an internal inconsistency in the source abstract, not a verified significant suicide-risk effect.' relevance_to_tphe should not cite suicide-risk as an added confirmed benefit; revise to cite only the reproductive-coercion effect as significant."
+    },
+    {
+      "pmid": "37259087",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "89.2%/22.7% figures verified exactly. But abstract does not say decisional-conflict improvement was 'significant' - it only uses 'significantly' for the confidence-to-talk-about-own-relationship outcome: 'Intervention participants had greater improvements in decisional conflict ... and decisional preparedness immediately after their first use of myPlan, and a significantly greater increase in confidence to talk with someone about their own relationship concerns at 12 months.' Correction: change key_finding's 'myPlan-assigned friends showed significantly greater improvement in decisional conflict/understanding' to 'showed greater improvement in decisional conflict/understanding and decisional preparedness (not stated as statistically significant in the abstract), and a significantly greater increase in confidence to talk about their own relationship concerns at 12 months.'"
+    },
+    {
+      "pmid": "39066749",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Minor title mismatch: search file has 'Adolescents Aged 15-17 Years' (plural); PubMed ArticleTitle is 'Adolescent Aged 15-17 Years' (singular, likely a typo in the published title itself). Correction: match PubMed's exact title text, or note the discrepancy is the journal's own apparent typo. Key finding fully supported: abstract confirms significant increase in safety-behavior use/helpfulness, significant reduction in perpetration of physical/sexual violence and suicide behaviors, and non-significant between-group difference in victimization/depression."
+    },
+    {
+      "pmid": "32471469",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 'Formative phase revealed high feasibility and acceptability of a technology-based intervention for safety planning in this LMIC setting. This phase generated essential refinements ... including increased visualization of messaging, and implementation via community health volunteers (CHVs).' Relevance claim correctly flags that this required facilitated/CHV-supported delivery, appropriately complicating (not overclaiming) transfer to a pure self-administered Layer 0 model."
+    },
+    {
+      "pmid": "32675229",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "All numbers verified exactly (n=352, 177/175, 88.6% retention, p=0.001, p=0.004, p<0.01 x2). However the abstract states this intervention was 'administrated by trained lay professionals' (facilitated, not self-administered) - this fact is omitted from both the design field and the relevance_to_tphe claim. Relevance overstates transfer: T-PHE Layer 0 is an anonymous, unfacilitated self-check, while myPlan Kenya's positive safety/lethality results come from a facilitator-led delivery model. Correction: add to design/key_finding that delivery was facilitator-administered, and revise relevance_to_tphe to note this weakens (does not eliminate) direct relevance to an anonymous, self-only Layer 0 design - it evidences the facilitated variant of this tool class, not the self-directed one."
+    },
+    {
+      "pmid": "28327116",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract verbatim: 'fewer than 1 in 5 Canadian women access safety planning through domestic violence services.' n=450 matches. Protocol paper, no outcome overclaim."
+    },
+    {
+      "pmid": "32098633",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms both arms improved significantly on depression (p<.001) and PTSD (p<.001) and all secondary outcomes, with no significant between-arm difference, and 'low risk of harm' in both groups. n=462 matches. Relevance claim (tailoring not required for benefit) is accurately caveated."
+    },
+    {
+      "pmid": "34931998",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms user-centered/human-centered design of a suite of 3 app-based interventions and that they 'allow women to control access to these resources.' Correctly labeled as design/development report, not outcome data."
+    },
+    {
+      "pmid": "42196762",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "The Thailand paper - checked with extra strictness given its centrality to T-PHE. All figures verified exactly: usability M=4.93, safety features M=4.73, content quality M=4.82, and perfect M=5.00 scores for cultural appropriateness/language clarity/ethical considerations/overall evaluation. n=30 multidisciplinary experts, 1-month use, confirmed. Abstract itself flags the gap the record notes: 'Further research involving the target population is needed to evaluate its effectiveness and long-term impact on help-seeking behavior and IPV-related outcomes.' Design is correctly described as expert heuristic evaluation, not an effectiveness trial - relevance claim does not overclaim beyond this."
+    },
+    {
+      "pmid": "42560214",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=18, '9 of 18 participants reported IPV-related experiences during the previous 24 months', and '13 of 17 respondents expressed interest in a confidential, military-relevant IPV prevention or safety-support app', and explicitly: 'These findings should be interpreted as descriptive and hypothesis-generating.' Relevance claim correctly cautions against overclaiming from this small convenience sample."
+    },
+    {
+      "pmid": "19487706",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Prevalence (22%, 95%CI 17-27%) and discussion-opportunity RR (1.4, CI 1.1-1.9, significant) verified exactly and support the relevance claim. But the 'increased detection of IPV' clause cites 'adjusted relative risk, 2.0 [CI, 0.9 to 4.1]' - this 95% CI crosses the null value of 1, so it is NOT statistically significant, even though both the source abstract and this record's key_finding present it as a confirmed increase. Correction: key_finding should note the detection-increase RR of 2.0 did not reach statistical significance (95% CI 0.9-4.1 spans 1); only the discussion-opportunity increase (RR 1.4, CI 1.1-1.9) is a confirmed significant effect."
+    },
+    {
+      "pmid": "39088215",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "All numbers verified exactly: screening rate 45.2% (10,268/22,730) to 65.3% (22,303/34,157), RR 1.46 (95%CI 1.44-1.49, p<.001); detection 1.5% (130/8895) vs 0.1% (9/17,433). 1.5/0.1=15, so the '15-fold higher detection' claim in relevance_to_tphe is arithmetically correct. Note for precision: this was a confidential EHR-linked computer screen tied to the patient's medical chart, not a fully anonymous unlinked self-check - relevance wording ('anonymous self-held channel') slightly blurs 'confidential' with 'anonymous'; consider tightening that word choice, though the core comparative-detection claim itself is fully supported."
+    },
+    {
+      "pmid": "38290753",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "All diagnostic statistics verified exactly: 16-item Kenya-DA weighted sensitivity 66.67%, specificity 77.05%, C-statistic 0.78; original 20-item DA OR=1.26 (95%CI 1.12-1.41, P<.001). Relevance claim correctly frames this as methodological support for local validation, not an efficacy transfer claim."
+    },
+    {
+      "pmid": "32894115",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 25 included studies, effectiveness 'mainly in screening, disclosure, and prevention', and explicitly: 'Questions addressing safety, equity, and the unintended consequences of the use of ICT in IPV programming are virtually non-existent' - matches the key_finding's heterogeneity/unresolved-questions framing."
+    },
+    {
+      "pmid": "31742475",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 133 screened / 31 included, and 'Computer-based screening with or without integrated education was the most common mHealth approach (n = 8, 26%), followed by safety decision aids (n = 7, 23%).' Relevance claim is a positioning claim (situates Layer 0 within a precedented intervention class), not an efficacy-transfer claim, so it is reasonable."
+    }
+  ],
+  "overall_note": "16/20 KEEP, 4/20 FIX (no outright DROP - all 20 records are genuine, on-topic PubMed records with correct titles/years and abstracts that substantively relate to their stated key_finding). Two FIX items are the most consequential for T-PHE's honesty discipline: PMID 33576291's suicide-risk claim is labeled 'significantly greater' in the source abstract despite the abstract's own stated p=.46 (not significant) - the search record inherited this internal inconsistency from the source abstract without flagging it, and should not be cited as a confirmed suicide-risk benefit. PMID 19487706's IPV-detection RR (2.0, 95% CI 0.9-4.1) also crosses the null and should not be cited as a confirmed detection increase, only the discussion-opportunity RR (1.4, CI 1.1-1.9) is significant. PMID 32675229's relevance claim needs a facilitation caveat: myPlan Kenya's strongest safety/lethality results come from a lay-professional-administered delivery model, not a purely self-administered one, so it evidences the facilitated variant of this intervention class rather than directly supporting T-PHE's anonymous, unfacilitated Layer 0 design. PMID 28351830's key_finding cites specific ethical-challenge examples (identity verification, partner discovery) not present in its own (thin, unstructured) abstract - soften to what the abstract itself states. No record was found combining a premarital population with a scored anonymous self-check (as already flagged by the search file's own gaps_noted), and no record reports a quantified adverse-event rate from an anonymous online self-check - both gaps stand confirmed after this verification pass. All relevance_to_tphe claims correctly avoid claiming that a foreign-population decision-aid trial 'supports' or predicts effectiveness of T-PHE's own tool - they consistently use positioning/design-precedent language ('supports the design pattern', 'positions', 'complicates the assumption') rather than asserting T-PHE will work because these trials worked, with the two exceptions (33576291, 32675229) noted above where the language slides from positioning into unqualified support. Corrections written back into the search records on 2026-09-03; notes retained for audit."
+}

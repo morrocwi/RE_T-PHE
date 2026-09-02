@@ -18,7 +18,7 @@ the TIMA/FIMA Scientific Convention 2026.
 | **Document of record** | [`abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf`](abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf) (camera-ready, SHA-256 in [`abstract/SHA256SUMS`](abstract/SHA256SUMS)) |
 | **Web copy** | [`abstract/ABSTRACT.md`](abstract/ABSTRACT.md) |
 | **Evidence ledger** | [`CLAIMS.md`](CLAIMS.md) — every statement in the abstract graded by the type of evidence behind it |
-| **Evidence library** | [`library/README.md`](library/README.md) — verified PubMed and global-guidance records in twelve categories, with a unified JSON and a knowledge graph; context sources separated; not a systematic review |
+| **Evidence library** | [`library/README.md`](library/README.md) — verified PubMed and global-guidance records by category (see the index for the current count), with a unified JSON and a knowledge graph; context sources separated; not a systematic review |
 | **Setting** | [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) — background on the originating organisation, each statement labelled by source status; context for readers, not part of the paper |
 | **Side data** | [`docs/side-data/family-of-peace-theory-of-change.md`](docs/side-data/family-of-peace-theory-of-change.md) — the organisation's theory of change in logic-model form; T-PHE does not adopt it |
 | **License** | [CC BY 4.0](LICENSE) |

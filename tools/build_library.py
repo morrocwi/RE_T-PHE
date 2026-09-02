@@ -48,6 +48,16 @@ CATEGORIES = OrderedDict([
         "Premarital and relationship education meta-analyses; reproductive-health literacy trials; marital quality and health associations.")),
     ("external-culture", ("12", "Culture as a health determinant and intercultural coexistence",
         "Lancet commissions and series on culture, racism and migration; cultural-competence training reviews; culturally adapted interventions; language concordance; social cohesion; group family programmes in diverse populations.")),
+    ("digital-self-assessment", ("13", "Digital self-assessment and safety decision aids for intimate-partner violence",
+        "Web, app and online self-assessment or decision-aid trials used by the person alone; anonymous self-screening; safety of technology-delivered tools.")),
+    ("peer-online-support", ("14", "Peer online support, moderated communities and digital safe spaces",
+        "Online peer support for relationship safety and young people's mental health; moderation; technology-facilitated abuse and surveillance risks.")),
+    ("assessor-checkin", ("15", "Assessor independence, risk assessment and check-in models",
+        "Conflict of interest and independence in safeguarding decisions; structured IPV risk assessment; warm handoff, navigation, brief-contact and single-session models.")),
+    ("manipulation-literacy", ("16", "Recognition of coercive control and psychological manipulation; inoculation",
+        "Psychological inoculation and prebunking trials; recognition of coercive control, gaslighting and emotional abuse; dating-violence prevention with recognition outcomes; labelling abuse and help-seeking.")),
+    ("humility-compassion", ("17", "Humility, compassion, self-regulation and responsibility: psychological and health evidence",
+        "Intellectual and relational humility, cultural humility, self-compassion and empathy, self-regulation/conscientiousness, trustworthiness; Islamic psychology and religiosity in relation to relationship safety and health.")),
 ])
 
 PROPOSITIONS = [
@@ -62,7 +72,11 @@ PROPOSITIONS = [
 SAFEGUARDS = ["epistemic humility", "cultural intelligibility", "affected-person visibility", "dignity and consent",
               "bounded authority and referral", "repairability"]
 OUTCOME_DOMAINS = ["decision control", "coercion recognition", "reproductive coercion", "help-seeking", "referral",
-                   "mental-health literacy", "reproductive-health literacy", "harms", "stop rule", "private channel"]
+                   "mental-health literacy", "reproductive-health literacy", "harms", "stop rule", "private channel",
+                   "self-assessment", "decision aid", "peer support", "online community", "technology-facilitated abuse",
+                   "independent assessor", "conflict of interest", "check-in", "warm handoff", "single-session",
+                   "inoculation", "prebunking", "gaslighting", "emotional abuse", "recognition of abuse", "dating violence",
+                   "humility", "self-compassion", "empathy", "self-regulation", "conscientiousness", "trustworthiness", "religiosity"]
 
 VERDICT_ORDER = {"KEEP": 0, "FIX": 1, "CONTEXT-ONLY": 2, "DROP": 3}
 
@@ -163,7 +177,12 @@ def main():
             rel = rec.get("relevance_to_tphe", "") or (vr or {}).get("relevance_caution", "")
             verdict = (vr or {}).get("verdict", "")
             note = (vr or {}).get("note", "")
-            vcell = f"**{verdict}**" + (f" — {note}" if verdict == "FIX" and note else "")
+            if verdict == "FIX" and note:
+                # the verifier's correction leads; the drafted text follows, marked, so the wrong reading is never shown first
+                finding = f"**Read with correction:** {note} — *as drafted:* {finding}"
+                if rel:
+                    rel = f"*as drafted, subject to the correction:* {rel}"
+            vcell = f"**{verdict}**"
             if dup:
                 vcell += f" (also listed in {dup})"
             cell = lambda t: str(t).replace("|", "\\|").replace("\n", " ")
@@ -215,8 +234,8 @@ def main():
                  "journal": (vr or {}).get("journal") or rec.get("journal", ""),
                  "design": rec.get("design", ""), "evidence_level": rec.get("evidence_level", ""),
                  "population_setting": rec.get("population_setting", ""),
-                 "finding": rec.get("key_finding") or rec.get("claim", ""),
-                 "relevance_annotation": rec.get("relevance_to_tphe", ""),
+                 "finding": (f"[CORRECTION: {(vr or {}).get('note','')}] " if (vr or {}).get("verdict") == "FIX" and (vr or {}).get("note") else "") + (rec.get("key_finding") or rec.get("claim", "")),
+                 "relevance_annotation": (("[read with the correction above] ") if (vr or {}).get("verdict") == "FIX" and (vr or {}).get("note") else "") + rec.get("relevance_to_tphe", ""),
                  "verifier_verdict": (vr or {}).get("verdict", ""), "verifier_note": (vr or {}).get("note", ""),
                  "also_in_category": dup, "abstract_read": rec.get("abstract_read", None)}
             unified["entries"].append(e)

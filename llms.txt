@@ -13,7 +13,7 @@ Claim ceiling: the accepted abstract. Nothing in this repository claims that T-P
 - [Evidence ledger](CLAIMS.md): every disputable statement graded by evidence type
 
 ## Evidence library
-- [Evidence library index](library/README.md): verified PubMed and global-guidance records in twelve categories; each entry shows the verifier's verdict and corrections
+- [Evidence library index](library/README.md): verified PubMed and global-guidance records by category (see the index for the current count); each entry shows the verifier's verdict and corrections
 - [Unified JSON](library/library.json): every admitted entry in one schema
 - [Knowledge graph](library/kg/graph.json): records, categories, propositions P1–P7, safeguards, outcome domains and their relations
 

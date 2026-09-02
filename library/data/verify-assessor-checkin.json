@@ -1,0 +1,270 @@
+{
+  "angle": "assessor-independence-checkin-models",
+  "verified": [
+    {
+      "pmid": "26287054",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'Transplant programs must now have an advocate or advocate team who is separate from the recipient healthcare team to provide objective support for the donor, without regard for the recipient, and avoid any perception of a conflict of interest between the donor and recipient.' Key finding is accurate. But this is a transplant-medicine record; per checker instructions such records are ANALOGIES and must never be phrased as 'supports'. relevance_to_tphe currently opens with 'supports R4 no-stake assessor' — FIX by rewording to 'analogous to R4 no-stake assessor (transplant-medicine analogy, not domain-matched)'."
+    },
+    {
+      "pmid": "26293351",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract confirms CMS/UNOS-mandated ILDA evaluation, separated from transplant candidate's team, covering informed consent and psychosocial evaluation, e.g. 'Two areas in which had significant changes included the psychosocial and the independent living donor advocate (ILDA) evaluation.' Key finding accurate ('voluntariness of donation' is a fair paraphrase of the informed-consent/education content). Same issue as 26287054: transplant-medicine analogy currently phrased as 'supports R4' — FIX to explicit analogy language."
+    },
+    {
+      "pmid": "29708521",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'We propose a Domino Donor Advocate-based on the concept of the independent living donor advocate... We discuss the need for 2 distinct consent processes separated in time to ensure that potential domino donors... give a truly voluntary consent.' Key finding accurate. Transplant-medicine analogy again phrased as 'supports R4 no-stake assessor and P5 referral timing' — FIX to analogy language per instructions."
+    },
+    {
+      "pmid": "26254909",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'The facial plastic surgeon potentially has a conflict of interest when confronted with the patients requesting surgery, due to the personal gain attainable by agreeing to perform surgery.' Key finding accurate. relevance_to_tphe already self-identifies this as 'an unrelated clinical field' (good) but still opens with the word 'supports' — FIX for consistency: reword to 'analogous to R4 no-stake assessor (unrelated-field COI analogy)'."
+    },
+    {
+      "pmid": "11649348",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract confirms concurrent/sequential dual relationships and licensing-board attention. One caveat: the key_finding's framing 'combining roles such as evaluator and service-provider is a subtype' is the search-author's own inference, not a phrase in the abstract itself — abstract doesn't name 'evaluator/service-provider' explicitly. Not a fabrication (it is a fair generic reading of 'dual relationship'), but should be marked as inference. relevance_to_tphe uses 'supports R4' for a psychotherapy-ethics analogy — FIX to analogy phrasing, and flag the subtype claim as interpretive."
+    },
+    {
+      "pmid": "15555031",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'Ethical codes of practice of mental health professional bodies provide little guidance regarding non-sexual dual relationships' and 'Dual relationships are common in rural mental health practice.' Key finding accurate. relevance_to_tphe already uses 'complicates R4' (not 'supports') and explicitly frames this as a precautionary/non-outcome-trial-backed design choice — correctly hedged, no fix needed."
+    },
+    {
+      "pmid": "23262817",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'ODARA has highest average weighted AUC (=.666, k=5) followed... SARA; AUC=.628... DA; AUC=.618... DVSI; AUC=.582... K-SID; AUC=.537... Of the 20 measures of predictive validity included in this analysis, the risk assessment was administered correctly in nine (45%).' All numbers in key_finding match exactly, including the 45% figure the checker was told to scrutinize. IPV domain, in-scope, relevance to (b) is directly evidentiary (not analogical)."
+    },
+    {
+      "pmid": "25315482",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'the area under the curve for the receiver operating characteristic curve analysis was strongly supportive of predictive effects of the TIPVDA... the TIPVDA had stronger predictive power for high dangerousness.' Matches key_finding; no numeric AUC value is claimed in either the abstract or the record, so nothing to overclaim. IPV domain, directly relevant."
+    },
+    {
+      "pmid": "28921610",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'The original DA-5 was found to be accurate (AUC = .68), equally accurate with the strangulation item... and slightly more accurate (but not a statistically significant difference)... A protocol for immediate referral and examination for further injury from strangulation should be adopted for IPV survivors at high risk.' AUC=.68 and the null strangulation-addition result and referral recommendation all match exactly."
+    },
+    {
+      "pmid": "33280504",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'The updated version of the DA predicts near-fatal violence at 7-8 months follow-up significantly better than the original DA' and 'The DA and DA-I are intended to be used as a collaboration between IPV survivors and advocates as tools for education and intervention.' Both match. However the key_finding's closing clause 'not a party with a stake in the relationship continuing' is NOT stated anywhere in the abstract — it is an added interpretive gloss. FIX: delete or clearly mark as inference, keep only what the abstract supports (collaborative survivor-advocate use)."
+    },
+    {
+      "pmid": "25383928",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Actual PubMed title: '[The Ontario Domestic Assault Risk Assessment (ODARA) - Validity und authorised German translation of an intimate partner violence screening tool].' Record has 'Validity and authorised German translation' — wrong conjunction ('and' vs the German 'und', which PubMed retains in the bilingual title) and drops the subtitle 'of an intimate partner violence screening tool'. FIX: correct the title string. Key finding is accurate: abstract quote 'provide a brief risk assessment tool which can be scored on the basis of only few and easily collectable information... wider range of practitioners (e.g., police officers, hospital and victim services' staff).'"
+    },
+    {
+      "pmid": "36710516",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'it is unclear whether the factors ISR triage team members select are the basis for their overall risk categorization... and if those factors are risk factors (i.e., empirical predictors of outcomes).' n=842 matches. relevance_to_tphe correctly uses 'complicates' framing, not 'supports'."
+    },
+    {
+      "pmid": "22471386",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'SARA risk assessments had significant predictive validity with respect to risk management recommendations made by police, as well as with recidivism... High levels of intervention were associated with decreased recidivism in high risk cases, but with increased recidivism in low risk cases.' Exact match, including the mediation direction."
+    },
+    {
+      "pmid": "38512165",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "n=190 matches; abstract confirms Indigenous individuals 'were assessed as demonstrating more risk factors and were more likely to be rated as high risk... more likely to recidivate.' relevance_to_tphe correctly uses 'complicates R4/P5', flags that independence alone doesn't remove other biases."
+    },
+    {
+      "pmid": "34109884",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract quote: 'CHW warm handoff rates increased two-fold over the intervention period.' Matches key_finding's 'doubled' framing exactly."
+    },
+    {
+      "pmid": "36704207",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'Emergency staff screened 58.5% of eligible patients for social risk... Among interviewed patients, 57.1% recalled being screened, but only 24.5% recalled receiving resource guides... Of 13 observed discharge interactions, clinical staff only discussed guides with 2 patients... Staff expressed preference for warm handoff to social services.' The 58.5%, 24.5%, 2/13 and staff-preference figures are all correct, but the 24.5% figure is specifically among the interviewed THRIVE+ subsample, not literally 'of those screening positive' as a whole-cohort denominator. FIX wording to 'of interviewed screen-positive patients, only 24.5%...' for precision."
+    },
+    {
+      "pmid": "38083861",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'IRR = 0.79... at 6 months (95% CI 0.61-1.01), 0.78... at 12 months (95% CI 0.64-0.95)... 0.78 at 24 months (95% CI 0.66-0.91)... no difference between the SMS and TAU groups in the time to first repeat self-harm event over 24 months (HR = 0.96, 95% CI 0.72-1.26)... The 22% reduction in repetition of hospital-treated self-harm was clinically meaningful.' All numbers exact match. But this is a self-harm/suicide-prevention RCT; per instructions such records are ANALOGIES to T-PHE's check-in and must not be phrased as 'supports (c)'. FIX relevance_to_tphe wording to explicit analogy framing (T-PHE claims no effectiveness, so citing an effect-size RCT as 'support' risks the check-in being read as validated)."
+    },
+    {
+      "pmid": "37321352",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Record correctly notes this is protocol-only with no outcome data — abstract confirms it is a trial protocol ('This protocol for the... SPARC Trial aims to determine...'). Good practice already flags 'cannot itself be cited for effect size.' Still opens with 'supports (c) as design template' for a suicide-prevention record — FIX to 'analogous design template' per instructions, even though the caveat is otherwise adequate."
+    },
+    {
+      "pmid": "36963515",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote (null result, omitted by the record): 'There were no significant differences in loneliness at 6 months by treatment arm in either stratum... Including an initial phone call added operational complexity without significantly improving the effectiveness of a Caring Contacts program.' The record's key_finding describes only what was TESTED ('tested whether check-ins from an unknown sender are as effective as from someone the recipient met') but omits that the trial found NO significant difference — this is exactly the kind of null-result the checker was told to be strict about. FIX: state the null finding explicitly. Also a suicide-prevention-adjacent record (Caring Contacts is a suicide-prevention modality) currently phrased as 'supports (c)' — FIX to analogy framing as well."
+    },
+    {
+      "pmid": "35855500",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract quote: 'brief contact and follow-up interventions appear to have more robust effects on reduction of repeat suicidal behavior, including attempts; such approaches may have especial significance in emergency settings because of their brevity.' Key finding accurate. Suicide-prevention domain record phrased as 'supports (c)' — FIX to analogy framing per instructions."
+    },
+    {
+      "pmid": "41203119",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Actual PubMed title: 'Care utilization and clinical outcomes among high-risk patients enrolled in a postpartum navigation program: a retrospective matched cohort study.' Record drops the subtitle 'a retrospective matched cohort study' — minor, FIX title to match exactly. Key finding numbers confirmed verbatim: '80.7% of participants attended the 2-week check-in, and 48.4% completed the full program' and improvements in hypertension monitoring, breastfeeding, mental-health screening vs matched historical cohort all match. Year 2026 is the journal issue year (article-in-press dated 2025), consistent with how other records' years were assigned; not itself a mismatch."
+    },
+    {
+      "pmid": "37191932",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Actual PubMed title: 'Implementation Fidelity and Theory-Informed Dose Effects of a Teen Pregnancy Prevention Program for Native American Youth.' Record says 'for Native Youth' (drops 'American') — FIX title. Key finding numbers confirmed exactly: fidelity 4.40-4.82/5, 96.6% of planned activities completed, average 7/9 lessons, 'no association between theoretical construct dosage and outcomes of interest.' This is a teen-pregnancy-prevention-programme record (one of the three domains the instructions single out); relevance_to_tphe already uses 'complicates (d)' rather than 'supports', so the analogy framing itself is acceptable — only the title needs correction."
+    },
+    {
+      "pmid": "31909412",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Actual PubMed title: 'Adapting the Diabetes Prevention Program for low- and middle-income countries: preliminary implementation findings from lifestyle Africa.' Record drops 'from lifestyle Africa' — FIX title. Key finding numbers confirmed exactly: '10/11 intervention groups completed all 17 core sessions. Average attendance across all sessions and groups was 54%... at least 75% of sessions... was 35%... a mean of 84% of all required procedures were completed.' relevance_to_tphe correctly uses 'complicates (d)'."
+    },
+    {
+      "pmid": "29185783",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Actual PubMed title: 'Comparison of recidivism rates for a teenage trauma prevention program after the addition of high-fidelity patient simulation.' Record drops the word 'patient' — FIX title. Key finding numbers confirmed exactly: 'no significant difference was seen with or without simulation', 'recidivism rate was 55% within 6 years. At 6 months it was 8.4%, at 1 year it was 20%', 'decrease speed (30%)'. n=124 ('One hundred twenty-four students') matches. relevance_to_tphe correctly frames this as contradicting a naive fidelity=outcome assumption, not as direct support."
+    }
+  ],
+  "overall_note": "All 24 PMIDs resolve and all key numeric findings (ODARA/SARA/DA/DA-5 AUCs and the 45% correct-administration figure, the SMS-SOS IRRs/HR and 22% reduction, the postpartum-navigation 80.7%/48.4% completion figures, the RCL/Lifestyle-Africa/teenage-trauma-simulation fidelity and completion percentages) check out verbatim against the PubMed abstracts — no fabricated statistics found. Two classes of problem recur: (1) five title strings have minor but real mismatches vs. the PubMed record (25383928, 41203119, 37191932, 31909412, 29185783) — all fixable by copying the exact PubMed ArticleTitle; (2) analogical-domain records (transplant medicine: 26287054, 26293351, 29708521; unrelated clinical-ethics fields: 26254909, 11649348; suicide/self-harm brief-contact trials: 38083861, 37321352, 36963515, 35855500) are worded with 'supports' in relevance_to_tphe even though the file's own gaps_noted section already concedes these are analogical, not domain-matched — per the checker's instruction these must never read as 'supports' and should be reworded as explicit analogies. One record (36963515, Radin 2023 CC vs CC+) has a more serious problem: its key_finding describes only what was tested and omits that the trial found NO significant difference in the primary outcome — this null result must be added. One record (33280504) has an unsupported interpretive clause appended to an otherwise-correct key_finding. No record was found to be out of scope, off-topic, or fabricated; 15 of 24 records are recommended KEEP-as-is or FIX-for-wording-only, with the null-result omission (36963515) being the one substantive evidentiary error found. Corrections written back into the search records on 2026-09-03; notes retained for audit."
+}
