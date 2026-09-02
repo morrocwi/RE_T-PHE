@@ -14,6 +14,8 @@ graph LR
   C08["08 Preconception medicine, premarital screening and adjacent guidance"]
   C09["09 Global guidance, frameworks and methods"]
   C10["10 Thailand and the southern border provinces"]
+  C11["11 Premarital knowledge and well-being pathways"]
+  C12["12 Culture as a health determinant and intercultural coexistence"]
   P1["P1: A governance layer improves decision control beyond content-only education"]
   P2["P2: A routine private channel makes materially relevant concerns more visible"]
   P3["P3: Cultural intelligibility helps only when culture cannot override consent or safety"]

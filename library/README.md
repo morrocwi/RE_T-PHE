@@ -20,8 +20,10 @@
 | 08 | Preconception medicine, premarital screening and adjacent guidance | 17 | [08-preconception-medicine-premarital-screening-and-adjacent-guidance.md](08-preconception-medicine-premarital-screening-and-adjacent-guidance.md) |
 | 09 | Global guidance, frameworks and methods | 29 | [09-global-guidance-frameworks-and-methods.md](09-global-guidance-frameworks-and-methods.md) |
 | 10 | Thailand and the southern border provinces | 12 | [10-thailand-and-the-southern-border-provinces.md](10-thailand-and-the-southern-border-provinces.md) |
+| 11 | Premarital knowledge and well-being pathways | 7 | [11-premarital-knowledge-and-well-being-pathways.md](11-premarital-knowledge-and-well-being-pathways.md) |
+| 12 | Culture as a health determinant and intercultural coexistence | 9 | [12-culture-as-a-health-determinant-and-intercultural-coexistence.md](12-culture-as-a-health-determinant-and-intercultural-coexistence.md) |
 
-Unique PubMed records admitted across categories: **171**.
+Unique PubMed records admitted across categories: **185**.
 
 ## How an entry gets in
 

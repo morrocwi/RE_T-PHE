@@ -1473,6 +1473,114 @@
    "label": "Sirithammaphan Uraiwan 2023",
    "year": "2023",
    "category": "10"
+  },
+  {
+   "id": "CAT:11",
+   "type": "category",
+   "label": "Premarital knowledge and well-being pathways"
+  },
+  {
+   "id": "PMID:33502054",
+   "type": "record",
+   "label": "Spencer CM 2021",
+   "year": 2021,
+   "category": "11"
+  },
+  {
+   "id": "PMID:39377020",
+   "type": "record",
+   "label": "Bahrami-Samani S 2024",
+   "year": 2024,
+   "category": "11"
+  },
+  {
+   "id": "PMID:41773204",
+   "type": "record",
+   "label": "Ashrafi E 2026",
+   "year": 2026,
+   "category": "11"
+  },
+  {
+   "id": "PMID:42316254",
+   "type": "record",
+   "label": "Doe PF 2026",
+   "year": 2026,
+   "category": "11"
+  },
+  {
+   "id": "PMID:23527470",
+   "type": "record",
+   "label": "Robles TF 2014",
+   "year": 2014,
+   "category": "11"
+  },
+  {
+   "id": "CAT:12",
+   "type": "category",
+   "label": "Culture as a health determinant and intercultural coexistence"
+  },
+  {
+   "id": "PMID:25443490",
+   "type": "record",
+   "label": "Napier AD 2014",
+   "year": 2014,
+   "category": "12"
+  },
+  {
+   "id": "PMID:36502848",
+   "type": "record",
+   "label": "Devakumar D 2022",
+   "year": 2022,
+   "category": "12"
+  },
+  {
+   "id": "PMID:36502849",
+   "type": "record",
+   "label": "Selvarajah S 2022",
+   "year": 2022,
+   "category": "12"
+  },
+  {
+   "id": "PMID:42314718",
+   "type": "record",
+   "label": "Abubakar I 2026",
+   "year": 2026,
+   "category": "12"
+  },
+  {
+   "id": "PMID:24793445",
+   "type": "record",
+   "label": "Horvat L 2014",
+   "year": 2014,
+   "category": "12"
+  },
+  {
+   "id": "PMID:37208113",
+   "type": "record",
+   "label": "Li S 2023",
+   "year": 2023,
+   "category": "12"
+  },
+  {
+   "id": "PMID:39969882",
+   "type": "record",
+   "label": "Reaume M 2025",
+   "year": 2025,
+   "category": "12"
+  },
+  {
+   "id": "PMID:35080609",
+   "type": "record",
+   "label": "Axinn WG 2022",
+   "year": 2022,
+   "category": "12"
+  },
+  {
+   "id": "PMID:41887826",
+   "type": "record",
+   "label": "Watt RG 2026",
+   "year": 2026,
+   "category": "12"
   }
  ],
  "edges": [
@@ -1613,12 +1721,12 @@
   },
   {
    "source": "PMID:30125773",
-   "target": "P5",
+   "target": "P4",
    "relation": "relates_to"
   },
   {
    "source": "PMID:30125773",
-   "target": "P4",
+   "target": "P5",
    "relation": "relates_to"
   },
   {
@@ -1753,12 +1861,12 @@
   },
   {
    "source": "PMID:18837590",
-   "target": "P1",
+   "target": "P6",
    "relation": "complicates"
   },
   {
    "source": "PMID:18837590",
-   "target": "P6",
+   "target": "P1",
    "relation": "complicates"
   },
   {
@@ -1828,12 +1936,12 @@
   },
   {
    "source": "PMID:24294929",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:24294929",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
@@ -1858,12 +1966,12 @@
   },
   {
    "source": "PMID:30489129",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:30489129",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
@@ -1908,12 +2016,12 @@
   },
   {
    "source": "PMID:33729071",
-   "target": "P5",
+   "target": "P4",
    "relation": "supports"
   },
   {
    "source": "PMID:33729071",
-   "target": "P4",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -2143,12 +2251,12 @@
   },
   {
    "source": "PMID:26200817",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:26200817",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
@@ -2228,12 +2336,12 @@
   },
   {
    "source": "PMID:41151831",
-   "target": "P2",
+   "target": "P4",
    "relation": "supports"
   },
   {
    "source": "PMID:41151831",
-   "target": "P4",
+   "target": "P2",
    "relation": "supports"
   },
   {
@@ -2253,12 +2361,12 @@
   },
   {
    "source": "PMID:32460786",
-   "target": "P5",
+   "target": "P3",
    "relation": "supports"
   },
   {
    "source": "PMID:32460786",
-   "target": "P3",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -2403,12 +2511,12 @@
   },
   {
    "source": "REF:",
-   "target": "P2",
+   "target": "P5",
    "relation": "relates_to"
   },
   {
    "source": "REF:",
-   "target": "P5",
+   "target": "P2",
    "relation": "relates_to"
   },
   {
@@ -2668,12 +2776,12 @@
   },
   {
    "source": "PMID:24053261",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:24053261",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
@@ -2818,12 +2926,12 @@
   },
   {
    "source": "PMID:27639927",
-   "target": "P5",
+   "target": "P4",
    "relation": "supports"
   },
   {
    "source": "PMID:27639927",
-   "target": "P4",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -3123,12 +3231,12 @@
   },
   {
    "source": "PMID:40116416",
-   "target": "P2",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:40116416",
-   "target": "P5",
+   "target": "P2",
    "relation": "supports"
   },
   {
@@ -3153,12 +3261,12 @@
   },
   {
    "source": "PMID:42300599",
-   "target": "P1",
+   "target": "P6",
    "relation": "complicates"
   },
   {
    "source": "PMID:42300599",
-   "target": "P6",
+   "target": "P1",
    "relation": "complicates"
   },
   {
@@ -3273,12 +3381,12 @@
   },
   {
    "source": "PMID:39425490",
-   "target": "P5",
+   "target": "P3",
    "relation": "supports"
   },
   {
    "source": "PMID:39425490",
-   "target": "P3",
+   "target": "P5",
    "relation": "supports"
   },
   {
@@ -3413,12 +3521,12 @@
   },
   {
    "source": "PMID:18038283",
-   "target": "P1",
+   "target": "P6",
    "relation": "supports"
   },
   {
    "source": "PMID:18038283",
-   "target": "P6",
+   "target": "P1",
    "relation": "supports"
   },
   {
@@ -3548,12 +3656,12 @@
   },
   {
    "source": "PMID:34323166",
-   "target": "P1",
+   "target": "P6",
    "relation": "supports"
   },
   {
    "source": "PMID:34323166",
-   "target": "P6",
+   "target": "P1",
    "relation": "supports"
   },
   {
@@ -3959,6 +4067,86 @@
   {
    "source": "PMID:38025912",
    "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35040124",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33502054",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22304880",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39377020",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41773204",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42316254",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23527470",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25443490",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36502848",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36502849",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42314718",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24793445",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37208113",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39969882",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35080609",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41887826",
+   "target": "CAT:12",
    "relation": "in_category"
   }
  ]
