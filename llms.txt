@@ -1,0 +1,27 @@
+# RE_T-PHE — Trustworthy Premarital Health Education (T-PHE)
+
+> Public research record for a conference abstract (TIMA/FIMA Scientific Convention 2026) proposing Trustworthy Premarital Health Education as primary prevention infrastructure for intimate-partner harm. Practitioner-led conceptual synthesis; programme theory; no effectiveness testing. Field: public health, preventive medicine, health promotion, safeguarding. Language: medical science only.
+
+Claim ceiling: the accepted abstract. Nothing in this repository claims that T-PHE improves, prevents or reduces any outcome. The originating organisation is a social enterprise in Thailand; the corresponding author founded it and this conflict of interest is disclosed.
+
+## Start
+- [AI readers — start here](AI_START_HERE.md): what this is, reading order, how to verify, what not to conclude
+- [README](README.md): overview, layout, how to reproduce the integrity check
+
+## Document of record
+- [Abstract, verbatim web copy](abstract/ABSTRACT.md): the accepted abstract; PDF in the same folder is the document of record, SHA-256 pinned
+- [Evidence ledger](CLAIMS.md): every disputable statement graded by evidence type
+
+## Governance and review trail
+- [Rules for contributors](AGENTS.md): independent adversarial appraisal before every merge; medical-science register only; no participant data
+- [Appraisal reports](docs/reports/): dated independent critical appraisals with findings and resolutions
+- [Goal](GOAL.md): outcomes sought and how they would be shown
+
+## Setting (context, not evidence)
+- [About the originating organisation](ABOUT_ARAYA_NIKAH.md): legal identity, mission, authority boundary, religious position, timeline, figures — each labelled by source status
+- [Organisation's theory of change](docs/side-data/family-of-peace-theory-of-change.md): logic-model form; not adopted by the paper
+- [Organisation's public self-description](docs/side-data/public-web-context.md): extracts from its website; not evidence
+
+## Optional
+- [Citation metadata](CITATION.cff)
+- [Integrity check](tools/verify.sh)

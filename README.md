@@ -3,6 +3,8 @@
 [![verify](https://github.com/morrocwi/RE_T-PHE/actions/workflows/verify.yml/badge.svg)](https://github.com/morrocwi/RE_T-PHE/actions/workflows/verify.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
+> **AI or human reader arriving from a QR code?** Start at [`AI_START_HERE.md`](AI_START_HERE.md) (ten-minute reading order, how to verify this repository, what not to conclude). Machine-readable index: [`llms.txt`](llms.txt).
+
 Public research record for **Trustworthy Premarital Health Education (T-PHE)**, a proposed
 primary-prevention intervention for intimate-partner harm, positioned at the transition into
 marriage. The programme theory is set out in a conference abstract accepted for presentation at
@@ -74,6 +76,8 @@ See [`CITATION.cff`](CITATION.cff). Suggested form:
 ## Repository layout
 
 ```
+AI_START_HERE.md  entry point for readers who scanned the QR code (human or AI)
+llms.txt        machine-readable index of this repository
 abstract/       camera-ready PDF (document of record), SHA256SUMS, web copy
 CLAIMS.md       evidence ledger for every statement in the abstract
 ABOUT_ARAYA_NIKAH.md  organisational setting, source-status labelled (context, not evidence)
