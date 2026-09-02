@@ -57,7 +57,9 @@ CATEGORIES = OrderedDict([
     ("manipulation-literacy", ("16", "Recognition of coercive control and psychological manipulation; inoculation",
         "Psychological inoculation and prebunking trials; recognition of coercive control, gaslighting and emotional abuse; dating-violence prevention with recognition outcomes; labelling abuse and help-seeking.")),
     ("humility-compassion", ("17", "Humility, compassion, self-regulation and responsibility: psychological and health evidence",
-        "Intellectual and relational humility, cultural humility, self-compassion and empathy, self-regulation/conscientiousness, trustworthiness; Islamic psychology and religiosity in relation to relationship safety and health.")),
+        "Intellectual and relational humility, cultural humility, self-compassion and empathy, self-regulation/conscientiousness, trustworthiness; Islamic psychology and religiosity in relation to relationship safety and health. These constructs are the medical-science counterparts of the abstract's ethic: limited knowledge (faqr), conscientious restraint (taqwa), entrusted responsibility (amanah), justice (ʿadl) — the ethic names the duty; the evidence here says what is known about the construct.")),
+    ("islamic-medical-ethics", ("18", "Islamic medical ethics and spirituality in Muslim health care (tier-one sources only)",
+        "PubMed-indexed systematic reviews, guidelines, trials and leading-journal articles on Islamic bioethics, patient autonomy and consent in Muslim contexts, spirituality and health outcomes in Muslim populations, and faith-sensitive care; two Journal of IMA records admitted under a labelled carve-out; lower-tier sources excluded. The ethic names the duty; the evidence says what is known about the construct — no record here is evidence that T-PHE works.")),
 ])
 
 PROPOSITIONS = [

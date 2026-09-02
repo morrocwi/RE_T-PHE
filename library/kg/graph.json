@@ -2484,6 +2484,144 @@
    "label": "Anwar MN 2025",
    "year": 2025,
    "category": "17"
+  },
+  {
+   "id": "CAT:18",
+   "type": "category",
+   "label": "Islamic medical ethics and spirituality in Muslim health care (tier-one sources only)"
+  },
+  {
+   "id": "PMID:23975951",
+   "type": "record",
+   "label": "Mustafa Y 2014",
+   "year": 2014,
+   "category": "18"
+  },
+  {
+   "id": "PMID:21041237",
+   "type": "record",
+   "label": "Padela AI 2011",
+   "year": 2011,
+   "category": "18"
+  },
+  {
+   "id": "PMID:41651650",
+   "type": "record",
+   "label": "Doedes E 2026",
+   "year": 2026,
+   "category": "18"
+  },
+  {
+   "id": "PMID:17845488",
+   "type": "record",
+   "label": "Padela AI 2007",
+   "year": 2007,
+   "category": "18"
+  },
+  {
+   "id": "PMID:22845721",
+   "type": "record",
+   "label": "Alsolamy S 2014",
+   "year": 2014,
+   "category": "18"
+  },
+  {
+   "id": "PMID:11202669",
+   "type": "record",
+   "label": "Daar AS 2001",
+   "year": 2001,
+   "category": "18"
+  },
+  {
+   "id": "PMID:41114978",
+   "type": "record",
+   "label": "Bhowmik B 2025",
+   "year": 2025,
+   "category": "18"
+  },
+  {
+   "id": "PMID:39186273",
+   "type": "record",
+   "label": "Zoellner LA 2024",
+   "year": 2024,
+   "category": "18"
+  },
+  {
+   "id": "PMID:38600776",
+   "type": "record",
+   "label": "Gendler Y 2024",
+   "year": 2024,
+   "category": "18"
+  },
+  {
+   "id": "PMID:41379069",
+   "type": "record",
+   "label": "Al-Sayaghi KM 2026",
+   "year": 2026,
+   "category": "18"
+  },
+  {
+   "id": "PMID:41139992",
+   "type": "record",
+   "label": "Mohamed Mahdi Z 2025",
+   "year": 2025,
+   "category": "18"
+  },
+  {
+   "id": "PMID:25660098",
+   "type": "record",
+   "label": "Chamsi-Pasha H 2015",
+   "year": 2015,
+   "category": "18"
+  },
+  {
+   "id": "PMID:35347576",
+   "type": "record",
+   "label": "Pan SW 2022",
+   "year": 2022,
+   "category": "18"
+  },
+  {
+   "id": "PMID:31309442",
+   "type": "record",
+   "label": "Abdel-Khalek AM 2019",
+   "year": 2019,
+   "category": "18"
+  },
+  {
+   "id": "PMID:31928787",
+   "type": "record",
+   "label": "Cleary M 2021",
+   "year": 2021,
+   "category": "18"
+  },
+  {
+   "id": "PMID:41458120",
+   "type": "record",
+   "label": "Mittal SO 2025",
+   "year": 2025,
+   "category": "18"
+  },
+  {
+   "id": "PMID:23610513",
+   "type": "record",
+   "label": "Packer S 2011",
+   "year": 2011,
+   "category": "18"
+  },
+  {
+   "id": "PMID:23864762",
+   "type": "record",
+   "label": "Arawi TA 2010",
+   "year": 2010,
+   "category": "18"
+  },
+  {
+   "id": "PMID:41141460",
+   "type": "record",
+   "label": "Irfan B 2025",
+   "year": 2025,
+   "category": "18"
   }
  ],
  "edges": [
@@ -6001,6 +6139,126 @@
    "source": "PMID:40979613",
    "target": "OD:humility",
    "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:23975951",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:21041237",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41651650",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:17845488",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22845721",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:11202669",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41114978",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39186273",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38600776",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38600776",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41379069",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41139992",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32138744",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25660098",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35347576",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35347576",
+   "target": "OD:religiosity",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31309442",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31309442",
+   "target": "OD:religiosity",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31928787",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41458120",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23610513",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23864762",
+   "target": "CAT:18",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23864762",
+   "target": "OD:trustworthiness",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41141460",
+   "target": "CAT:18",
+   "relation": "in_category"
   }
  ]
 }
