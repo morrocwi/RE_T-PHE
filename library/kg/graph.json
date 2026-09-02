@@ -116,6 +116,56 @@
    "label": "private channel"
   },
   {
+   "id": "OD:self-assessment",
+   "type": "outcome_domain",
+   "label": "self-assessment"
+  },
+  {
+   "id": "OD:decision aid",
+   "type": "outcome_domain",
+   "label": "decision aid"
+  },
+  {
+   "id": "OD:peer support",
+   "type": "outcome_domain",
+   "label": "peer support"
+  },
+  {
+   "id": "OD:online community",
+   "type": "outcome_domain",
+   "label": "online community"
+  },
+  {
+   "id": "OD:technology-facilitated abuse",
+   "type": "outcome_domain",
+   "label": "technology-facilitated abuse"
+  },
+  {
+   "id": "OD:independent assessor",
+   "type": "outcome_domain",
+   "label": "independent assessor"
+  },
+  {
+   "id": "OD:conflict of interest",
+   "type": "outcome_domain",
+   "label": "conflict of interest"
+  },
+  {
+   "id": "OD:check-in",
+   "type": "outcome_domain",
+   "label": "check-in"
+  },
+  {
+   "id": "OD:warm handoff",
+   "type": "outcome_domain",
+   "label": "warm handoff"
+  },
+  {
+   "id": "OD:single-session",
+   "type": "outcome_domain",
+   "label": "single-session"
+  },
+  {
    "id": "CAT:01",
    "type": "category",
    "label": "Burden of intimate-partner violence and primary-prevention frameworks"
@@ -1595,6 +1645,462 @@
    "label": "Watt RG 2026",
    "year": 2026,
    "category": "12"
+  },
+  {
+   "id": "CAT:13",
+   "type": "category",
+   "label": "Digital self-assessment and safety decision aids for intimate-partner violence"
+  },
+  {
+   "id": "PMID:26231225",
+   "type": "record",
+   "label": "Hegarty K 2015",
+   "year": "2015",
+   "category": "13"
+  },
+  {
+   "id": "PMID:31155223",
+   "type": "record",
+   "label": "Hegarty K 2019",
+   "year": "2019",
+   "category": "13"
+  },
+  {
+   "id": "PMID:26362841",
+   "type": "record",
+   "label": "Tarzia L 2016",
+   "year": "2016",
+   "category": "13"
+  },
+  {
+   "id": "PMID:28351830",
+   "type": "record",
+   "label": "Tarzia L 2017",
+   "year": "2017",
+   "category": "13"
+  },
+  {
+   "id": "PMID:26350482",
+   "type": "record",
+   "label": "Glass N 2015",
+   "year": "2015",
+   "category": "13"
+  },
+  {
+   "id": "PMID:33576291",
+   "type": "record",
+   "label": "Glass NE 2022",
+   "year": "2022",
+   "category": "13"
+  },
+  {
+   "id": "PMID:37259087",
+   "type": "record",
+   "label": "Bloom TL 2023",
+   "year": "2023",
+   "category": "13"
+  },
+  {
+   "id": "PMID:39066749",
+   "type": "record",
+   "label": "Glass N 2024",
+   "year": "2024",
+   "category": "13"
+  },
+  {
+   "id": "PMID:32471469",
+   "type": "record",
+   "label": "Decker MR 2020",
+   "year": "2020",
+   "category": "13"
+  },
+  {
+   "id": "PMID:32675229",
+   "type": "record",
+   "label": "Decker MR 2020",
+   "year": "2020",
+   "category": "13"
+  },
+  {
+   "id": "PMID:28327116",
+   "type": "record",
+   "label": "Ford-Gilboe M 2017",
+   "year": "2017",
+   "category": "13"
+  },
+  {
+   "id": "PMID:32098633",
+   "type": "record",
+   "label": "Ford-Gilboe M 2020",
+   "year": "2020",
+   "category": "13"
+  },
+  {
+   "id": "PMID:34931998",
+   "type": "record",
+   "label": "O'Campo P 2021",
+   "year": "2021",
+   "category": "13"
+  },
+  {
+   "id": "PMID:42196762",
+   "type": "record",
+   "label": "Chuemchit M 2026",
+   "year": "2026",
+   "category": "13"
+  },
+  {
+   "id": "PMID:42560214",
+   "type": "record",
+   "label": "Berry-Cabán CS 2026",
+   "year": "2026",
+   "category": "13"
+  },
+  {
+   "id": "PMID:19487706",
+   "type": "record",
+   "label": "Ahmad F 2009",
+   "year": "2009",
+   "category": "13"
+  },
+  {
+   "id": "PMID:39088215",
+   "type": "record",
+   "label": "Lenert L 2024",
+   "year": "2024",
+   "category": "13"
+  },
+  {
+   "id": "PMID:38290753",
+   "type": "record",
+   "label": "Wood SN 2024",
+   "year": "2024",
+   "category": "13"
+  },
+  {
+   "id": "PMID:32894115",
+   "type": "record",
+   "label": "El Morr C 2020",
+   "year": "2020",
+   "category": "13"
+  },
+  {
+   "id": "PMID:31742475",
+   "type": "record",
+   "label": "Anderson EJ 2021",
+   "year": "2021",
+   "category": "13"
+  },
+  {
+   "id": "CAT:14",
+   "type": "category",
+   "label": "Peer online support, moderated communities and digital safe spaces"
+  },
+  {
+   "id": "PMID:26543923",
+   "type": "record",
+   "label": "Ali K 2015",
+   "year": 2015,
+   "category": "14"
+  },
+  {
+   "id": "PMID:38722680",
+   "type": "record",
+   "label": "Marshall P 2024",
+   "year": 2024,
+   "category": "14"
+  },
+  {
+   "id": "PMID:40577699",
+   "type": "record",
+   "label": "Marshall P 2025",
+   "year": 2025,
+   "category": "14"
+  },
+  {
+   "id": "PMID:34193497",
+   "type": "record",
+   "label": "Perry A 2021",
+   "year": 2021,
+   "category": "14"
+  },
+  {
+   "id": "PMID:35574666",
+   "type": "record",
+   "label": "Perowne R 2024",
+   "year": 2024,
+   "category": "14"
+  },
+  {
+   "id": "PMID:36810998",
+   "type": "record",
+   "label": "Deng D 2023",
+   "year": 2023,
+   "category": "14"
+  },
+  {
+   "id": "PMID:40726606",
+   "type": "record",
+   "label": "Lerman K 2025",
+   "year": 2025,
+   "category": "14"
+  },
+  {
+   "id": "PMID:42127226",
+   "type": "record",
+   "label": "Bender JL 2026",
+   "year": 2026,
+   "category": "14"
+  },
+  {
+   "id": "PMID:32339059",
+   "type": "record",
+   "label": "Chu TH 2021",
+   "year": 2021,
+   "category": "14"
+  },
+  {
+   "id": "PMID:29537928",
+   "type": "record",
+   "label": "Rempel E 2019",
+   "year": 2019,
+   "category": "14"
+  },
+  {
+   "id": "PMID:35537445",
+   "type": "record",
+   "label": "Rogers MM 2023",
+   "year": 2023,
+   "category": "14"
+  },
+  {
+   "id": "PMID:32998673",
+   "type": "record",
+   "label": "Henry N 2020",
+   "year": 2020,
+   "category": "14"
+  },
+  {
+   "id": "PMID:33719681",
+   "type": "record",
+   "label": "Henry N 2022",
+   "year": 2022,
+   "category": "14"
+  },
+  {
+   "id": "PMID:40271872",
+   "type": "record",
+   "label": "Weekes CJ 2026",
+   "year": 2026,
+   "category": "14"
+  },
+  {
+   "id": "PMID:41823642",
+   "type": "record",
+   "label": "Irving M 2026",
+   "year": 2026,
+   "category": "14"
+  },
+  {
+   "id": "PMID:31357096",
+   "type": "record",
+   "label": "Schlosser AE 2020",
+   "year": 2020,
+   "category": "14"
+  },
+  {
+   "id": "PMID:37695928",
+   "type": "record",
+   "label": "Mayopoulos G 2024",
+   "year": 2024,
+   "category": "14"
+  },
+  {
+   "id": "PMID:31742562",
+   "type": "record",
+   "label": "Pretorius C 2019",
+   "year": 2019,
+   "category": "14"
+  },
+  {
+   "id": "PMID:35536616",
+   "type": "record",
+   "label": "Douglass CH 2022",
+   "year": 2022,
+   "category": "14"
+  },
+  {
+   "id": "CAT:15",
+   "type": "category",
+   "label": "Assessor independence, risk assessment and check-in models"
+  },
+  {
+   "id": "PMID:26287054",
+   "type": "record",
+   "label": "Robbins KC 2014",
+   "year": 2014,
+   "category": "15"
+  },
+  {
+   "id": "PMID:26293351",
+   "type": "record",
+   "label": "Rudow DL 2015",
+   "year": 2015,
+   "category": "15"
+  },
+  {
+   "id": "PMID:29708521",
+   "type": "record",
+   "label": "Schenck D 2018",
+   "year": 2018,
+   "category": "15"
+  },
+  {
+   "id": "PMID:26254909",
+   "type": "record",
+   "label": "Sethi N 2016",
+   "year": 2016,
+   "category": "15"
+  },
+  {
+   "id": "PMID:11649348",
+   "type": "record",
+   "label": "Pope KS 1991",
+   "year": 1991,
+   "category": "15"
+  },
+  {
+   "id": "PMID:15555031",
+   "type": "record",
+   "label": "Scopelliti J 2004",
+   "year": 2004,
+   "category": "15"
+  },
+  {
+   "id": "PMID:23262817",
+   "type": "record",
+   "label": "Messing JT 2013",
+   "year": 2013,
+   "category": "15"
+  },
+  {
+   "id": "PMID:25315482",
+   "type": "record",
+   "label": "Wang PL 2015",
+   "year": 2015,
+   "category": "15"
+  },
+  {
+   "id": "PMID:28921610",
+   "type": "record",
+   "label": "Messing JT 2017",
+   "year": 2017,
+   "category": "15"
+  },
+  {
+   "id": "PMID:33280504",
+   "type": "record",
+   "label": "Messing JT 2022",
+   "year": 2022,
+   "category": "15"
+  },
+  {
+   "id": "PMID:25383928",
+   "type": "record",
+   "label": "Gerth J 2014",
+   "year": 2014,
+   "category": "15"
+  },
+  {
+   "id": "PMID:36710516",
+   "type": "record",
+   "label": "Jolliffe Simpson AD 2023",
+   "year": 2023,
+   "category": "15"
+  },
+  {
+   "id": "PMID:22471386",
+   "type": "record",
+   "label": "Belfrage H 2012",
+   "year": 2012,
+   "category": "15"
+  },
+  {
+   "id": "PMID:38512165",
+   "type": "record",
+   "label": "Hogan NR 2024",
+   "year": 2024,
+   "category": "15"
+  },
+  {
+   "id": "PMID:34109884",
+   "type": "record",
+   "label": "Sanderson D 2021",
+   "year": 2021,
+   "category": "15"
+  },
+  {
+   "id": "PMID:36704207",
+   "type": "record",
+   "label": "Loo S 2023",
+   "year": 2023,
+   "category": "15"
+  },
+  {
+   "id": "PMID:38083861",
+   "type": "record",
+   "label": "Stevens GJ 2024",
+   "year": 2024,
+   "category": "15"
+  },
+  {
+   "id": "PMID:37321352",
+   "type": "record",
+   "label": "Radin AK 2023",
+   "year": 2023,
+   "category": "15"
+  },
+  {
+   "id": "PMID:36963515",
+   "type": "record",
+   "label": "Radin AK 2023",
+   "year": 2023,
+   "category": "15"
+  },
+  {
+   "id": "PMID:35855500",
+   "type": "record",
+   "label": "Menon V 2022",
+   "year": 2022,
+   "category": "15"
+  },
+  {
+   "id": "PMID:41203119",
+   "type": "record",
+   "label": "Hernandez AM 2026",
+   "year": 2026,
+   "category": "15"
+  },
+  {
+   "id": "PMID:37191932",
+   "type": "record",
+   "label": "Chambers RA 2023",
+   "year": 2023,
+   "category": "15"
+  },
+  {
+   "id": "PMID:31909412",
+   "type": "record",
+   "label": "Catley D 2020",
+   "year": 2020,
+   "category": "15"
+  },
+  {
+   "id": "PMID:29185783",
+   "type": "record",
+   "label": "White ML 2018",
+   "year": 2018,
+   "category": "15"
   }
  ],
  "edges": [
@@ -2391,6 +2897,11 @@
   {
    "source": "PMID:32460786",
    "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32460786",
+   "target": "OD:single-session",
    "relation": "measures_or_discusses"
   },
   {
@@ -3869,6 +4380,11 @@
    "relation": "in_category"
   },
   {
+   "source": "REF:COCHRANE:CD001431",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
+  },
+  {
    "source": "REF:WHO:B09860",
    "target": "CAT:08",
    "relation": "in_category"
@@ -3967,6 +4483,11 @@
    "source": "PMID:38284415",
    "target": "CAT:09",
    "relation": "in_category"
+  },
+  {
+   "source": "PMID:38284415",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:29109079",
@@ -4177,6 +4698,531 @@
    "source": "PMID:41887826",
    "target": "CAT:12",
    "relation": "in_category"
+  },
+  {
+   "source": "PMID:26231225",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26231225",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31155223",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31155223",
+   "target": "OD:self-assessment",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31155223",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26362841",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28351830",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28351830",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:28351830",
+   "target": "OD:self-assessment",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26350482",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26350482",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33576291",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33576291",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33576291",
+   "target": "OD:decision aid",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37259087",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39066749",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32471469",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32471469",
+   "target": "OD:self-assessment",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32675229",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32675229",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:28327116",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32098633",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32098633",
+   "target": "OD:self-assessment",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34931998",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42196762",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42196762",
+   "target": "OD:self-assessment",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42560214",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:19487706",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39088215",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38290753",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32894115",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32894115",
+   "target": "OD:self-assessment",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31742475",
+   "target": "CAT:13",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26543923",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26543923",
+   "target": "OD:peer support",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38722680",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40577699",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34193497",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35574666",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36810998",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40726606",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42127226",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42127226",
+   "target": "OD:peer support",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32339059",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32894115",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29537928",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35537445",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35537445",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32998673",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32998673",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33719681",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40271872",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40271872",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41823642",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31357096",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37695928",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31742562",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31742562",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35536616",
+   "target": "CAT:14",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26287054",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26287054",
+   "target": "OD:conflict of interest",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26293351",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29708521",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29708521",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:29708521",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26254909",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26254909",
+   "target": "OD:conflict of interest",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:11649348",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:15555031",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:15555031",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:23262817",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23262817",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:25315482",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25315482",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:28921610",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28921610",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33280504",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33280504",
+   "target": "OD:independent assessor",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25383928",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25383928",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:36710516",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22471386",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22471386",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38512165",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38512165",
+   "target": "P5",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:34109884",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34109884",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34109884",
+   "target": "OD:warm handoff",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36704207",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36704207",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36704207",
+   "target": "OD:warm handoff",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38083861",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38083861",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37321352",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37321352",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36963515",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36963515",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35855500",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35855500",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41203119",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41203119",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37191932",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31909412",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29185783",
+   "target": "CAT:15",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29185783",
+   "target": "OD:check-in",
+   "relation": "measures_or_discusses"
   }
  ]
 }

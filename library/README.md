@@ -22,8 +22,11 @@
 | 10 | Thailand and the southern border provinces | 15 | [10-thailand-and-the-southern-border-provinces.md](10-thailand-and-the-southern-border-provinces.md) |
 | 11 | Premarital knowledge and well-being pathways | 7 | [11-premarital-knowledge-and-well-being-pathways.md](11-premarital-knowledge-and-well-being-pathways.md) |
 | 12 | Culture as a health determinant and intercultural coexistence | 9 | [12-culture-as-a-health-determinant-and-intercultural-coexistence.md](12-culture-as-a-health-determinant-and-intercultural-coexistence.md) |
+| 13 | Digital self-assessment and safety decision aids for intimate-partner violence | 20 | [13-digital-self-assessment-and-safety-decision-aids-for-intimate-partner-violence.md](13-digital-self-assessment-and-safety-decision-aids-for-intimate-partner-violence.md) |
+| 14 | Peer online support, moderated communities and digital safe spaces | 20 | [14-peer-online-support-moderated-communities-and-digital-safe-spaces.md](14-peer-online-support-moderated-communities-and-digital-safe-spaces.md) |
+| 15 | Assessor independence, risk assessment and check-in models | 24 | [15-assessor-independence-risk-assessment-and-check-in-models.md](15-assessor-independence-risk-assessment-and-check-in-models.md) |
 
-Unique PubMed records admitted across categories: **187**.
+Unique PubMed records admitted across categories: **250**.
 
 ## How an entry gets in
 

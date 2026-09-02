@@ -48,6 +48,12 @@ CATEGORIES = OrderedDict([
         "Premarital and relationship education meta-analyses; reproductive-health literacy trials; marital quality and health associations.")),
     ("external-culture", ("12", "Culture as a health determinant and intercultural coexistence",
         "Lancet commissions and series on culture, racism and migration; cultural-competence training reviews; culturally adapted interventions; language concordance; social cohesion; group family programmes in diverse populations.")),
+    ("digital-self-assessment", ("13", "Digital self-assessment and safety decision aids for intimate-partner violence",
+        "Web, app and online self-assessment or decision-aid trials used by the person alone; anonymous self-screening; safety of technology-delivered tools.")),
+    ("peer-online-support", ("14", "Peer online support, moderated communities and digital safe spaces",
+        "Online peer support for relationship safety and young people's mental health; moderation; technology-facilitated abuse and surveillance risks.")),
+    ("assessor-checkin", ("15", "Assessor independence, risk assessment and check-in models",
+        "Conflict of interest and independence in safeguarding decisions; structured IPV risk assessment; warm handoff, navigation, brief-contact and single-session models.")),
 ])
 
 PROPOSITIONS = [
@@ -62,7 +68,9 @@ PROPOSITIONS = [
 SAFEGUARDS = ["epistemic humility", "cultural intelligibility", "affected-person visibility", "dignity and consent",
               "bounded authority and referral", "repairability"]
 OUTCOME_DOMAINS = ["decision control", "coercion recognition", "reproductive coercion", "help-seeking", "referral",
-                   "mental-health literacy", "reproductive-health literacy", "harms", "stop rule", "private channel"]
+                   "mental-health literacy", "reproductive-health literacy", "harms", "stop rule", "private channel",
+                   "self-assessment", "decision aid", "peer support", "online community", "technology-facilitated abuse",
+                   "independent assessor", "conflict of interest", "check-in", "warm handoff", "single-session"]
 
 VERDICT_ORDER = {"KEEP": 0, "FIX": 1, "CONTEXT-ONLY": 2, "DROP": 3}
 

@@ -1,0 +1,226 @@
+{
+  "angle": "peer-online-support-digital-safe-space",
+  "verified": [
+    {
+      "pmid": "26543923",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Ali K, JMIR Ment Health 2015, first author confirmed. Abstract: 'In almost all studies (n=5), the peer support intervention was moderated... two of the randomized controlled trials were associated with a significant positive outcome... In the remaining four studies, peer-to-peer support was not found to be effective.' Matches key_finding exactly."
+    },
+    {
+      "pmid": "38722680",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Marshall P, JMIR Ment Health 2024. Abstract: 'produced an overarching program theory comprising 22 context-mechanism-outcome configurations... vital role of moderators... balancing forum openness and anonymity with the need to enforce rules.' Matches."
+    },
+    {
+      "pmid": "40577699",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Marshall P, JMIR Ment Health 2025. Abstract percentages match exactly: '40.1% agreed and 19.2% strongly agreed' safe due to anonymity; '18.8% agreed and 3.6% strongly agreed' encountered distressing posts; '22.4% agreed... 3.4% strongly agreed' felt worse. UK-only sample, correctly scoped as such in evidence_level."
+    },
+    {
+      "pmid": "34193497",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Perry A, BMJ Open 2021. Abstract: '397 articles initially identified... five articles included for synthesis... Only one article featured a moderator who was a qualified health professional... dearth of research focusing on the professional practices of online forum moderators.' Matches."
+    },
+    {
+      "pmid": "35574666",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Perowne R, J Ment Health 2024. Abstract: 'Thematic analysis identified eleven enablers, four barriers and one both an enabler and a barrier. Barriers included emotional exhaustion, working with partial information... vagueness within the guidelines... a moderation buddy.' Matches."
+    },
+    {
+      "pmid": "36810998",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Deng D, J Technol Behav Sci 2023 (Togetherall 'Wall Guides', n=20). Abstract: 'They respond by removing or revising the hurtful post or reaching out to the affected member to maintain the house rules.' Directly supports the R4 route-not-mediate framing; not overstated."
+    },
+    {
+      "pmid": "40726606",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Lerman K, EPJ Data Sci 2025. Abstract: 'platforms with weaker moderation (like Twitter/X) enable the formation of toxic echo chambers that amplify pro-anorexia rhetoric.' This is a harms ANALOGY (eating-disorder communities, not IPV/premarital), and relevance_to_tphe correctly frames it as a 'specific warning' rather than IPV evidence -- appropriately hedged, no correction needed."
+    },
+    {
+      "pmid": "42127226",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Bender JL, J Med Internet Res 2026. Abstract quoted almost verbatim: \"not all OSGs are helpful, and in some cases, they may increase distress\"; outcomes depend on 'trustworthy... culturally safe'/'anonymity, privacy... autonomy'/'moderation, safety, cohesion'. Population is cancer patients -- an analogy, already correctly framed as such by the surrounding evidence_level note."
+    },
+    {
+      "pmid": "32339059",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Chu TH, Violence Against Women 2021, China IPV community. key_finding is supported: abstract states 'social support is commonly presented, while only a few messages expressed blame toward the victims... a space for the victims to obtain informational resources and emotional encouragement.' BUT relevance_to_tphe overreaches on two points: (1) it asserts the community was 'unmoderated-by-default' -- the abstract says nothing about moderation status, this is an unsupported inference; (2) it generalizes a single Chinese platform to an 'Asian cultural context' -- per the task's own instruction, a Chinese peer community is not Thai, and should not be broadened to 'Asian.' FIX: delete the 'unmoderated-by-default' claim and replace 'Asian cultural context' with 'China-specific, offered only as a non-Western analogy -- not evidence for a Thai or Muslim-majority setting.'"
+    },
+    {
+      "pmid": "32894115",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "El Morr C, BMC Public Health 2020. Abstract: 'Questions addressing safety, equity, and the unintended consequences of the use of ICT in IPV programming are virtually non-existent... only one study formally addressed software usability.' Matches quote precisely, including the 'virtually non-existent' quote."
+    },
+    {
+      "pmid": "29537928",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Rempel E, Inform Health Soc Care 2019. Abstract: 'online interventions focused on the act of leaving with less emphasis on the experiences that occur after a woman has left the relationship... findings highlight information gaps for women who require significant support after leaving.' Matches."
+    },
+    {
+      "pmid": "35537445",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Rogers MM, Trauma Violence Abuse 2023. Abstract: 'TFA is diverse... can be typed according to the eight domains of the Duluth Power & Control Wheel... social, mental health and financial impacts and omnipresence... modes of resistance are infrequently reported.' Matches; evidence_level correctly scopes to English-speaking high-income countries."
+    },
+    {
+      "pmid": "32998673",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Henry N, Violence Against Women 2020 (narrative review, solo/lead author). Abstract confirms coverage of digital dating abuse, intimate partner cyberstalking, technology-facilitated sexual assault, image-based sexual abuse, online sexual harassment, and call for gendered frameworks. Matches."
+    },
+    {
+      "pmid": "33719681",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Henry N (co-authored), J Interpersonal Violence 2022, Australia. Abstract: 'unique challenges, such as language barriers, cultural bias from support services, lack of financial resources, lack of trust in state institutions, and additional challenges with justice and migration systems.' Matches; interview counts (29 victim-survivors, 20 stakeholders) match exactly."
+    },
+    {
+      "pmid": "40271872",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Weekes CJ, Trauma Violence Abuse 2026. Abstract: perpetrators 'lack social skills, have low self-control, have experienced physical abuse victimization... motivated by trying to reconcile a relationship, exact revenge... methods... accessing the victim's accounts, tracking their GPS location, posing as the victim online.' Matches."
+    },
+    {
+      "pmid": "41823642",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Irving M, Violence Against Women 2026 (n=18 separated mothers). Abstract: 'The record-keeping functions of these apps emerged as a key mechanism through which both control and resistance are negotiated, shaped by the legal settings in which app use is often introduced.' Matches."
+    },
+    {
+      "pmid": "31357096",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Schlosser AE, Curr Opin Psychol 2020. Abstract: 'anonymity and reduced information richness... argued to increase self-disclosure... asynchronicity, multiple audiences, and audience feedback... favor self-presentation.' Matches exactly."
+    },
+    {
+      "pmid": "37695928",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Mayopoulos G, Psychother Res 2024 (N=443), first author and design confirmed. The first sentence of key_finding is supported: 'attachment style plays a significant role in determining individuals' likelihood of discussing personally distressing topics online... and in anonymous and non-anonymous online spaces to be helpful.' BUT the second clause inverts the abstract's actual claim. Search file says: 'younger patients and those with avoidant/ambivalent attachment styles were flagged as more likely to view ONLINE DISCLOSURE as an appropriate venue.' Abstract actually says the opposite object: clinicians should check whether such patients 'view PSYCHOTHERAPY as an appropriate domain to disclose specific personally distressful issues' -- i.e. the flag is about whether they see therapy (not online spaces) as legitimate. FIX: replace with 'clinicians are advised to monitor whether younger patients and those with avoidant/ambivalent attachment styles view psychotherapy itself as an appropriate venue for disclosure, given their documented tendency to disclose online instead.'"
+    },
+    {
+      "pmid": "31742562",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Pretorius C, J Med Internet Res 2019 (28 studies, PRISMA). Abstract: 'Key benefits included anonymity and privacy, immediacy, ease of access, inclusivity... a greater sense of control... Barriers to help-seeking included a lack of mental health literacy, concerns about privacy and confidentiality, and uncertainty about the trustworthiness of online resources.' Matches."
+    },
+    {
+      "pmid": "35536616",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Douglass CH, JMIR Pediatr Parent 2022, Melbourne Australia (33 young people 16-22y, 15 parents). Abstract: 'social media was an important extension of social and cultural connections, particularly during COVID-19... young participants perceived social media as a space where they could establish their identity and feel a sense of belonging. However, participants were also at risk of being exposed to discrimination...' Matches. relevance_to_tphe and evidence_level both correctly flag this as Australia, not Thailand-specific -- consistent with gaps_noted."
+    }
+  ],
+  "overall_note": "All 20 PMIDs resolve on NCBI PubMed via efetch and exist as claimed; all 20 titles, years, journals, and first authors match exactly (no fabricated or misattributed records). 18/20 records' key_finding and relevance_to_tphe claims are directly supported by the retrieved abstract and appropriately hedged where the population is an analogy rather than direct evidence (e.g. cancer OSGs PMID 42127226, pro-anorexia communities PMID 40726606, Australian Muslim youth PMID 35536616 -- these are already correctly labeled as non-Thai/non-IPV analogies in the source file's own evidence_level/relevance text, consistent with the task's caution against conflating a pro-anorexia forum study with IPV evidence). Two records need correction: PMID 32339059 (China IPV forum) overgeneralizes a single Chinese platform to an 'Asian cultural context' and asserts an unverified 'unmoderated-by-default' status not stated in the abstract -- per the task's own instruction, a Chinese peer community is not Thai and should not be broadened this way. PMID 37695928 (Mayopoulos, psychotherapy vs. online disclosure) contains a directional misquote: the search file's key_finding says younger/avoidant-attachment patients were flagged as more likely to see ONLINE disclosure as an appropriate venue, when the abstract actually says the flag is about whether they see PSYCHOTHERAPY as an appropriate venue -- the object of the sentence was inverted. No records are recommended for DROP; the underlying evidence for both FIX records is real and in scope, only the stated interpretation needs correction."
+}

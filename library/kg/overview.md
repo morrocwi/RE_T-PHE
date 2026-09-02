@@ -16,6 +16,9 @@ graph LR
   C10["10 Thailand and the southern border provinces"]
   C11["11 Premarital knowledge and well-being pathways"]
   C12["12 Culture as a health determinant and intercultural coexistence"]
+  C13["13 Digital self-assessment and safety decision aids for intimate-partner violence"]
+  C14["14 Peer online support, moderated communities and digital safe spaces"]
+  C15["15 Assessor independence, risk assessment and check-in models"]
   P1["P1: A governance layer improves decision control beyond content-only education"]
   P2["P2: A routine private channel makes materially relevant concerns more visible"]
   P3["P3: Cultural intelligibility helps only when culture cannot override consent or safety"]
@@ -87,4 +90,6 @@ graph LR
   C06 -.->|complicates x1| P6
   C06 -->|supports x3| P6
   C06 -->|supports x1| P7
+  C15 -.->|complicates x1| P5
+  C15 -->|supports x4| P5
 ```
