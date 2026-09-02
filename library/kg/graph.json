@@ -2166,6 +2166,324 @@
    "label": "White ML 2018",
    "year": 2018,
    "category": "15"
+  },
+  {
+   "id": "CAT:16",
+   "type": "category",
+   "label": "Recognition of coercive control and psychological manipulation; inoculation"
+  },
+  {
+   "id": "PMID:36001675",
+   "type": "record",
+   "label": "Roozenbeek J 2022",
+   "year": "2022",
+   "category": "16"
+  },
+  {
+   "id": "PMID:40820144",
+   "type": "record",
+   "label": "Appel RE 2025",
+   "year": "2025",
+   "category": "16"
+  },
+  {
+   "id": "PMID:41845063",
+   "type": "record",
+   "label": "Biddlestone M 2026",
+   "year": "2026",
+   "category": "16"
+  },
+  {
+   "id": "PMID:31934684",
+   "type": "record",
+   "label": "Basol M 2020",
+   "year": "2020",
+   "category": "16"
+  },
+  {
+   "id": "PMID:35600423",
+   "type": "record",
+   "label": "Roozenbeek J 2022",
+   "year": "2022",
+   "category": "16"
+  },
+  {
+   "id": "PMID:37929261",
+   "type": "record",
+   "label": "Roozenbeek J 2021",
+   "year": "2021",
+   "category": "16"
+  },
+  {
+   "id": "PMID:42535453",
+   "type": "record",
+   "label": "Kang Y 2026",
+   "year": "2026",
+   "category": "16"
+  },
+  {
+   "id": "PMID:37011949",
+   "type": "record",
+   "label": "Kettrey HH 2023",
+   "year": "2023",
+   "category": "16"
+  },
+  {
+   "id": "PMID:23790995",
+   "type": "record",
+   "label": "Miller E 2013",
+   "year": "2013",
+   "category": "16"
+  },
+  {
+   "id": "PMID:28821469",
+   "type": "record",
+   "label": "Abebe KZ 2017",
+   "year": "2017",
+   "category": "16"
+  },
+  {
+   "id": "PMID:38580464",
+   "type": "record",
+   "label": "Cherrier C 2024",
+   "year": "2024",
+   "category": "16"
+  },
+  {
+   "id": "PMID:28234197",
+   "type": "record",
+   "label": "Bannon RS 2017",
+   "year": "2017",
+   "category": "16"
+  },
+  {
+   "id": "PMID:38336660",
+   "type": "record",
+   "label": "Peeren S 2024",
+   "year": "2024",
+   "category": "16"
+  },
+  {
+   "id": "PMID:35974354",
+   "type": "record",
+   "label": "Barnes M 2022",
+   "year": "2022",
+   "category": "16"
+  },
+  {
+   "id": "PMID:37882155",
+   "type": "record",
+   "label": "Whitton SW 2024",
+   "year": "2024",
+   "category": "16"
+  },
+  {
+   "id": "PMID:39536684",
+   "type": "record",
+   "label": "Brunton R 2024",
+   "year": "2024",
+   "category": "16"
+  },
+  {
+   "id": "PMID:33114157",
+   "type": "record",
+   "label": "Tian CY 2020",
+   "year": "2020",
+   "category": "16"
+  },
+  {
+   "id": "PMID:37727706",
+   "type": "record",
+   "label": "Senahad N 2023",
+   "year": "2023",
+   "category": "16"
+  },
+  {
+   "id": "PMID:26289454",
+   "type": "record",
+   "label": "Couture-Carron A 2017",
+   "year": "2017",
+   "category": "16"
+  },
+  {
+   "id": "PMID:26442989",
+   "type": "record",
+   "label": "Thongpriwan V 2015",
+   "year": "2015",
+   "category": "16"
+  },
+  {
+   "id": "CAT:17",
+   "type": "category",
+   "label": "Humility, compassion, self-regulation and responsibility: psychological and health evidence"
+  },
+  {
+   "id": "PMID:29073326",
+   "type": "record",
+   "label": "Bell CA 2019",
+   "year": 2019,
+   "category": "17"
+  },
+  {
+   "id": "PMID:39240981",
+   "type": "record",
+   "label": "Koetke J 2024",
+   "year": 2024,
+   "category": "17"
+  },
+  {
+   "id": "PMID:39902736",
+   "type": "record",
+   "label": "Lehmann M 2026",
+   "year": 2026,
+   "category": "17"
+  },
+  {
+   "id": "PMID:37426514",
+   "type": "record",
+   "label": "Jongman-Sereno KP 2023",
+   "year": 2023,
+   "category": "17"
+  },
+  {
+   "id": "PMID:31516091",
+   "type": "record",
+   "label": "Foronda C 2020",
+   "year": 2020,
+   "category": "17"
+  },
+  {
+   "id": "PMID:33424230",
+   "type": "record",
+   "label": "Lekas HM 2020",
+   "year": 2020,
+   "category": "17"
+  },
+  {
+   "id": "PMID:42656867",
+   "type": "record",
+   "label": "Sotto-Santiago S 2026",
+   "year": 2026,
+   "category": "17"
+  },
+  {
+   "id": "PMID:22796446",
+   "type": "record",
+   "label": "MacBeth A 2012",
+   "year": 2012,
+   "category": "17"
+  },
+  {
+   "id": "PMID:36649790",
+   "type": "record",
+   "label": "Millard LA 2023",
+   "year": 2023,
+   "category": "17"
+  },
+  {
+   "id": "PMID:21280964",
+   "type": "record",
+   "label": "Baker LR 2011",
+   "year": 2011,
+   "category": "17"
+  },
+  {
+   "id": "PMID:35245387",
+   "type": "record",
+   "label": "Kaya F 2022",
+   "year": 2022,
+   "category": "17"
+  },
+  {
+   "id": "PMID:37752743",
+   "type": "record",
+   "label": "Williams Z 2023",
+   "year": 2023,
+   "category": "17"
+  },
+  {
+   "id": "PMID:32150915",
+   "type": "record",
+   "label": "Godfrey DA 2020",
+   "year": 2020,
+   "category": "17"
+  },
+  {
+   "id": "PMID:35089108",
+   "type": "record",
+   "label": "Brassard A 2022",
+   "year": 2022,
+   "category": "17"
+  },
+  {
+   "id": "PMID:25995243",
+   "type": "record",
+   "label": "Buitelaar NJL 2020",
+   "year": 2020,
+   "category": "17"
+  },
+  {
+   "id": "PMID:40035136",
+   "type": "record",
+   "label": "Boonyananth N 2026",
+   "year": 2026,
+   "category": "17"
+  },
+  {
+   "id": "PMID:41007600",
+   "type": "record",
+   "label": "Gopalakrishnan L 2025",
+   "year": 2025,
+   "category": "17"
+  },
+  {
+   "id": "PMID:41235925",
+   "type": "record",
+   "label": "Körün AB 2026",
+   "year": 2026,
+   "category": "17"
+  },
+  {
+   "id": "PMID:36331229",
+   "type": "record",
+   "label": "Gonçalves JPB 2023",
+   "year": 2023,
+   "category": "17"
+  },
+  {
+   "id": "PMID:33704630",
+   "type": "record",
+   "label": "Simonič B 2021",
+   "year": 2021,
+   "category": "17"
+  },
+  {
+   "id": "PMID:40609186",
+   "type": "record",
+   "label": "Narimani M 2025",
+   "year": 2025,
+   "category": "17"
+  },
+  {
+   "id": "PMID:40705620",
+   "type": "record",
+   "label": "Ripley JS 2026",
+   "year": 2026,
+   "category": "17"
+  },
+  {
+   "id": "PMID:42420861",
+   "type": "record",
+   "label": "Aziz AFA 2026",
+   "year": 2026,
+   "category": "17"
+  },
+  {
+   "id": "PMID:40979613",
+   "type": "record",
+   "label": "Anwar MN 2025",
+   "year": 2025,
+   "category": "17"
   }
  ],
  "edges": [
@@ -5352,6 +5670,461 @@
   {
    "source": "PMID:29185783",
    "target": "OD:check-in",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36001675",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40820144",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40820144",
+   "target": "OD:inoculation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41845063",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41845063",
+   "target": "OD:prebunking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31934684",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31934684",
+   "target": "OD:inoculation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35600423",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35600423",
+   "target": "OD:inoculation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37929261",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37929261",
+   "target": "OD:inoculation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42535453",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42535453",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37011949",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23790995",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23790995",
+   "target": "OD:dating violence",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:28821469",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38580464",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28234197",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28234197",
+   "target": "OD:single-session",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38336660",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38336660",
+   "target": "OD:gaslighting",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35974354",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37882155",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37882155",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39536684",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39536684",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33114157",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37727706",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37727706",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26289454",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26289454",
+   "target": "OD:recognition of abuse",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26442989",
+   "target": "CAT:16",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26442989",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:29073326",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29073326",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39240981",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39240981",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39240981",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39902736",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39902736",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37426514",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37426514",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31516091",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31516091",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33424230",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33424230",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33424230",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42656867",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42656867",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:22796446",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22796446",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:22796446",
+   "target": "OD:self-compassion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36649790",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36649790",
+   "target": "OD:self-compassion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:21280964",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:21280964",
+   "target": "OD:self-compassion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:21280964",
+   "target": "OD:self-regulation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:21280964",
+   "target": "OD:conscientiousness",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35245387",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35245387",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35245387",
+   "target": "OD:self-compassion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37752743",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37752743",
+   "target": "OD:self-compassion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32150915",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32150915",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32150915",
+   "target": "OD:empathy",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35089108",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35089108",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35089108",
+   "target": "OD:empathy",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25995243",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25995243",
+   "target": "OD:self-regulation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40035136",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40035136",
+   "target": "OD:self-regulation",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41007600",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41007600",
+   "target": "OD:trustworthiness",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41235925",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41235925",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36331229",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36331229",
+   "target": "OD:religiosity",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33704630",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33704630",
+   "target": "OD:religiosity",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40609186",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40609186",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40705620",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40705620",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42442188",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42420861",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42420861",
+   "target": "OD:humility",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40979613",
+   "target": "CAT:17",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40979613",
+   "target": "OD:humility",
    "relation": "measures_or_discusses"
   }
  ]

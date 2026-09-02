@@ -25,8 +25,10 @@
 | 13 | Digital self-assessment and safety decision aids for intimate-partner violence | 20 | [13-digital-self-assessment-and-safety-decision-aids-for-intimate-partner-violence.md](13-digital-self-assessment-and-safety-decision-aids-for-intimate-partner-violence.md) |
 | 14 | Peer online support, moderated communities and digital safe spaces | 20 | [14-peer-online-support-moderated-communities-and-digital-safe-spaces.md](14-peer-online-support-moderated-communities-and-digital-safe-spaces.md) |
 | 15 | Assessor independence, risk assessment and check-in models | 24 | [15-assessor-independence-risk-assessment-and-check-in-models.md](15-assessor-independence-risk-assessment-and-check-in-models.md) |
+| 16 | Recognition of coercive control and psychological manipulation; inoculation | 20 | [16-recognition-of-coercive-control-and-psychological-manipulation-inoculation.md](16-recognition-of-coercive-control-and-psychological-manipulation-inoculation.md) |
+| 17 | Humility, compassion, self-regulation and responsibility: psychological and health evidence | 25 | [17-humility-compassion-self-regulation-and-responsibility-psychological-and-health-evidence.md](17-humility-compassion-self-regulation-and-responsibility-psychological-and-health-evidence.md) |
 
-Unique PubMed records admitted across categories: **250**.
+Unique PubMed records admitted across categories: **294**.
 
 ## How an entry gets in
 

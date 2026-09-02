@@ -1,0 +1,281 @@
+{
+  "angle": "humility-compassion-self-regulation",
+  "verified": [
+    {
+      "pmid": "29073326",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'humility was related to relationship satisfaction via a serially mediated path of self-forgiveness and partner-forgiveness, which was not reducible to impression management.' N=152 matches. Relevance framing correctly labels this a psychological trait-humility study, not a theological test of T-PHE's chain."
+    },
+    {
+      "pmid": "39240981",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'intellectual humility predicts more constructive and less destructive responses to conflict' across Study 1 (friends/family) and Study 2 (workplace). Correctly described as correlational, no intervention."
+    },
+    {
+      "pmid": "39902736",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: N=533 (n=212, n=112, n=209) matches exactly; 'positive association between IH and empathic accuracy... especially toward the outgroup'; Study 3 manipulation 'to demonstrate causality'; IH also predicted empathic resilience. All figures and causal-language nuance correctly carried over."
+    },
+    {
+      "pmid": "37426514",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: Study 1 N=541 matches; 'people higher in IH are more likely to engage in recommended health behaviors... even when controlling for political affiliation'; mediation by beliefs mask-wearing is effective/protects others; Study 2 (Ns 265-702) IH linked to agreeableness/benevolence. Relevance correctly flags this is deference to public-health expertise, not to a partner/facilitator -- domain-shifted analogy."
+    },
+    {
+      "pmid": "31516091",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms theory-development paper (Walker & Avant method), no primary human sample, presents 'a theory to guide nurses and other professions on how to appreciate diversity and apply cultural humility.' Correctly flagged as theoretical/no empirical outcome data."
+    },
+    {
+      "pmid": "33424230",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'a review of the literature highlights the limited effectiveness of cultural competence training'; proposes cultural humility as 'self-reflexivity... openness to sharing power with patients, and to continue learning.' Matches key_finding; correctly labeled narrative review/position paper."
+    },
+    {
+      "pmid": "42656867",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: '30,000 employees across a health system'; 'positive outcomes, including improved attitudes, knowledge, and satisfaction'; 'Contrary to the belief that a single training is sufficient, this evaluation underscores the importance of continuous learning and dialogue.' Matches key_finding and the complicating caution exactly."
+    },
+    {
+      "pmid": "22796446",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "STRICT EFFECT-SIZE CHECK CONFIRMED. Abstract: 'a large effect size for the relationship between compassion and psychopathology of r=-0.54 (95% CI=-0.57 to -0.51; Z=-34.02; p<.0001)... no evidence of significant publication bias.' 20 samples/14 studies matches. Correctly labeled meta-analysis of correlational studies, not causal/RCT evidence."
+    },
+    {
+      "pmid": "36649790",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "STRICT DESIGN CHECK CONFIRMED. Abstract explicitly says the review covers 'randomised controlled trials and randomised pilot/feasibility studies' (15 studies, 2013-2022) -- key_finding correctly avoids calling this a pure-RCT meta-analysis. Effect sizes self-compassion 0.19-0.90, self-criticism 0.15-0.72, self-reassurance 0.43-0.81, depression 0.24-0.25 all match verbatim. Abstract says '74.88%... female participants'; record rounds to '~75% female', acceptable rounding. '7/15... unclear' quality and no long-term-effects claim both match."
+    },
+    {
+      "pmid": "21280964",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms conscientiousness-moderation pattern for men (high conscientiousness -> self-compassion helps; low -> reverses) and unconditional positive association for women. Multi-study design (2 correlational + 1 experiment + 1 longitudinal) matches. Relevance correctly uses this to complicate a naive 'more compassion is always better' reading of T-PHE's safeguard."
+    },
+    {
+      "pmid": "35245387",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Title was truncated: actual PubMed title is 'The predictive effect of self-compassion on relationship satisfaction and conflict resolution styles in romantic relationships in nursing students.' -- the record dropped the 'in nursing students' clause, which is load-bearing for the population claim. FIXED in search file: title corrected to full form. Also fixed population_setting: the abstract itself never states the country 'Turkey' -- that was an inference from author name and journal (Nursing Forum); corrected to flag country as unconfirmed-from-abstract rather than presenting it as an abstract-stated fact. N=356 (68.5% female), p<.05 for self-compassion predicting satisfaction and conflict-resolution styles, all otherwise supported by abstract."
+    },
+    {
+      "pmid": "37752743",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 210 Black married heterosexual couples; higher self-compassion in both spouses -> lower negative interaction; negative interaction suppressed the positive effect on satisfaction; for wives, open communication and perceived discrimination moderate the pathway. Matches key_finding closely. Design correctly labeled cross-sectional/moderated-mediation, married (not premarital) sample."
+    },
+    {
+      "pmid": "32150915",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "EMPATHY-IPV DIRECTION CHECK CONFIRMED. Abstract: N=49 men; 'working memory was positively related to cognitive and affective empathy, and negatively related to men's physical abuse perpetration and observed aggression'; effects of working memory on aggression/IPV 'fully mediated by' empathy. Direction of empathy-IPV association (protective) matches; small-N caveat correctly flagged."
+    },
+    {
+      "pmid": "35089108",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "EMPATHY-IPV DIRECTION CHECK CONFIRMED, construct-specific. Abstract: N=198 men; 'cognitive empathy was negatively associated with physical and psychological IPV, whereas emotional empathy was positively associated with psychological IPV'; emotional empathy mediated/moderated CSA->psychological IPV, cognitive empathy only moderated. The record's key_finding and relevance correctly reject a simple 'empathy always protects' narrative and specify cognitive vs emotional empathy -- this is exactly the nuance the abstract supports."
+    },
+    {
+      "pmid": "25995243",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Cohort studies identified hyperactive, impulsive, and inattention symptoms as risk factors for adult IPV. CD and ASPD were regarded as mediators in three studies.' Also: 'To date, treatment programs for adult domestic violence (DV) or intimate partner violence (IPV) have had minimal impact' -- matches the record's complicating caution about existing DV/IPV programmes verbatim. Systematic review of case-control/cohort studies confirmed, not RCT."
+    },
+    {
+      "pmid": "40035136",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Title was shortened: actual PubMed title is 'A Systematic Review of the Psychosocial Mechanism Underlying the Pathway from Intra-Familial Victimization in Childhood to Intimate Relationship Violence in Adolescence and Adulthood.' The record dropped 'in Childhood' and 'in Adolescence and Adulthood', changing the precise scope described. FIXED in search file: title corrected to full form. Key_finding itself (attachment moderates, EMS mediates, Sense-of-Self -- self-control/self-blame/self-worth/self-esteem -- as strong contributors; identity-resolution unstudied; 17 studies) matches abstract exactly and needed no change."
+    },
+    {
+      "pmid": "41007600",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 200 newly married women 18-25, rural Nawalparasi, Nepal; 192/200 (96%) completed 6-month follow-up; Cronbach's alpha 0.79-0.96; criterion validity with relationship happiness r=0.63-0.72 (p<.001); test-retest r=0.21-0.51 'moderate to low... likely reflecting genuine relationship changes'. All figures match exactly. Correctly labeled psychometric validation, not an outcomes/intervention study."
+    },
+    {
+      "pmid": "41235925",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Title was truncated: actual PubMed title appends 'Among Emerging Adulthoods.' FIXED in search file: title corrected to full form. Key_finding (relationship maintenance behaviors predict relationship quality directly and via dyadic trust; openness/positivity important in building trust) matches abstract and needed no change; sample correctly described as emerging-adult, non-Thai, non-premarital-specific."
+    },
+    {
+      "pmid": "36331229",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "RELIGIOSITY-IPV STRICT CHECK CONFIRMED -- this is the load-bearing claim for angle (f). Abstract: 'higher levels of R/S were significantly associated with decreased physical and sexual aggression, but not domestic violence' and 'these results were not observed for domestic violence.' The record's key_finding states this distinction precisely (protective for aggression, NOT for domestic violence), matching the abstract's own wording almost verbatim. 67 systematic-review studies / 43 meta-analysis studies, 16,599 screened, adolescent subgroup all match."
+    },
+    {
+      "pmid": "33704630",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 18 studies on IPV in Christian families; 'rate of intimate partner violence in Christian families is no higher or lower compared to the general incidence'; 'religiosity combined with other factors may contribute to the vulnerability of the victim or the power of the perpetrator' while also providing 'protection and support in preventing violence... and recovering.' Bidirectional framing in key_finding matches. Correctly flagged as Christian, not Muslim, sample -- cross-tradition analogy only."
+    },
+    {
+      "pmid": "40609186",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Title was missing the subtitle: actual PubMed title ends '...in Islamic-Asian societies: Integrative review.' FIXED in search file: title corrected to full form. Key_finding (SCIT model: mental health as alignment between personal cognitive appraisals and culturally sanctioned social roles; role-appraisal congruence shapes resilience; six Islamic-Asian countries) matches abstract and needed no change. Correctly flagged as conceptual/theoretical, no primary outcome data -- cannot support any T-PHE effectiveness claim."
+    },
+    {
+      "pmid": "40705620",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: N=174 graduate students/professionals; 5-hr online training 'based on principles of cultural humility... nonanxious presence... and differentiation'; switching-replication design; 'significant change... especially for measures of self-efficacy, attitude, increased frequency of R/S integrated practice, and global relational R/S competency'; gains sustained for immediate-treatment group. Matches record exactly. Correctly flagged as training clinicians, not couples, and not premarital/Thai/Muslim-specific -- an analogy only."
+    },
+    {
+      "pmid": "42442188",
+      "exists": true,
+      "title_matches": false,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "PILOT N=8 DESIGN CHECK CONFIRMED for the substance, but the title's subtitle was fabricated: actual PubMed title ends 'A mixed-method study,' not the record's invented 'A mixed-methods pilot randomized controlled trial.' FIXED in search file: title subtitle corrected to match PubMed exactly (the 'design' field, which does independently and correctly say 'pilot randomized controlled trial, mixed-methods, pre/post/follow-up' sourced from the abstract's own description, was left unchanged since it is accurate). Key_finding confirmed against abstract: 8 couples in the main RCT phase plus a separate 2-couple feasibility phase (data not pooled into main analysis); significant improvement in conflict-resolution exit/voice/neglect (not loyalty); satisfaction increase only at follow-up, not post-intervention; no attrition. All figures and the pilot/feasibility framing (not an effectiveness claim) match."
+    },
+    {
+      "pmid": "42420861",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Title matches exactly (PubMed's title includes a copyright glyph, '...PAUSE© flipchart...', cosmetic only). Abstract: parallel cluster-RCT, 8 public clinics, Johor Bahru, Malaysia, mandatory premarital HIV testing for Muslim couples; both groups improved (p<.001); intervention mean increase 6.99 (95% CI 6.01-7.97) vs control 3.99 (95% CI 2.89-5.09); PEMAT-P 95.92. All figures match. Correctly flagged as knowledge outcome only, not a humility/consent/restraint construct."
+    },
+    {
+      "pmid": "40979613",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: PRISMA-ScR scoping review, 8 included studies, adolescents/young adults, culturally diverse resource-limited settings; interventions 'consistently improved knowledge (P<0.001)' but 'behavioural outcomes, such as increased uptake of screening, were inconsistent' and 'socio-cultural barriers limited the translation into behavioural changes.' Matches key_finding and its knowledge-behaviour-gap caution exactly."
+    }
+  ],
+  "overall_note": "25/25 PMIDs resolved via NCBI efetch and exist as stated; no fabricated or mismatched PMIDs found. All 25 years matched. 20 records verdict KEEP outright. 5 records verdict FIX, all for the same defect class: the search file's 'title' field was truncated, shortened, or (in one case, 42442188) had an invented subtitle relative to the actual PubMed ArticleTitle -- these have now been corrected in place in search-humility-compassion.json (35245387, 40035136, 41235925, 40609186, 42442188), plus one population_setting correction (35245387's 'Turkey' claim was not stated in the abstract itself and has been reframed as an unconfirmed inference). No key_finding or relevance_to_tphe text required correction: every quantitative claim checked against the abstract (self-compassion r=-0.54 for 22796446; empathy-IPV direction, construct-specific for 32150915/35089108; religiosity protective for aggression but explicitly not for domestic violence for 36331229; pilot N=8 design for 42442188; RCT-vs-pilot/feasibility framing for 36649790) held up on direct quote comparison, and no record made a religious truth-claim or an effectiveness claim about T-PHE itself -- all relevance text correctly frames construct evidence as analogy only. In-scope status was uncontested for all 25 records."
+}
