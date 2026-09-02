@@ -27,8 +27,9 @@
 | 15 | Assessor independence, risk assessment and check-in models | 24 | [15-assessor-independence-risk-assessment-and-check-in-models.md](15-assessor-independence-risk-assessment-and-check-in-models.md) |
 | 16 | Recognition of coercive control and psychological manipulation; inoculation | 20 | [16-recognition-of-coercive-control-and-psychological-manipulation-inoculation.md](16-recognition-of-coercive-control-and-psychological-manipulation-inoculation.md) |
 | 17 | Humility, compassion, self-regulation and responsibility: psychological and health evidence | 25 | [17-humility-compassion-self-regulation-and-responsibility-psychological-and-health-evidence.md](17-humility-compassion-self-regulation-and-responsibility-psychological-and-health-evidence.md) |
+| 18 | Islamic medical ethics and spirituality in Muslim health care (tier-one sources only) | 20 | [18-islamic-medical-ethics-and-spirituality-in-muslim-health-care-tier-one-sources-only.md](18-islamic-medical-ethics-and-spirituality-in-muslim-health-care-tier-one-sources-only.md) |
 
-Unique PubMed records admitted across categories: **294**.
+Unique PubMed records admitted across categories: **313**.
 
 ## How an entry gets in
 

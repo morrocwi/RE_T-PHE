@@ -21,6 +21,7 @@ graph LR
   C15["15 Assessor independence, risk assessment and check-in models"]
   C16["16 Recognition of coercive control and psychological manipulation; inoculation"]
   C17["17 Humility, compassion, self-regulation and responsibility: psychological and health evidence"]
+  C18["18 Islamic medical ethics and spirituality in Muslim health care (tier-one sources only)"]
   P1["P1: A governance layer improves decision control beyond content-only education"]
   P2["P2: A routine private channel makes materially relevant concerns more visible"]
   P3["P3: Cultural intelligibility helps only when culture cannot override consent or safety"]
