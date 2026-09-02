@@ -1,0 +1,226 @@
+{
+  "angle": "couple-work-safety-coercive-control",
+  "verified": [
+    {
+      "pmid": "27377617",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms: 1,733 citations screened, 6 studies in meta-analysis, 'couples therapy is a viable treatment in select situations' but professionals cautious of violent retaliation. Matches record closely."
+    },
+    {
+      "pmid": "18624089",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms best practices list verbatim: part of larger community response, careful screening, modification of conjoint approaches for safety, ongoing safety assessment with contingency plans; 'one-size-fits-all' rejected. Matches record."
+    },
+    {
+      "pmid": "25039387",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms attachment-based argument for conjoint treatment of situational couple violence (SCV, distinct from coercive control), safety plan/time-out strategy, and 'cautions for the appropriateness of couples counseling with ongoing violence.' Matches record."
+    },
+    {
+      "pmid": "21780535",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=172 (85 men, 87 women), coercive control associated with IPV similarly by gender, 'predominantly reciprocal in nature.' Matches record exactly."
+    },
+    {
+      "pmid": "34167331",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms CIPR subscales (Demand, Threat, Surveillance, Response to Demands), rationale that 'content validity appears to be an issue for existing measures,' and validity/reliability support. Matches record."
+    },
+    {
+      "pmid": "42323273",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Confirmed real PMID (2026, BMJ open, Hegarty) despite the unusually high 8-digit number for a record dated 2016-search-vintage-looking data — not a fabrication. Abstract confirms n=854 Australian women, C-CAS four-factor structure, developed because prior measures showed 'limited understanding of these patterns of behaviour.' Matches record."
+    },
+    {
+      "pmid": "35611345",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=222 survivor-mothers, EFA + Rasch analysis, 14-item two-subscale (Harm to Self/Motherhood, Harm to Finances) Legal Abuse Scale for legal-system misuse post-separation. Matches record."
+    },
+    {
+      "pmid": "27927659",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Core finding is supported (15-item CASR-SF, pooled n=6,278 Canadian women, rationale that IPV measurement 'often privilege[s] physical violence, with poor assessment of other experiences'). Minor overreach: the record's 'design' field calls the expert input 'Delphi-style item rating' — the abstract describes '31 international IPV experts... rated CAS items via an online survey,' a single round, not an explicit Delphi (iterative multi-round consensus) method. Change 'Delphi-style' to 'expert panel survey' or similar to avoid implying a specific methodology not stated in the abstract."
+    },
+    {
+      "pmid": "24860075",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=200 Chinese women, 91/200 qualitative accounts consistent with Dutton and Goodman's coercive-control conceptualization, and strong discriminative accuracy (AUC=.99 split-half; 96%/95% sensitivity/specificity on holdout). Matches record; 'ROC curve analysis' framing accurate."
+    },
+    {
+      "pmid": "26645540",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms think-aloud/cognitive interviewing on the Composite Abuse Scale, underreporting 'particularly of coercive control, threatening behavior, restrictions to freedom, and sexual abuse,' linked to item-interpretation confusion and fear/reluctance to disclose. Matches record."
+    },
+    {
+      "pmid": "38206858",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=138 couples RCT, SAH-C vs Supportive Prevention, service-member reductions across physical/sexual/psychological/coercive-control IPV and suicidality, partner-reported effects 'in the same direction but not as robust.' Matches record; caveat about targeted/screened prevention population (not premarital) is appropriate and present in the record."
+    },
+    {
+      "pmid": "30357304",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "PMID/title/year correct, but the key_finding materially overstates the abstract's conclusions in two ways. (1) The abstract's actual conclusion is: 'trials of IPV screening in adult women did NOT show a reduction in IPV or improvement in quality of life over 3 to 18 months' — screening tools were found to 'reasonably identify' IPV (accuracy claim only, sensitivity/specificity varied widely by tool), but the record's claim that the review found 'some interventions (e.g., counseling) following screening among women of reproductive age reduce IPV' is too broad: only 2 of 11 intervention RCTs (1 home-visiting, 1 multi-risk behavioral counseling) showed significant reduction, and only in PREGNANT women specifically, not the general reproductive-age population. (2) 'informing a USPSTF grade-B recommendation' conflates this article (the evidence report/systematic review, PMID 30357304) with the companion USPSTF Recommendation Statement, which is a SEPARATE PMID (30357305, also JAMA 2018;320(16):1678-1687) not cited in the record. Fix: rewrite key_finding to state the evidence report found screening tools moderately accurate but screening ITSELF did not reduce IPV/improve QoL in trials; only 2 specific interventions in pregnant-women subgroups showed benefit; and either cite PMID 30357305 separately for the actual grade-B recommendation or explicitly note this record is the evidence report underlying that recommendation, not the recommendation itself."
+    },
+    {
+      "pmid": "28649297",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 43 studies, 9 categories, single active-assistance type + counsellor/advocate combination associated with 77.8% and 83.3% of studies reporting positive results respectively. Matches record closely (record's framing that this 'outperforms complex bundled ones' is a fair paraphrase of the reported associational pattern, not a causal claim overreach)."
+    },
+    {
+      "pmid": "24053261",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms RADAR (Remember/Ask/Document/Assess/Review) tool description, private questioning, safety assessment (weapons, children, perpetrator risk), advocacy-model referral. Abstract additionally states explicitly 'Couples counseling by family physicians is contraindicated' — relevant context the record's relevance_to_tphe does not mention but does not misstate either; worth citing directly if the manuscript wants a strong contraindication quote."
+    },
+    {
+      "pmid": "15661584",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=21 women, pile-sort methodology, 9 of 17 rated couple's counseling a good idea with 7 'definitely not useful.' Matches record exactly, including exact counts."
+    },
+    {
+      "pmid": "31012540",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms EMR-integrated screening tool + provider education + automated resource/referral system, DVHCPSS pre/post t-test, significant overall increase in screening readiness (p=.003). Matches record; 'no control group' caveat in record's evidence_level field is accurate (single-group pre-post design)."
+    },
+    {
+      "pmid": "28375750",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 2 family planning clinics, n=132 baseline / n=68 at 3-month (52% retention, matching record's '52% at 3 months' caution), n=35 interviews, 65% receiving at least one intervention element. Matches record."
+    },
+    {
+      "pmid": "32791967",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=10 patient interviews, n=29 provider focus groups, VHA setting, explicit framing that perpetration ('IPV use') screening has 'an extremely limited evidence-base' compared to victimization screening. Matches record."
+    },
+    {
+      "pmid": "16882959",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "PMID/title/year/design details (n=2,602 eligible women, 6 Ontario clinical sites, cluster RCT) all match. However the record's key_finding only restates the study's OBJECTIVE ('compared...to determine the optimal screening method') rather than the actual RESULT. The abstract's actual finding: women preferred self-completed formats over face-to-face; computer-based screening did not increase detected prevalence; written screens had the fewest missing data; PVS and WAST had similar sensitivity (~49%/47%) and specificity (~94%/96%) against the CAS criterion standard. Fix: replace key_finding with the actual result (format preference + accuracy findings), not just the study aim, since as written the relevance_to_tphe claim ('directly informing how T-PHE's private/confidential channel... should be designed') is only earned by the actual result, not the restated objective."
+    },
+    {
+      "pmid": "23012348",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms n=412 (African American, Latina, White) women who had used aggression against a male partner, comparison of CTS2/SES/PMWI factor structures, finding perpetration model 'performed poorly in assessing women's sexual aggression, coercive control, and jealous monitoring' while victimization model performed well across factors. Matches record; the asymmetry finding is accurately characterized."
+    }
+  ],
+  "overall_note": "20/20 records exist on PubMed and all titles/years match exactly — no fabricated PMIDs found (PMID 42323273, an unusually high 8-digit number, is a genuine 2026 BMJ Open article and resolved correctly; initial curl attempts before this returned mismatched/unrelated articles due to what appears to have been a transient proxy/cache issue on the first efetch call, resolved on re-fetch with a fresh output file and independently cross-checked against the search file's stated titles). 17/20 records verified as KEEP with key_finding fully supported by the abstract text and relevance_to_tphe claims reasonable and appropriately hedged (the search file consistently and correctly notes that none of this literature evaluates T-PHE itself, and repeatedly notes cross-population/typology caveats rather than overclaiming). 3/20 records need FIX: (1) PMID 27927659 — minor, 'Delphi-style' methodology label not supported by the single-round expert survey described in the abstract; (2) PMID 30357304 — the most substantive problem found, key_finding overstates that screening-linked interventions reduce IPV broadly among reproductive-age women (the abstract shows screening itself did not reduce IPV/improve QoL in trials, and only 2 of 11 intervention RCTs, restricted to pregnant women, showed benefit) and wrongly attributes the grade-B USPSTF recommendation to this evidence-report PMID rather than the separate companion Recommendation Statement PMID (30357305); (3) PMID 16882959 — key_finding restates the study's objective rather than its actual result (self-report format preference, no prevalence increase from computer screening, PVS/WAST sensitivity ~47-49%/specificity ~94-96%). No DROP-worthy records: no out-of-scope sources, no unresolvable PMIDs, no title/year mismatches anywhere in the set. gaps_noted and limits_of_this_search sections in the source file both read as honest and appropriately hedged on independent review."
+}

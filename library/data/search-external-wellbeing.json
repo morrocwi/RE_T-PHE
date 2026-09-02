@@ -1,0 +1,46 @@
+{
+ "angle": "external-wellbeing-citations",
+ "source": "external draft #5 received 2026-09-02 21:34",
+ "records": [
+  {
+   "id": "DOI:10.1111/j.1741-3729.2003.00105.x",
+   "claim": "Carroll & Doherty 2003 Family Relations meta-analysis of premarital prevention programmes: average effect size ~0.80"
+  },
+  {
+   "id": "DOI:10.1111/j.1741-3729.2010.00598.x",
+   "claim": "Fawcett 2010 Family Relations: 47 studies incl. unpublished; no consistent relationship satisfaction/quality gain; clearer communication gains esp. observational"
+  },
+  {
+   "id": "35040124",
+   "claim": "Hawkins 2022 ACF-funded couple relationship education meta-analysis, 32 controlled evaluations: relationship quality d=0.114, relationship skills d=0.132, mental health d=0.074, coparenting d=0.033; stability/parenting/child well-being not significant"
+  },
+  {
+   "id": "33502054",
+   "claim": "Online relationship education meta-analysis, 12 publications: improved satisfaction, communication, confidence; reduced negative qualities; reduced anxiety/depressive symptoms; improved health satisfaction and quality of life"
+  },
+  {
+   "id": "DOI:10.1016/j.beth.2011.03.006",
+   "claim": "Hawkins/Blanchard? MRE programmatic moderators meta-analysis, 148 evaluation reports (Behavior Therapy 2012?): 9-20 h programmes more effective than short; communication-focused programmes higher communication effects"
+  },
+  {
+   "id": "39377020",
+   "claim": "2024 trial: booklet- vs video-based premarital education, 110 engaged couples; both increased reproductive health literacy incl. access, evaluation, decision-making/application"
+  },
+  {
+   "id": "PMC12949829",
+   "claim": "2026 quasi-experimental: reproductive and sexual health education in premarital counselling classes; knowledge and attitudes improved at 3 months; no clinical outcomes"
+  },
+  {
+   "id": "DOI:10.1186/s12978-026-02385-y",
+   "claim": "Couple-based preconception care SR 2026 (Reproductive Health): 14 studies, 10 countries"
+  },
+  {
+   "id": "DOI:10.1111/j.1741-3737.2007.00393.x",
+   "claim": "Proulx 2007 J Marriage Fam meta-analysis: 93 studies; marital quality and personal well-being r=.37 cross-sectional, r=.25 longitudinal"
+  },
+  {
+   "id": "PMC3872512",
+   "claim": "Robles 2014 Psychol Bull meta-analysis: 126 articles, >72,000 participants; marital quality associated with physical health r~.07-.21, lower mortality risk, lower cardiovascular reactivity during conflict"
+  }
+ ]
+}

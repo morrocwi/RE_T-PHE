@@ -1,0 +1,42 @@
+{
+ "angle": "external-culture-citations",
+ "source": "external draft #6 received 2026-09-02 21:34",
+ "records": [
+  {
+   "id": "25443490",
+   "claim": "Napier 2014 Lancet Commission 'Culture and health': culture shapes meaning of health, behaviour, trust, communities of care; theoretical basis, not efficacy evidence"
+  },
+  {
+   "id": "36502848",
+   "claim": "Devakumar 2022 Lancet Series: racism, xenophobia, discrimination \u2192 health via segregation, hierarchy, stress, service exclusion, economic-political conditions"
+  },
+  {
+   "id": "36502849",
+   "claim": "Selvarajah 2022 Lancet Series: mechanisms/pathways linking discrimination to health"
+  },
+  {
+   "id": "DOI:10.1016/S0140-6736(26)00494-0",
+   "claim": "Abubakar 2026 Lancet: UCL-Lancet Commission on migration and health follow-up; inclusive services, equitable access, rights, dignity, privacy, political determinants"
+  },
+  {
+   "id": "24793445",
+   "claim": "Horvat 2014 Cochrane: cultural competence education for health professionals; 5 RCTs, 337 professionals, 8,400 patients; low-quality evidence; some improvement in involvement/understanding; no reliable clinical outcomes; adverse outcomes not assessed"
+  },
+  {
+   "id": "DOI:10.1016/S2215-0366(23)00118-9",
+   "claim": "Li 2023 Lancet Psychiatry: culturally adapted psychological interventions for common mental disorders in Chinese populations; review/meta-analysis; benefit population- and treatment-specific"
+  },
+  {
+   "id": "DOI:10.1001/jamanetworkopen.2025.xxxx",
+   "claim": "Reaume 2025 JAMA Network Open: cohort 124,583 hypertensive patients; language-concordant care associated with lower major cardiovascular events among speakers of languages other than English/French/Indigenous; observational (find the correct PMID by title)"
+  },
+  {
+   "id": "DOI:10.1001/jamapsychiatry.2022.xxxx",
+   "claim": "Axinn 2022 JAMA Psychiatry: Nepal longitudinal, ethnically diverse communities; community support structures (social capital/cohesion) associated with lower depression incidence; natural experiment (find the correct PMID by title/author)"
+  },
+  {
+   "id": "41887826",
+   "claim": "Watt 2026 Lancet Public Health TOGETHER trial: multicentre RCT of Strengthening Families, Strengthening Communities group programme; 674 participants, 62% ethnic minority; 13 weeks; improved parental mental well-being post-programme and at 6 months"
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+  "angle": "muslim-thailand-southeast-asia",
+  "verified": [
+    {
+      "pmid": "40116416",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms all elements verbatim: 6 HCW-survivors, coping strategies list, reliance on coworkers, formal help only when critical, barriers = misconceptions/privacy/workplace-gossip fear. Malaysia, PubMed-indexed. No overstatement."
+    },
+    {
+      "pmid": "42300599",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Record status is 'Publisher' (ahead-of-print, PubDate 2026-06-16), so 2026 is correct, not a typo. Abstract: 'Muslim, poverty, and residence in southern/central regions correlate with higher IPV tolerance for both genders... internet access significantly reduces it' - matches key_finding exactly. National Thailand survey, in scope."
+    },
+    {
+      "pmid": "38970860",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'reported a 65.6% rate of child neglect and a 30.8% rate of IPV in the past year. 37.6% experienced child marriage... significant associations between child neglect and child marriage, IPV, and depression symptoms.' All three percentages and the association claim match exactly. Correctly identified as rural China (Salar Muslim minority), not Southeast Asia -- relevance framing does not overstate region."
+    },
+    {
+      "pmid": "36429857",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Factors consistently associated with child marriage in South Asia were rural residence, low level of education, poor economic background, low exposure to mass media and religion... low utilization of antenatal care services, low institutional delivery, and low delivery assistance by a skilled birth attendant.' Matches key_finding closely. Record's own relevance text honestly flags 'regional (South Asia, not Southeast Asia) so context-adjacent rather than direct' -- no overstatement of geographic fit."
+    },
+    {
+      "pmid": "32138744",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: '59 studies were included from 22 countries... Many Muslim women have poor SRH knowledge, and negative attitudes... Religious and cultural beliefs were barriers to contraception use and access to SRH services and information.' Matches key_finding. Global systematic review, in scope, relevance framing appropriately generic (not claimed Thailand-specific)."
+    },
+    {
+      "pmid": "39395200",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'contentious due to societal and religious taboos... misunderstood as a potential catalyst for premarital sex... Peer counsellors... reproduced adult moral values toward their peers, leading to a reluctance among adolescents to share their issues. Consequently, SRH education failed to reach those experiencing unwanted pregnancy or a toxic intimate relationship.' Matches key_finding's taboo/moral-panic and peer-counsellor-gap framing precisely."
+    },
+    {
+      "pmid": "34253076",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms pre-migration ACEs/family IPV history, post-migration language/isolation barriers and internalized patriarchal values shaping help-seeking and the decision to leave. Population correctly stated as Canadian immigrant Muslim women (not Southeast Asia); relevance text does not claim regional fit, only thematic (help-seeking/decision-control) relevance."
+    },
+    {
+      "pmid": "39425490",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: '33 qualitative studies... four major themes: the experience and impacts of abuse; risk factors...; help-seeking; and the coping strategies... religion not only as a risk factor for violence and a barrier to help-seeking but also as a coping strategy.' Matches key_finding's 'four major themes' and dual-role-of-religion claim exactly."
+    },
+    {
+      "pmid": "31896308",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'cultural norms may prompt fear of parental and community reactions to dating as well as strong relationship attachment. These then have implications for disclosure, help seeking, and ending abusive relationships.' Matches key_finding. Correctly labeled as South Asian Muslim diaspora, not Thailand/Southeast Asia."
+    },
+    {
+      "pmid": "12429436",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'discusses the experiences of the Khonkaen provincial hospital, which has been selected as an intervention case site for a one-stop crisis service... compared with another provincial hospital where no intervention has taken place.' Matches key_finding directly. Thailand, PubMed-indexed, on-topic OSCC evidence."
+    },
+    {
+      "pmid": "15162975",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'We interviewed 4 abused women... Another woman was successfully supported by nurses of the health center, a community leader and a Buddhist monk. Health professionals played important roles in identifying, treating and protecting abused women.' The key_finding's 'in one case, a community religious leader (a Buddhist monk)' correctly hedges to a single case, not a general claim -- accurate, not overstated."
+    },
+    {
+      "pmid": "32460657",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: '13 male religious leaders... All of the participants stated that they were involved in the affairs of their communities by counseling on familial and marital problems... responding to DV through counseling and taking legal measures.' Matches key_finding. Lebanon, correctly flagged in the record as 'not Southeast Asia... complicates' rather than presented as direct regional evidence. No named individual or organisation criticized; discussion is of religious leaders as an occupational group in aggregate."
+    },
+    {
+      "pmid": "29587705",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'approximately 17% and 6% report being married before 18 and 16 years old respectively... Research on child marriage in Southeast Asia is scarce.' Matches key_finding's prevalence figures and the 'scarce prior research' framing exactly. Nationally representative Indonesia data, in scope."
+    },
+    {
+      "pmid": "18038283",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'traditional practices such as polygamy, early marriage and contract marriage (mut'a) play an important role in enhancing women's likelihood of acquiring HIV within the Indonesian context.' Matches key_finding. Indonesia, in scope; relevance claim (marriage completion not evidence of good outcome) is a reasonable reading, not overstated."
+    },
+    {
+      "pmid": "34780506",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'cultural practices in Belu related to the use of bride wealth, managing spousal disputes, marriage, and condom use... Islamic religious beliefs about expected husband-wife relationships, forbidden premarital sex, and... condom use... contributed to HIV transmission.' Matches key_finding. Indonesia, in scope."
+    },
+    {
+      "pmid": "17457732",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms the historical-discourse trajectory: New Order gender/heterosexuality-marriage linkage -> 1990s Islamic-discourse shifts -> post-1998 push for criminal-code restrictions on sexuality. Matches key_finding. Record's own relevance text correctly labels this 'not empirical outcome data,' avoiding overclaim."
+    },
+    {
+      "pmid": "38968277",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'prevalence of female child marriage in Indonesia was quite high, reaching about 12.53%... health insurance and sex of household head did not significantly influence female child marriage.' Matches key_finding's prevalence figure and non-significant-predictors claim exactly. Nationally representative, in scope."
+    },
+    {
+      "pmid": "36163286",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract supports: household financial security (p=0.016), dowry (p<0.001) and legal frameworks (p=0.017) as significant ANOVA-associated factors with child marriage acceptability in Bone/South Sulawesi and Palu-Sigi-Donggala/Central Sulawesi. However, the record's clause 'across two Indonesian provinces where child-marriage rates remain above the national average' is NOT supported for these specific study sites -- the abstract's '22 out of 34 provinces... above the national average in 2019' statement is a general national context sentence, not a claim tied to Bone/South Sulawesi or Central Sulawesi by name. FIX: change to something like 'two Indonesian provinces' and drop or separately attribute the 'above national average' clause as general Indonesia-wide context rather than a site-specific fact."
+    },
+    {
+      "pmid": "34527969",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'adolescent female participants had been 15.7 years old when they were first married. Over 80% had given birth during the two years before the survey or were pregnant... main factors... physical and mental maturity for marriage, social norms, insecurity, family honour.' Matches key_finding exactly. Population is Bangladesh (Cox's Bazar), NOT Thailand -- correctly identified as such in population_setting and the relevance text explicitly caveats 'the displacement-camp setting differs from T-PHE's Thai premarital-course setting,' so the Rohingya/Bangladesh-vs-Thailand distinction is honestly preserved, not conflated."
+    },
+    {
+      "pmid": "36550423",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Similar themes emerged... a desire to hold onto tradition in displacement and how norms are reinforced across generations... girls themselves described having little agency... resistance to change.' Matches key_finding. Correctly identified as Jordan (Syrian) + Bangladesh (Rohingya), not Thailand -- no geographic conflation."
+    },
+    {
+      "pmid": "40091116",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Participants largely agreed that rates of child marriage have increased post-conflict and displacement... fears around protection, socioeconomic need, lack of education and employment opportunities, and a perceived loosening of restrictions around legal age of marriage within camp.' Matches key_finding exactly. Correctly identified as Cox's Bazar, Bangladesh, not Thailand."
+    },
+    {
+      "pmid": "34323166",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: '61.32% of women experienced child marriage... AOR = 2.71; 95%CI: 1.78, 4.11... AOR = 1.72; 95%CI: 1.13, 2.61.' Both prevalence figure and both adjusted odds ratios (with matching CIs) confirmed verbatim. Correctly identified as Bangladesh, not Thailand."
+    },
+    {
+      "pmid": "12962056",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Women's autonomy in various spheres is not consistently lower in Muslim than in non-Muslim settings. Both across and within communities, the association between women's autonomy and mortality is weak, and measures of autonomy or socioeconomic status are generally of limited import.' Matches key_finding exactly. Study countries are India, Malaysia, Philippines, Thailand -- record correctly cites Malaysia and Thailand as included. Relevance text correctly frames this as a caution/complication against a simplistic Muslim-identity-predicts-lower-autonomy reading, not an overstated claim."
+    }
+  ],
+  "overall_note": "22 of 23 records fully verified: PMID resolves to the stated title in every case, all 23 years match exactly (PMID 42300599's 2026 date is a genuine 2026-06-16 ahead-of-print record, not an error), and all journal names match. Key findings are supported by the fetched abstract text for 22/23 records, with numeric details (percentages, AORs, CIs, sample sizes) checked against source text and found accurate where quoted. One record (PMID 36163286) has a FIX-level issue: the record attaches a general Indonesia-wide 'above national average' statistic to its two specific study provinces without abstract support for that specific attribution -- the underlying significant-factors findings (dowry, financial security, legal frameworks) are otherwise correctly reported. No record makes a negative or unverified claim about a named organisation or individual; discussions of 'religious leaders' or hospitals are aggregate/institutional, not personal allegations. All records are PubMed-indexed and in scope. Geographic honesty is generally strong: records drawing on non-Thailand/non-Southeast-Asia populations (South Asia systematic review, Lebanon, Canada, China, Bangladesh/Rohingya, Jordan) are consistently self-flagged in their own relevance_to_tphe text as 'complicates' or context-adjacent rather than being misrepresented as direct Thai evidence -- the search's own gaps_noted section is consistent with this, explicitly stating no Thailand-Muslim-specific or Thailand premarital-course evaluation was found and that Rohingya evidence 'should not be read as directly representative of Thai Muslim or intercultural couples.'"
+}
