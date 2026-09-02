@@ -23,6 +23,12 @@ This is a **public medical-science research repository**. Read this file before 
   safeguarding, referral, critical appraisal, prospective evaluation.
 - Do **not** import working vocabulary from other projects or philosophies into this repository.
   A reader from a medical faculty must be able to read every file without a glossary.
+- **Islamic ethical terms are part of this work's declared framework** (the abstract names limited
+  knowledge, entrusted responsibility, human dignity, just boundaries and repair; the manuscript names
+  them as *faqr*, *taqwa*, *amanah*, *ʿadl*). They may be used, always with a plain-language gloss,
+  as the named ethical frame — never as evidence. Every ethical statement must be paired with the
+  medical or public-health evidence it governs. Islamic medical-ethics literature may be cited only
+  when it is PubMed-indexed and of high quality (systematic review, guideline, or leading journal).
 - Grade every claim by evidence type as in `CLAIMS.md`. Never upgrade a conceptual synthesis to
   a finding, or an organisational figure to a verified count.
 

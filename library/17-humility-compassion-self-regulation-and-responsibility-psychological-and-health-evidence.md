@@ -1,6 +1,6 @@
 # 17. Humility, compassion, self-regulation and responsibility: psychological and health evidence
 
-*Scope:* Intellectual and relational humility, cultural humility, self-compassion and empathy, self-regulation/conscientiousness, trustworthiness; Islamic psychology and religiosity in relation to relationship safety and health.
+*Scope:* Intellectual and relational humility, cultural humility, self-compassion and empathy, self-regulation/conscientiousness, trustworthiness; Islamic psychology and religiosity in relation to relationship safety and health. These constructs are the medical-science counterparts of the abstract's ethic: limited knowledge (faqr), conscientious restraint (taqwa), entrusted responsibility (amanah), justice (ʿadl) — the ethic names the duty; the evidence here says what is known about the construct.
 
 *Provenance of the text in this table:* the **Finding** and **Relevance annotation** columns are AI-drafted readings of the PubMed abstract, checked by an independent verifier; they are not the authors' own wording. The **Verifier** column shows the verdict and, for FIX entries, the correction that must be applied before citing.
 
