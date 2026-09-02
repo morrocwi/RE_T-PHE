@@ -16,6 +16,7 @@ the TIMA/FIMA Scientific Convention 2026.
 | **Document of record** | [`abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf`](abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf) (camera-ready, SHA-256 in [`abstract/SHA256SUMS`](abstract/SHA256SUMS)) |
 | **Web copy** | [`abstract/ABSTRACT.md`](abstract/ABSTRACT.md) |
 | **Evidence ledger** | [`CLAIMS.md`](CLAIMS.md) — every statement in the abstract graded by the type of evidence behind it |
+| **Setting** | [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) — background on the originating organisation, each statement labelled by source status; context for readers, not part of the paper |
 | **License** | [CC BY 4.0](LICENSE) |
 
 ## What the abstract claims, in one paragraph
@@ -74,6 +75,7 @@ See [`CITATION.cff`](CITATION.cff). Suggested form:
 ```
 abstract/       camera-ready PDF (document of record), SHA256SUMS, web copy
 CLAIMS.md       evidence ledger for every statement in the abstract
+ABOUT_ARAYA_NIKAH.md  organisational setting, source-status labelled (context, not evidence)
 AGENTS.md       rules for any human or AI contributor (review gate, language standard)
 GOAL.md         what this research programme is trying to achieve, and how it will know
 logbook.jsonl   append-only record of what was actually done
