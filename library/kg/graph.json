@@ -1475,6 +1475,20 @@
    "category": "10"
   },
   {
+   "id": "PMID:29417854",
+   "type": "record",
+   "label": "Ford Kathleen 2018",
+   "year": "2018",
+   "category": "10"
+  },
+  {
+   "id": "PMID:37442996",
+   "type": "record",
+   "label": "Jinarong Taqwa 2023",
+   "year": "2023",
+   "category": "10"
+  },
+  {
    "id": "CAT:11",
    "type": "category",
    "label": "Premarital knowledge and well-being pathways"
@@ -1861,12 +1875,12 @@
   },
   {
    "source": "PMID:18837590",
-   "target": "P6",
+   "target": "P1",
    "relation": "complicates"
   },
   {
    "source": "PMID:18837590",
-   "target": "P1",
+   "target": "P6",
    "relation": "complicates"
   },
   {
@@ -2361,12 +2375,12 @@
   },
   {
    "source": "PMID:32460786",
-   "target": "P3",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:32460786",
-   "target": "P5",
+   "target": "P3",
    "relation": "supports"
   },
   {
@@ -3161,12 +3175,12 @@
   },
   {
    "source": "PMID:34770188",
-   "target": "P3",
+   "target": "P4",
    "relation": "supports"
   },
   {
    "source": "PMID:34770188",
-   "target": "P4",
+   "target": "P3",
    "relation": "supports"
   },
   {
@@ -3261,12 +3275,12 @@
   },
   {
    "source": "PMID:42300599",
-   "target": "P6",
+   "target": "P1",
    "relation": "complicates"
   },
   {
    "source": "PMID:42300599",
-   "target": "P1",
+   "target": "P6",
    "relation": "complicates"
   },
   {
@@ -3381,12 +3395,12 @@
   },
   {
    "source": "PMID:39425490",
-   "target": "P3",
+   "target": "P5",
    "relation": "supports"
   },
   {
    "source": "PMID:39425490",
-   "target": "P5",
+   "target": "P3",
    "relation": "supports"
   },
   {
@@ -3521,12 +3535,12 @@
   },
   {
    "source": "PMID:18038283",
-   "target": "P6",
+   "target": "P1",
    "relation": "supports"
   },
   {
    "source": "PMID:18038283",
-   "target": "P1",
+   "target": "P6",
    "relation": "supports"
   },
   {
@@ -3656,12 +3670,12 @@
   },
   {
    "source": "PMID:34323166",
-   "target": "P6",
+   "target": "P1",
    "relation": "supports"
   },
   {
    "source": "PMID:34323166",
-   "target": "P1",
+   "target": "P6",
    "relation": "supports"
   },
   {
@@ -4066,6 +4080,21 @@
   },
   {
    "source": "PMID:38025912",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29417854",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37442996",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41540416",
    "target": "CAT:10",
    "relation": "in_category"
   },

@@ -1,6 +1,6 @@
 {
  "angle": "external-thailand-deepsouth-citations",
- "source": "external draft #3 received 2026-09-02",
+ "source": "external draft #3 received 2026-09-02 + addendum (external draft #7, 2026-09-02 21:37)",
  "records": [
   {
    "id": "DOI:10.1007/s10896-018-9960-9",
@@ -73,6 +73,18 @@
   {
    "id": "HSRI:11228/4378-b",
    "claim": "same HSRI record, cited for beliefs about pregnancy, female providers, contraception, TBAs (CONTEXT ONLY)"
+  },
+  {
+   "id": "29417854",
+   "claim": "Ford, Jampaklay, Chamratrithirong 2018: Muslims in Pattani/Yala/Narathiwat; young adults 18-24; chronic violence associated with daily life, education, work, migration and mental health; those wishing to migrate for work had more psychiatric symptoms and lower happiness; violence and economy affect settlement plans"
+  },
+  {
+   "id": "37442996",
+   "claim": "Muslim parents' beliefs and factors influencing complete immunisation of children 0-5 in a Thai rural community, qualitative: reliable information, community health networks and leaders increase acceptance; self-interpretation, misinformation, halal concern, trust in persons over evidence decrease it"
+  },
+  {
+   "id": "41540416",
+   "claim": "Conflict and Health 2026 youth 18-24: n=420 (check); parental absence esp. father absence in adolescence and travel-safety worry associated with more psychiatric symptoms; good health and (men) religious practice associated with fewer"
   }
  ]
 }
