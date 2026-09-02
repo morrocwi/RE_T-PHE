@@ -252,7 +252,14 @@ def main():
                 if sg.lower() in ann:
                     kg_edges.append({"source": rid, "target": "SG:" + sg, "relation": "informs"})
             for od in OUTCOME_DOMAINS:
-                if od.lower() in ann or od.lower() in (e["finding"] or "").lower():
+                txt = ann + " " + (e["finding"] or "").lower()
+                # negation-aware: skip if a negation appears within 80 characters before the term
+                hit = False
+                for m in re.finditer(re.escape(od.lower()), txt):
+                    window = txt[max(0, m.start() - 80):m.start()]
+                    if not re.search(r"\b(not|no|never|rather than|does not|is not|are not|neither)\b", window):
+                        hit = True; break
+                if hit:
                     kg_edges.append({"source": rid, "target": "OD:" + od, "relation": "measures_or_discusses"})
     for num, items in context_only.items():
         for k, c, n in items:

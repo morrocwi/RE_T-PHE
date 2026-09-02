@@ -2588,24 +2588,9 @@
    "relation": "measures_or_discusses"
   },
   {
-   "source": "PMID:27682273",
-   "target": "OD:stop rule",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:33355268",
    "target": "CAT:01",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:33355268",
-   "target": "OD:harms",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:33355268",
-   "target": "OD:stop rule",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:31686618",
@@ -2671,11 +2656,6 @@
    "source": "PMID:29384426",
    "target": "P5",
    "relation": "complicates"
-  },
-  {
-   "source": "PMID:29384426",
-   "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:29384426",
@@ -2788,16 +2768,6 @@
    "relation": "complicates"
   },
   {
-   "source": "PMID:18837590",
-   "target": "OD:coercion recognition",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:18837590",
-   "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:22304880",
    "target": "CAT:02",
    "relation": "in_category"
@@ -2865,11 +2835,6 @@
   {
    "source": "PMID:24294929",
    "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:24294929",
-   "target": "OD:referral",
    "relation": "measures_or_discusses"
   },
   {
@@ -3008,29 +2973,9 @@
    "relation": "relates_to"
   },
   {
-   "source": "PMID:39757299",
-   "target": "OD:decision control",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:39757299",
-   "target": "OD:coercion recognition",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:39757299",
-   "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:40783649",
    "target": "CAT:02",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:40783649",
-   "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:42442188",
@@ -3058,29 +3003,9 @@
    "relation": "informs"
   },
   {
-   "source": "PMID:41454335",
-   "target": "OD:coercion recognition",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:36620784",
    "target": "CAT:02",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:36620784",
-   "target": "OD:decision control",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:36620784",
-   "target": "OD:coercion recognition",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:36620784",
-   "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:40553450",
@@ -3130,11 +3055,6 @@
   {
    "source": "PMID:23338828",
    "target": "OD:referral",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:23338828",
-   "target": "OD:humility",
    "relation": "measures_or_discusses"
   },
   {
@@ -3386,11 +3306,6 @@
    "source": "PMID:25022633",
    "target": "P5",
    "relation": "supports"
-  },
-  {
-   "source": "PMID:25022633",
-   "target": "OD:help-seeking",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:25022633",
@@ -3753,11 +3668,6 @@
    "relation": "in_category"
   },
   {
-   "source": "PMID:15661584",
-   "target": "OD:stop rule",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:31012540",
    "target": "CAT:04",
    "relation": "in_category"
@@ -3885,11 +3795,6 @@
   {
    "source": "PMID:27639927",
    "target": "OD:reproductive coercion",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:27639927",
-   "target": "OD:referral",
    "relation": "measures_or_discusses"
   },
   {
@@ -4073,11 +3978,6 @@
    "relation": "complicates"
   },
   {
-   "source": "PMID:26892333",
-   "target": "OD:reproductive coercion",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:29683049",
    "target": "CAT:05",
    "relation": "in_category"
@@ -4095,11 +3995,6 @@
   {
    "source": "PMID:29683049",
    "target": "OD:referral",
-   "relation": "measures_or_discusses"
-  },
-  {
-   "source": "PMID:29683049",
-   "target": "OD:private channel",
    "relation": "measures_or_discusses"
   },
   {
@@ -5468,11 +5363,6 @@
    "relation": "relates_to"
   },
   {
-   "source": "PMID:29708521",
-   "target": "OD:referral",
-   "relation": "measures_or_discusses"
-  },
-  {
    "source": "PMID:26254909",
    "target": "CAT:15",
    "relation": "in_category"
@@ -5556,11 +5446,6 @@
    "source": "PMID:22471386",
    "target": "CAT:15",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:22471386",
-   "target": "OD:referral",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:38512165",
@@ -5816,11 +5701,6 @@
    "source": "PMID:37727706",
    "target": "CAT:16",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:37727706",
-   "target": "OD:coercion recognition",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:26289454",
@@ -6111,11 +5991,6 @@
    "source": "PMID:42420861",
    "target": "CAT:17",
    "relation": "in_category"
-  },
-  {
-   "source": "PMID:42420861",
-   "target": "OD:humility",
-   "relation": "measures_or_discusses"
   },
   {
    "source": "PMID:40979613",
