@@ -24,7 +24,9 @@ effectiveness testing has been done**, and the authors say so in the abstract it
    already undergone, with findings and what was changed.
 4. [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) and [`docs/side-data/`](docs/side-data/) —
    the originating organisation, each statement labelled by source status. Context only.
-5. [`GOAL.md`](GOAL.md) and [`AGENTS.md`](AGENTS.md) — what the programme is trying to achieve
+5. [`library/README.md`](library/README.md) — the verified evidence library that positions the proposal:
+   PubMed and global-guidance records by category, each with the verifier's verdict; not a systematic review.
+6. [`GOAL.md`](GOAL.md) and [`AGENTS.md`](AGENTS.md) — what the programme is trying to achieve
    and the rules every contributor (human or AI) works under.
 
 ## How to check us rather than trust us

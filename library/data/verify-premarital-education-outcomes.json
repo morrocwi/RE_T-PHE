@@ -1,0 +1,226 @@
+{
+  "angle": "premarital-education-outcomes",
+  "verified": [
+    {
+      "pmid": "18837590",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms all numeric claims verbatim: 'The effect sizes for relationship quality for experimental studies ranged from d = .30 to .36, while the communication skills effect sizes ranged from d = .43 to .45. ... Moderate-dosage programs produced larger effect sizes than did low-dosage programs.' Diversity/policy-outcome gap directly quoted: 'a lack of racial/ethnic and economic diversity in the samples prevented reliable conclusions about the effectiveness of MRE for disadvantaged couples ... intervention outcomes important to policy makers, such as relationship stability and aggression, rarely have been addressed.' Relevance claim (evidence gap re: safety/coercion outcomes) is accurate, not overstated."
+    },
+    {
+      "pmid": "22304880",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'moderate-dosage programs (9-20 contact hours) were associated with stronger effects compared to low-dosage programs (1-8 contact hours)... A programmatic emphasis on communication skills was associated with stronger effects on couple communication outcomes, but this difference did not reach statistical significance for the relationship quality/satisfaction outcome... no evidence that institutionalized MRE programs... were associated with stronger effects. Similarly, there was little evidence of differences in program setting (university/laboratory vs. religious).' Matches record exactly. Relevance claim correctly notes no P1-type decision-control variable was coded (honest, not overstated)."
+    },
+    {
+      "pmid": "35040124",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'a range of small but significant effects for couple relationship quality (d = .114), relationship skills (d = .132), mental health (d = .074), and coparenting (d = .033), but non-significant effects for relationship stability, parenting, and child well-being.' All d-values and null-on-stability finding match exactly. Relevance claim (small quality gains without stability gains as a template for a possible coercion-outcome failure pattern) is a reasonable analogy, clearly framed as illustrative not as direct evidence about coercion outcomes."
+    },
+    {
+      "pmid": "23421844",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'no differences in overall divorce rates between naturally occurring services... PREP delivered by clergy... or PREP delivered by professionals'; 'couples observed to have higher levels of negative communication in a video task were more likely to divorce if they received PREP than if they received naturally occurring services'; 'A history of physical aggression... showed a similar pattern as a moderator, but the effect was only marginally significant.' All matches. This is the strongest, most literal PubMed evidence for the STOP RULE (P4) logic in the whole record set."
+    },
+    {
+      "pmid": "25664643",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Couples with acute concerns at baseline, including higher levels of physical aggression and alcohol use, benefitted less from intervention than couples without these concerns... couples with relatively high baseline satisfaction and commitment scores declined faster in satisfaction when assigned to an intensive skill-based intervention.' Matches record. Correctly cited as direct RCT support for a stop/screen mechanism (P4)."
+    },
+    {
+      "pmid": "24294929",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Consistent with the gateway hypothesis, receiving premarital education covaried with an increased likelihood of receiving couples counseling. The association... was moderated by demographic indicators, with the association being stronger for African Americans and for individuals with lower incomes and less formal education.' Matches record. Relevance claim to P2/P5 correctly labeled 'associative not causal' in evidence_level field, appropriately hedged."
+    },
+    {
+      "pmid": "30489129",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'men and women identify cost and uncertainty about where to go for help as their top two barriers to seeking therapy for the relationship... Direct and indirect experiences with relationship interventions was associated with increased likelihood that couples sought therapy.' Matches record. Relevance to referral-quality proposition (P5) is reasonable — the finding is specifically about pathway/accessibility barriers, not content quality, so it legitimately supports P5 rather than being stretched to a safety claim."
+    },
+    {
+      "pmid": "21355646",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Core numeric/qualitative claims are supported: 'couples' relationship outcomes from pre- to post-training varied on the basis of the leader'; 'Leaders' aggregated working alliance quality also explained change in relationship satisfaction.' However the record's phrase 'over and above curriculum content itself' is an inference, not a direct quote — the abstract shows alliance and PREP-training both independently explaining variability but never states alliance effects held net of controlling for content/curriculum in a formal sense. FIX: soften key_finding to 'predicted change... alongside curriculum/training condition' rather than 'over and above curriculum content itself,' since the abstract does not report a controlled comparison isolating alliance from content."
+    },
+    {
+      "pmid": "30725473",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'we examine four general, interrelated social trends: individualism and commitment ambivalence, changing attitudes about marriage, premarital relationship histories, and the omnipresent media environment... we offer four general proposals.' Matches record's description as a narrative/position paper. Correctly labeled non-empirical, conceptual support only."
+    },
+    {
+      "pmid": "25938709",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'significant interactions between intervention condition and cohabitation history indicated that for the control group, but not the PREP group, precommitment cohabitation was associated with lower dedication as well as declines in marital satisfaction... those with precommitment cohabitation were more likely to divorce by the 2-year follow-up only in the control group.' Matches record precisely (buffering effect). Relevance claim is candid that this complicates rather than simply supports T-PHE — appropriate framing, not overstated."
+    },
+    {
+      "pmid": "33729071",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Key_finding is well supported: 'Victims find strength in their faith and would rather endure the violence at all costs to keep a family or a marriage together, than to compromise their faith by leaving' and 'Clergy felt comfortable in making referrals for professional counseling.' However relevance_to_tphe overstates the referral point: the abstract's very next clause is 'while the majority of members would prefer counseling with their pastor if they were in a violent relationship' — i.e. congregants actually want direct pastoral counseling, not referral, and clergy said they want MORE training to counsel/speak about DV themselves, not that they prefer referral over direct counseling. FIX: change 'clergy themselves report needing referral pathways rather than attempting DV counseling directly' to something like 'clergy report comfort in making referrals, while members/clergy simultaneously want more direct pastoral counseling capacity — a live tension rather than clean support for a refer-not-counsel policy that T-PHE's safeguard should note, not paper over.'"
+    },
+    {
+      "pmid": "21287968",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Results suggest the desirability of an empathic and culturally-sensitive approach, without diminishing responsibility.' Matches 'compatible with, not a substitute for, perpetrator accountability.' Relevance claim correctly flags this concerns perpetrator treatment, not premarital couple education — applicability to T-PHE explicitly marked indirect, appropriately hedged."
+    },
+    {
+      "pmid": "9779330",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'The results of 13 studies suggest that behaviorally oriented, skills-based marriage preparation programs can lead to behavioral changes that may help prevent the emergence of marital dysfunction. Whereas there has been modest improvement in the methodology of the program evaluations, suggestions for continued improvements are made.' Matches record. Relevance claim (methodological weakness as a decades-old recognized limitation) is directly supported."
+    },
+    {
+      "pmid": "10081741",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms this is a review with 'Issues reviewed include assessing client needs, the timing and duration of programs, formats and methods, program content, provider characteristics, and promotion and marketing strategies' and no primary outcome data. Matches record and correctly labeled descriptive/prescriptive, not evaluative."
+    },
+    {
+      "pmid": "9230490",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'the reported effectiveness of their premarital counseling experience was not significantly related to years since marriage. It is possible that even though the quality of premarital counseling may have improved over time, the challenges and complexity of marriage may have changed at a similar rate, resulting in no net change.' Matches record's paraphrase closely. Relevance claim (dose/formalization increase without perceived-effectiveness gain) is directly supported and not overstated."
+    },
+    {
+      "pmid": "39757299",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Key_finding matches: 'S-PEP via VC was effective in increasing levels of marital readiness for both women and men and in enhancing relationship confidence and satisfaction for women.' Year check: PubMed's JournalIssue citation year is 2026 (Prevention Science assigned this to a 2026 issue), but the article's actual electronic publication / PubMed indexing date is 2025-01-06 and the study itself was conducted during 'the early COVID-19 period' (i.e. ~2020-2021 data). This is a legitimate ahead-of-print/issue-year artifact, not an error, but FIX: add a one-line caveat in the record noting the 2026 tag is the journal's assigned print-issue year, not the study's data-collection period, so a reader doesn't assume this is a 2026 study of a 2026 phenomenon."
+    },
+    {
+      "pmid": "40783649",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract F-statistics: integrating F=21.90, obliging F=19.49, compromising F=8.73, dominating F=9.53 (reduced), avoidance F=42.16 (reduced) — record's summarized range 'F=8.73-42.16, p<.01-.001' correctly spans the reported values. Session count '8-10 structured ADPM-based sessions' matches. N=40 (20 couples: 10/10) matches. Relevance claim correctly flags the small sample (n=20 couples) as a generalizability limit."
+    },
+    {
+      "pmid": "42442188",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'significant improvements in conflict resolution strategies-particularly in exit, voice, and neglect dimensions-while no significant change was observed in the loyalty response... a significant increase in relationship satisfaction emerged only at the follow-up stage... involved eight couples' plus a separate two-couple feasibility phase. Matches record's N breakdown and satisfaction-only-at-follow-up detail precisely. Relevance claim correctly labels this preliminary feasibility evidence, not a powered trial."
+    },
+    {
+      "pmid": "41454335",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Key_finding themes are supported: abstract lists 'knowledge and understanding, motivators for seeking information, desired educational content, preferred information sources, and urgency of education' as the five themes, and record's subset (knowledge gaps, motivators, desired content) is accurate. However relevance_to_tphe claim that 'premarital counseling sites ... identified as a natural point of contact' overstates the abstract: churches/sector offices were the STUDY's recruitment sites (where couples were sampled), not a finding that participants themselves nominated those sites as their preferred point of contact — the abstract instead reports 'Health professionals were the preferred information source, with schools, churches, and social media also mentioned,' i.e. churches were a secondary preference behind health professionals. FIX: rewrite the relevance claim to say premarital counseling venues were used as the recruitment/sampling frame in this study and were only a secondary (not primary) preferred information source per participants, so the 'natural point of contact' framing should be removed or clearly attributed to study design rather than participant preference."
+    },
+    {
+      "pmid": "36620784",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract: 'Only 37.2% of the participants had premarital counseling and education, even though 86.4% thought it was crucial before marriage... The mean WHOQOL-BREF score... was considerably higher for participants who indicated that premarital education significantly impacted the quality of their marriage and those who received premarital counseling.' Matches record's percentages and QoL association. Relevance claim correctly caveats this as cross-sectional/associative with no control group and explicitly notes it says nothing about decision-control or coercion-recognition outcomes — appropriately hedged, not overstated."
+    }
+  ],
+  "overall_note": "Verified via NCBI E-utilities efetch (all 20 PMIDs, single batch call) against the search file's title, year, key_finding, and relevance_to_tphe fields. 20/20 PMIDs exist and resolve to the stated title and year exactly (note: PMID 39757299's '2026' year is the journal's assigned print-issue year, not the study's actual data-collection period — study data are from early COVID-19, ~2020-2021 — a real ahead-of-print artifact, not a fabrication, but worth a caveat). 17/20 records are KEEP: key_finding claims are directly supported by the fetched abstract text (in several cases near-verbatim, e.g. PMID 18837590, 23421844, 35040124, 40783649, 42442188), and relevance_to_tphe claims are appropriately hedged — the search agent consistently avoided claiming satisfaction/communication outcomes as evidence for safety/coercion propositions, and repeatedly and correctly flagged this exact evidence gap as the central finding of the search (see gaps_noted in the source file, which is itself accurate: no PubMed-indexed study tests decision-control/coercion-recognition/informed-choice as a primary endpoint). 3/20 records are FIX, all for the same class of problem — an inferential overreach in relevance_to_tphe or key_finding beyond what the abstract actually states, not a fabricated statistic: (1) PMID 21355646 — 'over and above curriculum content itself' is not a controlled comparison reported in the abstract; (2) PMID 33729071 — the relevance claim frames clergy as preferring referral over direct DV counseling, but the abstract shows the opposite tension (members prefer pastoral counseling; clergy want MORE training to counsel directly); (3) PMID 41454335 — the relevance claim treats a study recruitment site (churches/sector offices) as a participant-identified 'natural point of contact,' when the abstract's actual preference ranking puts health professionals first and churches only as a secondary mention. 0/20 records are DROP — no fabricated PMID, no wrong-title/wrong-year mismatch, no out-of-scope record, and no case where a satisfaction-only outcome was passed off as safety evidence without a caveat. Population/design/journal fields were not independently re-verified field-by-field beyond what abstract text corroborates (e.g. exact N breakdowns, country settings) since those are lower-stakes descriptive metadata, not the load-bearing key_finding/relevance claims this review was scoped to adversarially check."
+}

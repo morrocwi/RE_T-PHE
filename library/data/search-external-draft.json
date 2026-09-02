@@ -1,0 +1,74 @@
+{
+ "angle": "external-draft-citations",
+ "source": "external AI draft received 2026-09-02 21:18",
+ "records": [
+  {
+   "pmid": "41386261",
+   "claim": "GBD 2023: ~608 million females ever exposed to IPV; 18.5 million DALYs in 2023; among leading risk factors for females 15-49; anxiety and depression major components"
+  },
+  {
+   "pmid": "37052388",
+   "claim": "Lohmann 2024? systematic review/meta-analysis of 68 studies: coercive control associated with PTSD r~0.32 and depression r~0.27"
+  },
+  {
+   "pmid": "41312737",
+   "claim": "Scoping review of reproductive coercion, 62 studies, 18 countries: associated with unintended pregnancy, STIs, anxiety, depression, PTSD"
+  },
+  {
+   "pmid": "38426290",
+   "claim": "FIGO Preconception Checklist: structured framework for health assessment before pregnancy"
+  },
+  {
+   "pmid": "38822327",
+   "claim": "Systematic review/meta-analysis of premarital sickle-cell screening practice in Africa: substantial heterogeneity in uptake"
+  },
+  {
+   "pmid": "35040124",
+   "claim": "ACF-funded couple relationship education meta-analysis: small effects on relationship quality, communication, mental health; less evidence for stability"
+  },
+  {
+   "pmid": "37499317",
+   "claim": "Relationship education and relationship aggression meta-analysis 2023: 31 studies, >25,000 participants; d~0.11 overall, d~0.05 in RCTs only, not statistically convincing; larger in higher-risk samples"
+  },
+  {
+   "pmid": "27377617",
+   "claim": "Karakurt 2016 couples therapy for IPV SR/MA: preliminary benefit in selected circumstances (situational couple violence), retaliation concerns"
+  },
+  {
+   "pmid": "40553460",
+   "claim": "USPSTF 2025 evidence review: trials of screening alone vs no screening did not show clear reductions in IPV/health outcomes; instrument sensitivities vary widely"
+  },
+  {
+   "pmid": "24615573",
+   "claim": "Upadhyay 2014 Reproductive Autonomy Scale: three domains freedom from coercion, communication, decision-making"
+  },
+  {
+   "pmid": "34057734",
+   "claim": "Cochrane review 2021 training healthcare providers to respond to IPV: improves knowledge/attitudes/preparedness; limited certainty on behaviour and survivor outcomes"
+  },
+  {
+   "pmid": "DOI:10.3389/fmed.2023.1140787",
+   "claim": "Frontiers in Medicine 2023 SR/MA: IPV in pregnancy pooled OR ~1.84 preterm birth, ~2.73 low birth weight; stillbirth less certain"
+  },
+  {
+   "pmid": "DOI:10.1186/s12978-026-02385-y",
+   "claim": "Reproductive Health 2026 SR of couple-based preconception care: 14 studies, 10 countries; heterogeneous; mostly high-income settings"
+  },
+  {
+   "pmid": "PMC12445309",
+   "claim": "2025 scoping review of premarital thalassaemia educational interventions: consistent knowledge gain; behavioural outcomes (screening uptake) less consistent"
+  },
+  {
+   "pmid": "COCHRANE:CD001431",
+   "claim": "2024 Cochrane review of patient decision aids: 209 studies, >107,000 participants; improved knowledge, risk perception, values-congruent choice, participation; reduced decisional conflict"
+  },
+  {
+   "pmid": "WHO:B09860",
+   "claim": "WHO violence against women prevalence estimates 2023: nearly 1 in 3 women 15+ experienced physical/sexual IPV and/or non-partner sexual violence in lifetime"
+  },
+  {
+   "pmid": "WHO:9789240117020",
+   "claim": "RESPECT women 2nd ed. 2025: seven strategies"
+  }
+ ]
+}

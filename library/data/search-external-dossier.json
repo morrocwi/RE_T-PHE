@@ -1,0 +1,130 @@
+{
+ "angle": "external-dossier-citations",
+ "source": "external dossier v1.0 received 2026-09-02",
+ "records": [
+  {
+   "id": "WHO:9789240116962",
+   "claim": "WHO Violence against women prevalence estimates 2023 (published 2025); fact sheet 2026: ~31.6% of women/girls (~840 million) experienced physical/sexual IPV or non-partner sexual violence in lifetime"
+  },
+  {
+   "id": "DOI:10.1016/S0140-6736(25)02503-6",
+   "claim": "GBD 2023: ~145,000 deaths and 18.5 million DALYs among females 15+ attributable to IPV in 2023 (PMC12775558)"
+  },
+  {
+   "id": "DOI:10.1038/s41591-023-02629-5",
+   "claim": "Spencer 2023 Nature Medicine Burden of Proof: IPV strongest associations with major depressive disorder and maternal abortion/miscarriage; weaker for HIV, anxiety, self-harm"
+  },
+  {
+   "id": "35569504",
+   "claim": "Oram 2022 Lancet Psychiatry Commission on IPV and mental health; 9(6):487-524"
+  },
+  {
+   "id": "WHO:9789240117020",
+   "claim": "RESPECT women 2nd ed. 2025: seven strategies; updated systematic-review evidence incl. humanitarian contexts"
+  },
+  {
+   "id": "25467575",
+   "claim": "Ellsberg 2015 Lancet: reviewed 58 reviews and 84 rigorously evaluated interventions; promising evidence in LMIC for participatory group training, community mobilisation, combined livelihood/training"
+  },
+  {
+   "id": "38702097",
+   "claim": "Bacchus 2024 Lancet Public Health: 30 unique interventions from 16 countries; 20 addressed both IPV and violence against children; 19 of 30 primary prevention"
+  },
+  {
+   "id": "DOI:10.1136/bmjph-2024-001126",
+   "claim": "Ullman 2025 BMJ Public Health: global systematic review of reviews to update RESPECT; small fraction focused on relationship skills"
+  },
+  {
+   "id": "40553460",
+   "claim": "Feltner 2025 JAMA evidence report: 35 studies, 18,358 participants; 3 RCTs (3,759) universal screening vs none no significant reduction 3-18 months; sensitivities 26-87%, specificities 80-97%; 13 intervention RCTs, benefit in perinatal home visiting and multi-risk behavioural counselling"
+  },
+  {
+   "id": "USPSTF:2025",
+   "claim": "USPSTF 2025 recommendation statement JAMA 334(4)"
+  },
+  {
+   "id": "DOI:10.1001/jama.2012.6434",
+   "claim": "Klevens 2012 JAMA RCT: screening for partner violence, women's quality of life"
+  },
+  {
+   "id": "DOI:10.1001/jama.2015.6755",
+   "claim": "Klevens 2015 JAMA: 3-year follow-up, use of health services"
+  },
+  {
+   "id": "DOI:10.1001/jama.2009.1089",
+   "claim": "MacMillan 2009 JAMA RCT: screening for IPV in health care settings"
+  },
+  {
+   "id": "WHO:9789241548595",
+   "claim": "WHO 2013 clinical and policy guidelines"
+  },
+  {
+   "id": "WHO:WHO-RHR-14.26",
+   "claim": "WHO 2014 clinical handbook"
+  },
+  {
+   "id": "NICE:CKS-domestic-abuse",
+   "claim": "NICE CKS domestic abuse management; private disclosure guidance"
+  },
+  {
+   "id": "27377617",
+   "claim": "Karakurt 2016 couples therapy for IPV SR/MA"
+  },
+  {
+   "id": "COCHRANE:CD001431.pub6",
+   "claim": "Decision aids Cochrane 2024 pub6 (first author given as Smith M \u2014 verify; Stacey D expected)"
+  },
+  {
+   "id": "DOI:10.1136/bmj.j4891",
+   "claim": "Elwyn 2017 BMJ three-talk model"
+  },
+  {
+   "id": "DOI:10.1136/bmj.n2061",
+   "claim": "Skivington 2021 MRC framework complex interventions"
+  },
+  {
+   "id": "DOI:10.1136/bmj.n1679",
+   "claim": "Moore 2021 ADAPT guidance"
+  },
+  {
+   "id": "DOI:10.1136/bmj.h1258",
+   "claim": "Moore 2015 process evaluation MRC guidance"
+  },
+  {
+   "id": "DOI:10.1353/hpu.2010.0233",
+   "claim": "Tervalon & Murray-Garcia 1998 cultural humility"
+  },
+  {
+   "id": "WHO-EURO:9789289053594",
+   "claim": "WHO Europe 2018 cultural contexts of health"
+  },
+  {
+   "id": "WHO-EURO:9789289058353",
+   "claim": "WHO Europe 2022 cultural contexts knowledge translation"
+  },
+  {
+   "id": "DOI:10.1111/j.1741-3729.2010.00598.x",
+   "claim": "Fawcett 2010: 47 studies; no improvement in relationship quality when unpublished studies included; communication outcomes (observational) more favourable"
+  },
+  {
+   "id": "DOI:10.1037/a0012584",
+   "claim": "Hawkins 2008 MRE meta-analysis"
+  },
+  {
+   "id": "DOI:10.59588/2350-8329.1569",
+   "claim": "Charoenwong 2025 Asia-Pacific Social Science Review 25(2) Article 5: Islamic premarital education Malaysia, moral education lens, TTDI centre"
+  },
+  {
+   "id": "JAKIM:guideline",
+   "claim": "JAKIM Garis Panduan Pelaksanaan Kursus Praperkahwinan Islam (official; non-medical context)"
+  },
+  {
+   "id": "MALAYSIA-GOV:kursus",
+   "claim": "Government of Malaysia Islamic Pre-Marriage Course page (official; non-medical context)"
+  },
+  {
+   "id": "WHO:factsheet-2026",
+   "claim": "WHO fact sheet updated 18 June 2026"
+  }
+ ]
+}

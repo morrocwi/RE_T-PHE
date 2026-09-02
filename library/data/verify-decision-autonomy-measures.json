@@ -1,0 +1,204 @@
+{
+  "angle": "decision-autonomy-measures",
+  "verified": [
+    {
+      "pmid": "24615573",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 26-item pool -> 14 items retained across 3 subscales (freedom from coercion; communication; decision-making); construct validity via mixed-effects model where freedom-from-coercion and communication subscales were inversely associated with unprotected sex in past 3 months. Quote: 'Construct validity was demonstrated by a mixed-effects model in which the freedom from coercion subscale and the communication subscale were inversely associated with unprotected sex in the past three months.' Relevance claim (foundational instrument for 'decision control', measurable not just conceptual) is appropriately hedged, does not claim Thai/Muslim validity."
+    },
+    {
+      "pmid": "27639927",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 2-domain structure (pregnancy coercion, condom manipulation), 5-item short-form RCS, and prevalence 6.7% (full) / 6.3% (short form) -- record's '6.3-6.7%' is accurate. Quote: 'Recent reproductive coercion was reported by 6.7% and 6.3% of the sample with the full and short-form RCS, respectively.' Relevance claim (coercion-recognition instrument for stop-rule trigger) is reasonable, no overclaim of Thai/Muslim applicability."
+    },
+    {
+      "pmid": "37316890",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 5-item, 2-dimensional Partial Credit Model (challenging husband authority; general IPV acceptability dimension), n=559 married adolescent-girl-husband dyads, rural Niger, 2019, and that higher 'challenging husband authority' scores were statistically associated with husband IPV perpetration. Quote: 'Higher scores on the \"challenging husband authority\" dimension were statistically associated with husband perpetration of intimate partner violence.' Relevance claim explicitly flags the non-Asian, non-Muslim-specific context as a limit on transfer to P3 -- appropriately hedged."
+    },
+    {
+      "pmid": "33336831",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 2-factor solution (pregnancy coercion, condom manipulation, alpha=0.86) and 82% RC prevalence among IPV survivors. Quote: 'Psychometric analyses indicated a two-factor solution comprising pregnancy coercion and condom manipulation (alpha = 0.86). Eighty-two percent of IPV survivors reported experiencing RC.' Relevance claim correctly frames this as a caution against assuming unmodified transferability -- appropriate, not overstated."
+    },
+    {
+      "pmid": "42015126",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Title/year/design/population match exactly. PROBLEM: key_finding claims 'reproductive coercion and traditional gender-role attitudes were linked to fertility desire pathways' via path analysis, but the abstract's Results section only reports a path-analysis link between the Reproductive Coercion Scale and Fertility Desire Scale (r=0.172, p<0.001; beta=0.205, p=0.008) and does NOT report a statistically established gender-role-attitude -> fertility-desire path -- the Gender Role Attitude Scale is only mentioned as a measure administered (mean score 121.92+/-15.14), not as part of a reported path result. FIX: rewrite key_finding to state only the RCS-FDS path-analysis association (weak positive, r=0.172/beta=0.205) and drop or explicitly qualify the gender-role-attitudes-linked-to-fertility-desire claim as not shown in the abstract."
+    },
+    {
+      "pmid": "37922257",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "key_finding is accurate: MADM adapted to FP-ADM, validated in Argentina (n=890), Ghana (n=1,114), India (n=1,130), two-factor solution ('Bidirectional Exchange of Information', 'Empowered Choice'), good internal consistency. PROBLEM: relevance_to_tphe claims India's inclusion is 'relevant to Thailand's regional/cultural proximity' -- India is South Asia, Thailand is Southeast Asia; this is a geographic overreach, not a supported cultural-proximity claim (no shared language family, religion-majority, or documented cultural closeness argued in the source). FIX: remove or soften the 'regional/cultural proximity to Thailand' framing; state only that a South Asian (not Southeast Asian, not Muslim-specific) LMIC subsample exists, without implying meaningful proximity to the Thai Muslim/intercultural target population."
+    },
+    {
+      "pmid": "39266993",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 13-item, 4-domain original model showed poor CFA fit; after removing 2 items, properties improved but were 'not optimal'; only the self-efficacy domain was 'acceptable'. Quote: 'The original model for the 13-item, four-domain adapted scale demonstrated poor fit in CFA. After iteratively removing two items, scale properties were improved, albeit were not optimal. The validity and reliability results for the self-efficacy domain were acceptable.' Record's 'sub-optimal for most domains' is consistent (3 of 4 domains not optimal). Relevance claim (warns against assuming clean cultural transfer) is appropriately cautious, not overstated."
+    },
+    {
+      "pmid": "38339841",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Abstract confirms 14 items/3 subscales and four alpha values (0.66 total, then 0.64, 0.89, 0.92) with test-retest high correlation. PROBLEM: the abstract does NOT state which named subscale (decision-making / freedom-from-coercion / communication) corresponds to the 0.64 alpha value -- it lists 'reproductive autonomy scale (RAS) total and subscale ... 0.66, 0.64, 0.89, and 0.92, respectively' without labeling order. The record's specific attribution 'the decision-making subscale showing the lowest reliability' is therefore NOT confirmed by the abstract alone. FIX: either verify against the full text which subscale=0.64 and cite that specifically, or soften to 'one subscale showed markedly lower reliability (alpha=0.64); the abstract does not specify which subscale this is' -- do not name 'decision-making' without full-text confirmation, since this is exactly the kind of psychometric-number precision this review is asked to be strict on."
+    },
+    {
+      "pmid": "41613074",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 3-factor structure supported; decision-making and freedom-from-coercion subscales 'satisfactory' internal consistency; communication subscale 'marginally lower reliability'; use in men/gender-diverse individuals flagged as constrained, requiring adaptation. Quote: 'Internal consistency of the subscales for decision-making and freedom from coercion was satisfactory, while the communication subscale showed marginally lower reliability... its use in men and diverse individuals is constrained, necessitating adaptations.' Here (unlike PMID 38339841) the subscale-specific attribution IS explicit in the abstract, so this record's specificity is warranted. Relevance claim about male-partner applicability is reasonable and directly useful to T-PHE's couple-level framing."
+    },
+    {
+      "pmid": "36657958",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms response rate >97.7%, Cronbach's alpha 0.75, test-retest ICC 0.67 ('fair-good'), and CFA-confirmed three-factor structure. Quote: 'Internal consistency was good, with a Cronbach's alpha of 0.75. Test-retest reliability was fair-good with an intraclass correlation coefficient of 0.67... The three-factor structure of the scale was confirmed on confirmatory factor analysis.' Relevance claim explicitly notes the UK population is culturally distant from the Thai Muslim target -- appropriately hedged, not overstated."
+    },
+    {
+      "pmid": "32690468",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 23 items, 7 subscales, including 'choice of partners, marriage, and children' as a named subscale, and construct validity via logistic regression association with SRH information/service access. Quote: '23 items captured by seven subscales: comfort talking with partner; choice of partners, marriage, and children; parental support; sexual safety; self-love; sense of future; and sexual pleasure. Validation using logistic regression demonstrated that the subscales were consistently associated with sexual and reproductive health information and access...' Relevance claim is strong and directly on-point (this subscale most closely mirrors T-PHE's marriage-decision construct) and is correctly caveated as US adolescent/young-adult only, not Muslim/intercultural-couple validated."
+    },
+    {
+      "pmid": "26982668",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": false,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Psychometric numbers in key_finding are accurate: Cronbach's alpha 0.84, test-retest r=0.87, content validity ratio 0.8, good convergent/discriminant validity -- all quoted directly from abstract. PROBLEM: relevance_to_tphe/key_finding both assert the scale is 'validated specifically for South Asian household/marital decision contexts' and is a 'household-decision-power-focused autonomy scale', but the abstract never describes the item content -- it defines the construct only as generic 'women's autonomy... relevance to developing countries' and its outcome anchor is maternal health care service utilization, not household/marital decision-making specifically. FIX: remove or soften 'household/marital decision contexts' -- state that the abstract does not disclose item content, so the household/marital-decision framing is an inference, not an abstract-confirmed fact; also soften 'South Asian' generalization since it was validated only in two districts of one country (Nepal), not South Asia broadly."
+    },
+    {
+      "pmid": "26892333",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms non-significant primary-outcome effects: ARR 1.50 (95% CI 0.95-2.35) for reproductive coercion, ARR 1.07 (0.84-1.38) for partner violence, with significant secondary-outcome gains (knowledge of PV resources, self-efficacy). Quote: 'Intervention effects were not significant for reproductive coercion [adjusted risk ratio (ARR) 1.50 (95% confidence interval 0.95-2.35)] or partner violence [ARR 1.07 (0.84-1.38)]. Intervention participants reported improved knowledge of partner violence resources... and self-efficacy...' Minor omission (not an error): abstract also reports a moderation finding that higher baseline coercion predicted a coercion decrease at T3 among the highest-risk subgroup -- record does not mention this nuance but its core claim is accurate as stated. 'ARCHES' trial-name label is not itself in the abstract but is the well-established public name for this Miller et al. 2016 trial; not a factual problem. Relevance claim (illustrating the 'success on process, silent on core outcome' failure pattern) is accurate and well-matched to T-PHE's failure criterion."
+    },
+    {
+      "pmid": "29683049",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms 19 studies reviewed; informal sources (friends) most common; females generally more likely to seek help with inconsistencies; measurement/definition variation across studies limiting comparability. Quote: 'Adolescents were more likely to go to informal sources of support, with friends being the most commonly reported source. The majority of studies found females were more likely than males to seek help; however, inconsistencies in gender differences emerged. The variation in measurement and definition of ADV and help seeking included in this review impacts on its conclusions.' Relevance claim to P5 (referral must compete with/connect to informal disclosure norms) is reasonable and well-supported."
+    },
+    {
+      "pmid": "34770188",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms co-designed, two-phase, social-norms/mental-health-integrated community workshop intervention with Rohingya (Malaysia) and Syrian (Lebanon) communities to reduce IPV and encourage help-seeking. Quote: 'To reduce IPV and encourage help-seeking, a two-phase community-based intervention was co-designed with Rohingya in Malaysia and Syrians in Lebanon. Three day workshops, utilizing a social norms-based mental health-integrated approach, were implemented...' Abstract text available was truncated before effectiveness results, and the record's own evidence_level note ('effectiveness outcome not detailed in abstract') correctly flags this limitation rather than overclaiming an effect. Population match to P3 (Muslim minority/majority populations) is accurate and relevance framing appropriately notes it is a broader community intervention, not premarital education specifically."
+    },
+    {
+      "pmid": "40340915",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": true,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "KEEP",
+      "note": "Abstract confirms SAHAR study, ACTS screening tool (controlling behaviour, fear, threats, physical abuse), n=312 refugee women, Australian settlement services, lived-experience panel consultation plus focus groups/manager interviews. Quote: 'The Safety and Health After Arrival (SAHAR) study tested a culturally tailored IPV screening and response strategy for refugee women accessing Australian settlement services... consultations with a lived experience panel and services, screening results, focus group data and manager interviews.' Relevance claim to the STOP RULE/screening-feasibility logic is reasonable and correctly scoped as screening/service-access, not a premarital-education evaluation."
+    },
+    {
+      "pmid": "38754758",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Design, population, and item counts are correct: 29 items, exploratory factor analysis, adapted from a Kenya-originated global-South instrument. PROBLEM: the third subscale is misnamed. The abstract explicitly names all three subscales: '(1) Respect and Dignity (10 items), (2) Responsive and Supportive Care (nine items...), and (3) Communication and Autonomy (10 items...)' -- the record's key_finding calls the third one only 'a third partial subscale', which is vague and inaccurate (it is not obviously 'partial' -- it has a full 10-item core, with one added mode-specific item, similar to subscale 2). FIX: rename to 'Communication and Autonomy (10 items, plus one additional telemedicine-specific item)' instead of 'a third partial subscale'."
+    },
+    {
+      "pmid": "31306331",
+      "exists": true,
+      "title_matches": true,
+      "year_matches": true,
+      "key_finding_supported_by_abstract": false,
+      "relevance_claim_reasonable": true,
+      "in_scope": true,
+      "verdict": "FIX",
+      "note": "Prevalence numbers are correct (12% recent RC, 17% ARA) among 550 sexually active female students. PROBLEM: key_finding claims 'both were associated with differences in care-seeking and sexual health behaviors' -- but the abstract EXPLICITLY states the opposite for reproductive coercion alone: 'There were no observed significant differences in care-seeking behaviors among those with recent reproductive coercion compared with those without.' It is adolescent relationship abuse (ARA), not reproductive coercion, that was associated with a care-seeking difference (increased odds of STI testing/treatment, aOR 2.08); the combined ARA+RC-exposed group showed differences in sexual-partner/contraception behaviors, not general 'care-seeking'. FIX: rewrite key_finding to state that RC alone showed NO significant care-seeking difference, ARA alone was associated with increased STI-testing care-seeking (aOR 2.08), and the ARA+RC combined group showed elevated odds of specific risk behaviors (older partner, more partners, hormonal-only contraception) -- do not state both constructs were 'associated with differences in care-seeking'."
+    }
+  ],
+  "overall_note": "18/18 PMIDs resolve to the stated title, author-implied journal, and publication year via NCBI E-utilities efetch (verified 2026-09-02); none are fabricated or misdated. All are in-scope for a decision-autonomy-measures literature angle. However, 6 of 18 records (33%) required a FIX: one overstates a path-analysis finding not present in the abstract's results (42015126, GRAS-fertility desire link unsupported); one over-attributes a specific psychometric number to a specific named subscale that the abstract does not label (38339841); one asserts item content ('household/marital decision contexts') the abstract never discloses (26982668); one mislabels/vagues a subscale name the abstract gives explicitly (38754758); one directly contradicts an explicit null finding in the abstract by claiming reproductive coercion was associated with care-seeking differences when the abstract says the opposite (31306331) -- this last one is the most serious finding-level error in the set and should be corrected before any downstream synthesis cites it. One record (37922257) overstates cross-population relevance by framing an India subsample as having 'regional/cultural proximity' to Thailand, which conflates South Asia and Southeast Asia without support. The recurring pattern across FIX items is the search agent occasionally over-precisifying (naming a specific subscale, asserting a specific causal/associational result) beyond what the abstract text actually supports -- consistent with the general caution this review was asked to apply on psychometric-number and population-validity claims. No record merits DROP: all 18 are genuine, correctly scoped, and their core measurement claims (existence of validated instruments, general reliability figures, general study designs) hold up under abstract re-check; the errors found are narrower mis-specifications, not fabrications or scope violations."
+}

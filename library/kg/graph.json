@@ -1,0 +1,4182 @@
+{
+ "nodes": [
+  {
+   "id": "P1",
+   "type": "proposition",
+   "label": "A governance layer improves decision control beyond content-only education"
+  },
+  {
+   "id": "P2",
+   "type": "proposition",
+   "label": "A routine private channel makes materially relevant concerns more visible"
+  },
+  {
+   "id": "P3",
+   "type": "proposition",
+   "label": "Cultural intelligibility helps only when culture cannot override consent or safety"
+  },
+  {
+   "id": "P4",
+   "type": "proposition",
+   "label": "A stop rule prevents routine joint education from worsening risk when fear or coercion appears"
+  },
+  {
+   "id": "P5",
+   "type": "proposition",
+   "label": "Referral quality depends on timeliness, accessibility and follow-through, not offer alone"
+  },
+  {
+   "id": "P6",
+   "type": "proposition",
+   "label": "Conventional programme success can coexist with T-PHE failure"
+  },
+  {
+   "id": "P7",
+   "type": "proposition",
+   "label": "Repairability is necessary because relevant information emerges over time"
+  },
+  {
+   "id": "SG:epistemic humility",
+   "type": "safeguard",
+   "label": "epistemic humility"
+  },
+  {
+   "id": "SG:cultural intelligibility",
+   "type": "safeguard",
+   "label": "cultural intelligibility"
+  },
+  {
+   "id": "SG:affected-person visibility",
+   "type": "safeguard",
+   "label": "affected-person visibility"
+  },
+  {
+   "id": "SG:dignity and consent",
+   "type": "safeguard",
+   "label": "dignity and consent"
+  },
+  {
+   "id": "SG:bounded authority and referral",
+   "type": "safeguard",
+   "label": "bounded authority and referral"
+  },
+  {
+   "id": "SG:repairability",
+   "type": "safeguard",
+   "label": "repairability"
+  },
+  {
+   "id": "OD:decision control",
+   "type": "outcome_domain",
+   "label": "decision control"
+  },
+  {
+   "id": "OD:coercion recognition",
+   "type": "outcome_domain",
+   "label": "coercion recognition"
+  },
+  {
+   "id": "OD:reproductive coercion",
+   "type": "outcome_domain",
+   "label": "reproductive coercion"
+  },
+  {
+   "id": "OD:help-seeking",
+   "type": "outcome_domain",
+   "label": "help-seeking"
+  },
+  {
+   "id": "OD:referral",
+   "type": "outcome_domain",
+   "label": "referral"
+  },
+  {
+   "id": "OD:mental-health literacy",
+   "type": "outcome_domain",
+   "label": "mental-health literacy"
+  },
+  {
+   "id": "OD:reproductive-health literacy",
+   "type": "outcome_domain",
+   "label": "reproductive-health literacy"
+  },
+  {
+   "id": "OD:harms",
+   "type": "outcome_domain",
+   "label": "harms"
+  },
+  {
+   "id": "OD:stop rule",
+   "type": "outcome_domain",
+   "label": "stop rule"
+  },
+  {
+   "id": "OD:private channel",
+   "type": "outcome_domain",
+   "label": "private channel"
+  },
+  {
+   "id": "CAT:01",
+   "type": "category",
+   "label": "Burden of intimate-partner violence and primary-prevention frameworks"
+  },
+  {
+   "id": "PMID:41386261",
+   "type": "record",
+   "label": "GBD 2023 IPV and SVAC Collaborators 2026",
+   "year": "2026",
+   "category": "01"
+  },
+  {
+   "id": "PMID:35182472",
+   "type": "record",
+   "label": "Sardinha L 2022",
+   "year": "2022",
+   "category": "01"
+  },
+  {
+   "id": "PMID:25248996",
+   "type": "record",
+   "label": "Abramsky T 2014",
+   "year": "2014",
+   "category": "01"
+  },
+  {
+   "id": "PMID:27084116",
+   "type": "record",
+   "label": "Michau L / Kyegombe N (secondary mediation analysis of SASA! CRT) 2016",
+   "year": "2016",
+   "category": "01"
+  },
+  {
+   "id": "PMID:26924488",
+   "type": "record",
+   "label": "Michaels-Igbokwe C 2016",
+   "year": "2016",
+   "category": "01"
+  },
+  {
+   "id": "PMID:33578229",
+   "type": "record",
+   "label": "Michau L 2021",
+   "year": "2021",
+   "category": "01"
+  },
+  {
+   "id": "PMID:27682273",
+   "type": "record",
+   "label": "Kyegombe N 2017",
+   "year": "2017",
+   "category": "01"
+  },
+  {
+   "id": "PMID:33355268",
+   "type": "record",
+   "label": "Dunkle K 2020",
+   "year": "2020",
+   "category": "01"
+  },
+  {
+   "id": "PMID:31686618",
+   "type": "record",
+   "label": "Stern E 2020",
+   "year": "2020",
+   "category": "01"
+  },
+  {
+   "id": "PMID:30125773",
+   "type": "record",
+   "label": "Stern E 2018",
+   "year": "2018",
+   "category": "01"
+  },
+  {
+   "id": "PMID:37329160",
+   "type": "record",
+   "label": "Muluh N 2023",
+   "year": "2023",
+   "category": "01"
+  },
+  {
+   "id": "PMID:29384426",
+   "type": "record",
+   "label": "Lee Y 2019",
+   "year": "2019",
+   "category": "01"
+  },
+  {
+   "id": "PMID:37649394",
+   "type": "record",
+   "label": "Le V (Archdiocese of Chicago Domestic Violence Outreach study) 2025",
+   "year": "2025",
+   "category": "01"
+  },
+  {
+   "id": "PMID:32896204",
+   "type": "record",
+   "label": "Stern E 2021",
+   "year": "2021",
+   "category": "01"
+  },
+  {
+   "id": "PMID:40625533",
+   "type": "record",
+   "label": "Doyle K 2025",
+   "year": "2025",
+   "category": "01"
+  },
+  {
+   "id": "PMID:42556995",
+   "type": "record",
+   "label": "(MTM Kenya trial investigators) 2026",
+   "year": "2026",
+   "category": "01"
+  },
+  {
+   "id": "PMID:29162117",
+   "type": "record",
+   "label": "Semahegn A 2017",
+   "year": "2017",
+   "category": "01"
+  },
+  {
+   "id": "PMID:32257154",
+   "type": "record",
+   "label": "Dunkle K 2020",
+   "year": "2020",
+   "category": "01"
+  },
+  {
+   "id": "PMID:30613427",
+   "type": "record",
+   "label": "Kyegombe N 2018",
+   "year": "2018",
+   "category": "01"
+  },
+  {
+   "id": "PMID:40462272",
+   "type": "record",
+   "label": "(VAW/C implementation science scoping review authors) 2026",
+   "year": "2026",
+   "category": "01"
+  },
+  {
+   "id": "CAT:02",
+   "type": "category",
+   "label": "Premarital and relationship education: measured outcomes"
+  },
+  {
+   "id": "PMID:18837590",
+   "type": "record",
+   "label": "Hawkins AJ 2008",
+   "year": "2008",
+   "category": "02"
+  },
+  {
+   "id": "PMID:22304880",
+   "type": "record",
+   "label": "Hawkins AJ 2012",
+   "year": "2012",
+   "category": "02"
+  },
+  {
+   "id": "PMID:35040124",
+   "type": "record",
+   "label": "Hawkins AJ 2022",
+   "year": "2022",
+   "category": "02"
+  },
+  {
+   "id": "PMID:23421844",
+   "type": "record",
+   "label": "Markman HJ 2013",
+   "year": "2013",
+   "category": "02"
+  },
+  {
+   "id": "PMID:25664643",
+   "type": "record",
+   "label": "Williamson HC 2015",
+   "year": "2015",
+   "category": "02"
+  },
+  {
+   "id": "PMID:24294929",
+   "type": "record",
+   "label": "Williamson HC 2014",
+   "year": "2014",
+   "category": "02"
+  },
+  {
+   "id": "PMID:30489129",
+   "type": "record",
+   "label": "Williamson HC 2019",
+   "year": "2019",
+   "category": "02"
+  },
+  {
+   "id": "PMID:21355646",
+   "type": "record",
+   "label": "Owen JJ 2011",
+   "year": "2011",
+   "category": "02"
+  },
+  {
+   "id": "PMID:30725473",
+   "type": "record",
+   "label": "Clyde TL 2020",
+   "year": "2020",
+   "category": "02"
+  },
+  {
+   "id": "PMID:25938709",
+   "type": "record",
+   "label": "Rhoades GK 2015",
+   "year": "2015",
+   "category": "02"
+  },
+  {
+   "id": "PMID:33729071",
+   "type": "record",
+   "label": "Zust BL 2021",
+   "year": "2021",
+   "category": "02"
+  },
+  {
+   "id": "PMID:21287968",
+   "type": "record",
+   "label": "Welland C 2010",
+   "year": "2010",
+   "category": "02"
+  },
+  {
+   "id": "PMID:9779330",
+   "type": "record",
+   "label": "Sayers SL 1998",
+   "year": "1998",
+   "category": "02"
+  },
+  {
+   "id": "PMID:10081741",
+   "type": "record",
+   "label": "Silliman B 1999",
+   "year": "1999",
+   "category": "02"
+  },
+  {
+   "id": "PMID:9230490",
+   "type": "record",
+   "label": "Schumm W 1997",
+   "year": "1997",
+   "category": "02"
+  },
+  {
+   "id": "PMID:39757299",
+   "type": "record",
+   "label": "Park J 2026",
+   "year": "2026",
+   "category": "02"
+  },
+  {
+   "id": "PMID:40783649",
+   "type": "record",
+   "label": "Asadpour E 2025",
+   "year": "2025",
+   "category": "02"
+  },
+  {
+   "id": "PMID:42442188",
+   "type": "record",
+   "label": "Sarac A 2026",
+   "year": "2026",
+   "category": "02"
+  },
+  {
+   "id": "PMID:41454335",
+   "type": "record",
+   "label": "Nsengiyumva R 2025",
+   "year": "2025",
+   "category": "02"
+  },
+  {
+   "id": "PMID:36620784",
+   "type": "record",
+   "label": "Bahkali NM 2022",
+   "year": "2022",
+   "category": "02"
+  },
+  {
+   "id": "CAT:03",
+   "type": "category",
+   "label": "Screening, first-line response and referral"
+  },
+  {
+   "id": "PMID:40553450",
+   "type": "record",
+   "label": "US Preventive Services Task Force 2025",
+   "year": 2025,
+   "category": "03"
+  },
+  {
+   "id": "PMID:30357305",
+   "type": "record",
+   "label": "US Preventive Services Task Force 2018",
+   "year": 2018,
+   "category": "03"
+  },
+  {
+   "id": "PMID:23338828",
+   "type": "record",
+   "label": "US Preventive Services Task Force 2013",
+   "year": 2013,
+   "category": "03"
+  },
+  {
+   "id": "PMID:14996680",
+   "type": "record",
+   "label": "US Preventive Services Task Force 2004",
+   "year": 2004,
+   "category": "03"
+  },
+  {
+   "id": "PMID:22565034",
+   "type": "record",
+   "label": "Nelson HD 2012",
+   "year": 2012,
+   "category": "03"
+  },
+  {
+   "id": "PMID:26200817",
+   "type": "record",
+   "label": "O'Doherty L 2015",
+   "year": 2015,
+   "category": "03"
+  },
+  {
+   "id": "PMID:32608505",
+   "type": "record",
+   "label": "Hameed M 2020",
+   "year": 2020,
+   "category": "03"
+  },
+  {
+   "id": "PMID:25467583",
+   "type": "record",
+   "label": "Garcia-Moreno C 2015",
+   "year": 2015,
+   "category": "03"
+  },
+  {
+   "id": "PMID:41267027",
+   "type": "record",
+   "label": "Onukwugha FI 2025",
+   "year": 2025,
+   "category": "03"
+  },
+  {
+   "id": "PMID:41151831",
+   "type": "record",
+   "label": "Onukwugha FI 2025",
+   "year": 2025,
+   "category": "03"
+  },
+  {
+   "id": "PMID:32460786",
+   "type": "record",
+   "label": "Meiksin R 2020",
+   "year": 2020,
+   "category": "03"
+  },
+  {
+   "id": "PMID:41330529",
+   "type": "record",
+   "label": "Hegarty K 2025",
+   "year": 2025,
+   "category": "03"
+  },
+  {
+   "id": "PMID:34838218",
+   "type": "record",
+   "label": "Baker CK / Sprague S (co-first authorship per abstract group) 2022",
+   "year": 2022,
+   "category": "03"
+  },
+  {
+   "id": "PMID:28789659",
+   "type": "record",
+   "label": "Thombs BD 2017",
+   "year": 2017,
+   "category": "03"
+  },
+  {
+   "id": "PMID:23917943",
+   "type": "record",
+   "label": "Trabold N 2014",
+   "year": 2014,
+   "category": "03"
+  },
+  {
+   "id": "PMID:25022633",
+   "type": "record",
+   "label": "Waalen J (per Can Fam Physician synthesis authorship) 2014",
+   "year": 2014,
+   "category": "03"
+  },
+  {
+   "id": "PMID:32869478",
+   "type": "record",
+   "label": "Kalichman SC / or commentary author per abstract 2020",
+   "year": 2020,
+   "category": "03"
+  },
+  {
+   "id": "PMID:36693203",
+   "type": "record",
+   "label": "Rogers MM 2022",
+   "year": 2022,
+   "category": "03"
+  },
+  {
+   "id": "PMID:24082017",
+   "type": "record",
+   "label": "Kondro W 2013",
+   "year": 2013,
+   "category": "03"
+  },
+  {
+   "id": "REF:",
+   "type": "record",
+   "label": "World Health Organization 2013",
+   "year": 2013,
+   "category": "03"
+  },
+  {
+   "id": "CAT:04",
+   "type": "category",
+   "label": "Couple-based work and coercive control"
+  },
+  {
+   "id": "PMID:27377617",
+   "type": "record",
+   "label": "Karakurt 2016",
+   "year": 2016,
+   "category": "04"
+  },
+  {
+   "id": "PMID:18624089",
+   "type": "record",
+   "label": "McCollum 2008",
+   "year": 2008,
+   "category": "04"
+  },
+  {
+   "id": "PMID:25039387",
+   "type": "record",
+   "label": "Schneider 2014",
+   "year": 2014,
+   "category": "04"
+  },
+  {
+   "id": "PMID:21780535",
+   "type": "record",
+   "label": "Robertson 2011",
+   "year": 2011,
+   "category": "04"
+  },
+  {
+   "id": "PMID:34167331",
+   "type": "record",
+   "label": "Wilson 2023",
+   "year": 2023,
+   "category": "04"
+  },
+  {
+   "id": "PMID:42323273",
+   "type": "record",
+   "label": "Hegarty 2026",
+   "year": 2026,
+   "category": "04"
+  },
+  {
+   "id": "PMID:35611345",
+   "type": "record",
+   "label": "Gutowski 2023",
+   "year": 2023,
+   "category": "04"
+  },
+  {
+   "id": "PMID:27927659",
+   "type": "record",
+   "label": "Ford-Gilboe 2016",
+   "year": 2016,
+   "category": "04"
+  },
+  {
+   "id": "PMID:24860075",
+   "type": "record",
+   "label": "Tiwari 2015",
+   "year": 2015,
+   "category": "04"
+  },
+  {
+   "id": "PMID:26645540",
+   "type": "record",
+   "label": "Evans 2016",
+   "year": 2016,
+   "category": "04"
+  },
+  {
+   "id": "PMID:38206858",
+   "type": "record",
+   "label": "Taft 2024",
+   "year": 2024,
+   "category": "04"
+  },
+  {
+   "id": "PMID:30357304",
+   "type": "record",
+   "label": "Feltner 2018",
+   "year": 2018,
+   "category": "04"
+  },
+  {
+   "id": "PMID:28649297",
+   "type": "record",
+   "label": "Sprague 2017",
+   "year": 2017,
+   "category": "04"
+  },
+  {
+   "id": "PMID:24053261",
+   "type": "record",
+   "label": "Chen 2013",
+   "year": 2013,
+   "category": "04"
+  },
+  {
+   "id": "PMID:15661584",
+   "type": "record",
+   "label": "Chang 2005",
+   "year": 2005,
+   "category": "04"
+  },
+  {
+   "id": "PMID:31012540",
+   "type": "record",
+   "label": "Lee 2019",
+   "year": 2019,
+   "category": "04"
+  },
+  {
+   "id": "PMID:28375750",
+   "type": "record",
+   "label": "Decker 2017",
+   "year": 2017,
+   "category": "04"
+  },
+  {
+   "id": "PMID:32791967",
+   "type": "record",
+   "label": "Portnoy 2020",
+   "year": 2020,
+   "category": "04"
+  },
+  {
+   "id": "PMID:16882959",
+   "type": "record",
+   "label": "MacMillan 2006",
+   "year": 2006,
+   "category": "04"
+  },
+  {
+   "id": "PMID:23012348",
+   "type": "record",
+   "label": "Swan 2012",
+   "year": 2012,
+   "category": "04"
+  },
+  {
+   "id": "CAT:05",
+   "type": "category",
+   "label": "Decision autonomy, reproductive coercion and measurement instruments"
+  },
+  {
+   "id": "PMID:24615573",
+   "type": "record",
+   "label": "Upadhyay Ushma D 2014",
+   "year": 2014,
+   "category": "05"
+  },
+  {
+   "id": "PMID:27639927",
+   "type": "record",
+   "label": "McCauley Heather L 2017",
+   "year": 2017,
+   "category": "05"
+  },
+  {
+   "id": "PMID:37316890",
+   "type": "record",
+   "label": "Boyce Sabrina C 2023",
+   "year": 2023,
+   "category": "05"
+  },
+  {
+   "id": "PMID:33336831",
+   "type": "record",
+   "label": "Wood Shannon N 2020",
+   "year": 2020,
+   "category": "05"
+  },
+  {
+   "id": "PMID:42015126",
+   "type": "record",
+   "label": "Kurnaz Kaan 2026",
+   "year": 2026,
+   "category": "05"
+  },
+  {
+   "id": "PMID:37922257",
+   "type": "record",
+   "label": "Gausman Jewel 2023",
+   "year": 2023,
+   "category": "05"
+  },
+  {
+   "id": "PMID:39266993",
+   "type": "record",
+   "label": "Dagher Myriam 2024",
+   "year": 2024,
+   "category": "05"
+  },
+  {
+   "id": "PMID:38339841",
+   "type": "record",
+   "label": "Hazar Seda 2024",
+   "year": 2024,
+   "category": "05"
+  },
+  {
+   "id": "PMID:41613074",
+   "type": "record",
+   "label": "Böttcher Bettina 2025",
+   "year": 2025,
+   "category": "05"
+  },
+  {
+   "id": "PMID:36657958",
+   "type": "record",
+   "label": "Riches Eleanor 2023",
+   "year": 2023,
+   "category": "05"
+  },
+  {
+   "id": "PMID:32690468",
+   "type": "record",
+   "label": "Upadhyay Ushma D 2021",
+   "year": 2021,
+   "category": "05"
+  },
+  {
+   "id": "PMID:26982668",
+   "type": "record",
+   "label": "Bhandari T R 2014",
+   "year": 2014,
+   "category": "05"
+  },
+  {
+   "id": "PMID:26892333",
+   "type": "record",
+   "label": "Miller Elizabeth 2016",
+   "year": 2016,
+   "category": "05"
+  },
+  {
+   "id": "PMID:29683049",
+   "type": "record",
+   "label": "Bundock Kerrie 2020",
+   "year": 2020,
+   "category": "05"
+  },
+  {
+   "id": "PMID:34770188",
+   "type": "record",
+   "label": "James Leah Emily 2021",
+   "year": 2021,
+   "category": "05"
+  },
+  {
+   "id": "PMID:40340915",
+   "type": "record",
+   "label": "Spence Nigel 2025",
+   "year": 2025,
+   "category": "05"
+  },
+  {
+   "id": "PMID:38754758",
+   "type": "record",
+   "label": "Sudhinaraset May 2024",
+   "year": 2024,
+   "category": "05"
+  },
+  {
+   "id": "PMID:31306331",
+   "type": "record",
+   "label": "Hill Amber L 2019",
+   "year": 2019,
+   "category": "05"
+  },
+  {
+   "id": "CAT:06",
+   "type": "category",
+   "label": "Muslim populations, Thailand and Southeast Asia"
+  },
+  {
+   "id": "PMID:40116416",
+   "type": "record",
+   "label": "Azalee M 2025",
+   "year": 2025,
+   "category": "06"
+  },
+  {
+   "id": "PMID:42300599",
+   "type": "record",
+   "label": "Phonkacha N 2026",
+   "year": 2026,
+   "category": "06"
+  },
+  {
+   "id": "PMID:38970860",
+   "type": "record",
+   "label": "Han X 2024",
+   "year": 2024,
+   "category": "06"
+  },
+  {
+   "id": "PMID:36429857",
+   "type": "record",
+   "label": "Subramanee SD 2022",
+   "year": 2022,
+   "category": "06"
+  },
+  {
+   "id": "PMID:32138744",
+   "type": "record",
+   "label": "Alomair N 2020",
+   "year": 2020,
+   "category": "06"
+  },
+  {
+   "id": "PMID:39395200",
+   "type": "record",
+   "label": "Sikoki B 2024",
+   "year": 2024,
+   "category": "06"
+  },
+  {
+   "id": "PMID:34253076",
+   "type": "record",
+   "label": "Alghamdi M 2022",
+   "year": 2022,
+   "category": "06"
+  },
+  {
+   "id": "PMID:39425490",
+   "type": "record",
+   "label": "Sharifnia A 2025",
+   "year": 2025,
+   "category": "06"
+  },
+  {
+   "id": "PMID:31896308",
+   "type": "record",
+   "label": "Couture-Carron A 2020",
+   "year": 2020,
+   "category": "06"
+  },
+  {
+   "id": "PMID:12429436",
+   "type": "record",
+   "label": "Grisurapong S 2002",
+   "year": 2002,
+   "category": "06"
+  },
+  {
+   "id": "PMID:15162975",
+   "type": "record",
+   "label": "Nagae M 2004",
+   "year": 2004,
+   "category": "06"
+  },
+  {
+   "id": "PMID:32460657",
+   "type": "record",
+   "label": "Kassas S 2022",
+   "year": 2022,
+   "category": "06"
+  },
+  {
+   "id": "PMID:29587705",
+   "type": "record",
+   "label": "Rumble L 2018",
+   "year": 2018,
+   "category": "06"
+  },
+  {
+   "id": "PMID:18038283",
+   "type": "record",
+   "label": "Jacubowski N 2008",
+   "year": 2008,
+   "category": "06"
+  },
+  {
+   "id": "PMID:34780506",
+   "type": "record",
+   "label": "Fauk NK 2021",
+   "year": 2021,
+   "category": "06"
+  },
+  {
+   "id": "PMID:17457732",
+   "type": "record",
+   "label": "Blackwood E 2007",
+   "year": 2007,
+   "category": "06"
+  },
+  {
+   "id": "PMID:38968277",
+   "type": "record",
+   "label": "Kuswanto H 2024",
+   "year": 2024,
+   "category": "06"
+  },
+  {
+   "id": "PMID:36163286",
+   "type": "record",
+   "label": "Ratnaningsih M 2022",
+   "year": 2022,
+   "category": "06"
+  },
+  {
+   "id": "PMID:34527969",
+   "type": "record",
+   "label": "Islam MK 2021",
+   "year": 2021,
+   "category": "06"
+  },
+  {
+   "id": "PMID:36550423",
+   "type": "record",
+   "label": "Gausman J 2022",
+   "year": 2022,
+   "category": "06"
+  },
+  {
+   "id": "PMID:40091116",
+   "type": "record",
+   "label": "Mieth K 2025",
+   "year": 2025,
+   "category": "06"
+  },
+  {
+   "id": "PMID:34323166",
+   "type": "record",
+   "label": "Islam MK 2021",
+   "year": 2021,
+   "category": "06"
+  },
+  {
+   "id": "PMID:12962056",
+   "type": "record",
+   "label": "Ghuman SJ 2003",
+   "year": 2003,
+   "category": "06"
+  },
+  {
+   "id": "CAT:07",
+   "type": "category",
+   "label": "Multicultural clinical safety and language access"
+  },
+  {
+   "id": "PMID:33372646",
+   "type": "record",
+   "label": "Kosiyaporn Hathairat 2020",
+   "year": "2020",
+   "category": "07"
+  },
+  {
+   "id": "PMID:36006258",
+   "type": "record",
+   "label": "König Andrea 2022",
+   "year": "2022",
+   "category": "07"
+  },
+  {
+   "id": "PMID:34272187",
+   "type": "record",
+   "label": "Phanwichatkul Titaree 2022",
+   "year": "2022",
+   "category": "07"
+  },
+  {
+   "id": "PMID:38867221",
+   "type": "record",
+   "label": "Pongthippat Weerati 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:39653570",
+   "type": "record",
+   "label": "Buathong Napakkawat 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:38971727",
+   "type": "record",
+   "label": "Weschasat Tassanapan 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:24684694",
+   "type": "record",
+   "label": "Wichaidit Wit 2014",
+   "year": "2014",
+   "category": "07"
+  },
+  {
+   "id": "PMID:40256382",
+   "type": "record",
+   "label": "Lohmae Userow 2025",
+   "year": "2025",
+   "category": "07"
+  },
+  {
+   "id": "PMID:35964378",
+   "type": "record",
+   "label": "Vella Elizabeth 2022",
+   "year": "2022",
+   "category": "07"
+  },
+  {
+   "id": "PMID:37793931",
+   "type": "record",
+   "label": "Hardy Billie-Jo 2023",
+   "year": "2023",
+   "category": "07"
+  },
+  {
+   "id": "PMID:38426444",
+   "type": "record",
+   "label": "Bresnahan Mary 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:33816420",
+   "type": "record",
+   "label": "Cano-Ibáñez Naomi 2021",
+   "year": "2021",
+   "category": "07"
+  },
+  {
+   "id": "PMID:36816444",
+   "type": "record",
+   "label": "Heath Morten 2023",
+   "year": "2023",
+   "category": "07"
+  },
+  {
+   "id": "PMID:39696623",
+   "type": "record",
+   "label": "Lauridsen Iben Gad 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:39243595",
+   "type": "record",
+   "label": "Pérez-Sánchez María 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:40693305",
+   "type": "record",
+   "label": "Al-Mubarak Aljawharah 2025",
+   "year": "2025",
+   "category": "07"
+  },
+  {
+   "id": "PMID:39640929",
+   "type": "record",
+   "label": "Stevenson Kerrie 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "PMID:38160059",
+   "type": "record",
+   "label": "Chu Janet N 2024",
+   "year": "2024",
+   "category": "07"
+  },
+  {
+   "id": "CAT:08",
+   "type": "category",
+   "label": "Preconception medicine, premarital screening and adjacent guidance"
+  },
+  {
+   "id": "PMID:37052388",
+   "type": "record",
+   "label": "Lohmann Susanne 2024",
+   "year": "2024",
+   "category": "08"
+  },
+  {
+   "id": "PMID:41312737",
+   "type": "record",
+   "label": "Saldanha Susan 2025",
+   "year": "2025",
+   "category": "08"
+  },
+  {
+   "id": "PMID:38426290",
+   "type": "record",
+   "label": "Benedetto Chiara 2024",
+   "year": "2024",
+   "category": "08"
+  },
+  {
+   "id": "PMID:38822327",
+   "type": "record",
+   "label": "Dilli Priscilla Peter 2024",
+   "year": "2024",
+   "category": "08"
+  },
+  {
+   "id": "PMID:37499317",
+   "type": "record",
+   "label": "Karantzas Gery C 2023",
+   "year": "2023",
+   "category": "08"
+  },
+  {
+   "id": "PMID:40553460",
+   "type": "record",
+   "label": "Feltner Cynthia 2025",
+   "year": "2025",
+   "category": "08"
+  },
+  {
+   "id": "PMID:34057734",
+   "type": "record",
+   "label": "Kalra Naira 2021",
+   "year": "2021",
+   "category": "08"
+  },
+  {
+   "id": "REF:DOI:10.3389/fmed.2023.1140787",
+   "type": "record",
+   "label": "Guo Cancan 2023",
+   "year": "2023",
+   "category": "08"
+  },
+  {
+   "id": "REF:DOI:10.1186/s12978-026-02385-y",
+   "type": "record",
+   "label": "Doe Patience Fakornam 2026",
+   "year": "2026",
+   "category": "08"
+  },
+  {
+   "id": "REF:PMC12445309",
+   "type": "record",
+   "label": "Anwar 2025",
+   "year": "2025",
+   "category": "08"
+  },
+  {
+   "id": "REF:COCHRANE:CD001431",
+   "type": "record",
+   "label": "Stacey Dawn 2024",
+   "year": "2024",
+   "category": "08"
+  },
+  {
+   "id": "REF:WHO:B09860",
+   "type": "record",
+   "label": "WHO / World Health Organization (institutional author) 2021 (base report); 2023/2024 update per draft claim",
+   "year": "2021 (base report); 2023/2024 update per draft claim",
+   "category": "08"
+  },
+  {
+   "id": "REF:WHO:9789240117020",
+   "type": "record",
+   "label": "WHO / World Health Organization (institutional author) 2025 (per draft claim)",
+   "year": "2025 (per draft claim)",
+   "category": "08"
+  },
+  {
+   "id": "CAT:09",
+   "type": "category",
+   "label": "Global guidance, frameworks and methods"
+  },
+  {
+   "id": "REF:WHO:9789240116962",
+   "type": "record",
+   "label": "",
+   "year": "",
+   "category": "09"
+  },
+  {
+   "id": "PMID:38081957",
+   "type": "record",
+   "label": "Spencer CN 2023",
+   "year": "2023",
+   "category": "09"
+  },
+  {
+   "id": "PMID:35569504",
+   "type": "record",
+   "label": "Oram S 2022",
+   "year": "2022",
+   "category": "09"
+  },
+  {
+   "id": "PMID:25467575",
+   "type": "record",
+   "label": "Ellsberg M 2015",
+   "year": "2015",
+   "category": "09"
+  },
+  {
+   "id": "PMID:38702097",
+   "type": "record",
+   "label": "Bacchus LJ 2024",
+   "year": "2024",
+   "category": "09"
+  },
+  {
+   "id": "PMID:40017928",
+   "type": "record",
+   "label": "Ullman C 2025",
+   "year": "2025",
+   "category": "09"
+  },
+  {
+   "id": "PMID:22893165",
+   "type": "record",
+   "label": "Klevens J 2012",
+   "year": "2012",
+   "category": "09"
+  },
+  {
+   "id": "PMID:26241603",
+   "type": "record",
+   "label": "Klevens J 2015",
+   "year": "2015",
+   "category": "09"
+  },
+  {
+   "id": "PMID:19654384",
+   "type": "record",
+   "label": "MacMillan HL 2009",
+   "year": "2009",
+   "category": "09"
+  },
+  {
+   "id": "REF:WHO:9789241548595",
+   "type": "record",
+   "label": "2013",
+   "year": "2013",
+   "category": "09"
+  },
+  {
+   "id": "REF:WHO:WHO-RHR-14.26",
+   "type": "record",
+   "label": "2014",
+   "year": "2014",
+   "category": "09"
+  },
+  {
+   "id": "REF:NICE:CKS-domestic-abuse",
+   "type": "record",
+   "label": "",
+   "year": "",
+   "category": "09"
+  },
+  {
+   "id": "PMID:38284415",
+   "type": "record",
+   "label": "Stacey D 2024",
+   "year": "2024",
+   "category": "09"
+  },
+  {
+   "id": "PMID:29109079",
+   "type": "record",
+   "label": "Elwyn G 2017",
+   "year": "2017",
+   "category": "09"
+  },
+  {
+   "id": "PMID:34593508",
+   "type": "record",
+   "label": "Skivington K 2021",
+   "year": "2021",
+   "category": "09"
+  },
+  {
+   "id": "PMID:34344699",
+   "type": "record",
+   "label": "Moore G 2021",
+   "year": "2021",
+   "category": "09"
+  },
+  {
+   "id": "PMID:25791983",
+   "type": "record",
+   "label": "Moore GF 2015",
+   "year": "2015",
+   "category": "09"
+  },
+  {
+   "id": "PMID:10073197",
+   "type": "record",
+   "label": "Tervalon M 1998",
+   "year": "1998",
+   "category": "09"
+  },
+  {
+   "id": "REF:WHO-EURO:9789289053594",
+   "type": "record",
+   "label": "2018",
+   "year": "2018",
+   "category": "09"
+  },
+  {
+   "id": "REF:WHO-EURO:9789289058353",
+   "type": "record",
+   "label": "2022",
+   "year": "2022",
+   "category": "09"
+  },
+  {
+   "id": "REF:JAKIM:guideline",
+   "type": "record",
+   "label": "",
+   "year": "",
+   "category": "09"
+  },
+  {
+   "id": "REF:MALAYSIA-GOV:kursus",
+   "type": "record",
+   "label": "",
+   "year": "",
+   "category": "09"
+  },
+  {
+   "id": "REF:WHO:factsheet-2026",
+   "type": "record",
+   "label": "2026",
+   "year": "2026",
+   "category": "09"
+  },
+  {
+   "id": "CAT:10",
+   "type": "category",
+   "label": "Thailand and the southern border provinces"
+  },
+  {
+   "id": "PMID:29904232",
+   "type": "record",
+   "label": "Chuemchit Montakarn 2018",
+   "year": "2018",
+   "category": "10"
+  },
+  {
+   "id": "PMID:33308089",
+   "type": "record",
+   "label": "Thananowan Nanthana 2021",
+   "year": "2021",
+   "category": "10"
+  },
+  {
+   "id": "PMID:18408170",
+   "type": "record",
+   "label": "Thananowan Nanthana 2008",
+   "year": "2008",
+   "category": "10"
+  },
+  {
+   "id": "PMID:39536796",
+   "type": "record",
+   "label": "Thitiyanviroj Benjaporn 2024",
+   "year": "2024",
+   "category": "10"
+  },
+  {
+   "id": "PMID:35950590",
+   "type": "record",
+   "label": "Paiboonsukwong Kittiphong 2022",
+   "year": "2022",
+   "category": "10"
+  },
+  {
+   "id": "PMID:32549162",
+   "type": "record",
+   "label": "Hayee Fusiyah 2020",
+   "year": "2020",
+   "category": "10"
+  },
+  {
+   "id": "PMID:35079589",
+   "type": "record",
+   "label": "Singkun Awirut 2021",
+   "year": "2021",
+   "category": "10"
+  },
+  {
+   "id": "PMID:37554485",
+   "type": "record",
+   "label": "Singkun Awirut 2022",
+   "year": "2022",
+   "category": "10"
+  },
+  {
+   "id": "PMID:28024446",
+   "type": "record",
+   "label": "Ford Kathleen 2017",
+   "year": "2017",
+   "category": "10"
+  },
+  {
+   "id": "PMID:41540416",
+   "type": "record",
+   "label": "Ford Kathleen 2026",
+   "year": "2026",
+   "category": "10"
+  },
+  {
+   "id": "PMID:41872869",
+   "type": "record",
+   "label": "Vapattanawong Patama 2026",
+   "year": "2026",
+   "category": "10"
+  },
+  {
+   "id": "PMID:38025912",
+   "type": "record",
+   "label": "Sirithammaphan Uraiwan 2023",
+   "year": "2023",
+   "category": "10"
+  },
+  {
+   "id": "PMID:29417854",
+   "type": "record",
+   "label": "Ford Kathleen 2018",
+   "year": "2018",
+   "category": "10"
+  },
+  {
+   "id": "PMID:37442996",
+   "type": "record",
+   "label": "Jinarong Taqwa 2023",
+   "year": "2023",
+   "category": "10"
+  },
+  {
+   "id": "CAT:11",
+   "type": "category",
+   "label": "Premarital knowledge and well-being pathways"
+  },
+  {
+   "id": "PMID:33502054",
+   "type": "record",
+   "label": "Spencer CM 2021",
+   "year": 2021,
+   "category": "11"
+  },
+  {
+   "id": "PMID:39377020",
+   "type": "record",
+   "label": "Bahrami-Samani S 2024",
+   "year": 2024,
+   "category": "11"
+  },
+  {
+   "id": "PMID:41773204",
+   "type": "record",
+   "label": "Ashrafi E 2026",
+   "year": 2026,
+   "category": "11"
+  },
+  {
+   "id": "PMID:42316254",
+   "type": "record",
+   "label": "Doe PF 2026",
+   "year": 2026,
+   "category": "11"
+  },
+  {
+   "id": "PMID:23527470",
+   "type": "record",
+   "label": "Robles TF 2014",
+   "year": 2014,
+   "category": "11"
+  },
+  {
+   "id": "CAT:12",
+   "type": "category",
+   "label": "Culture as a health determinant and intercultural coexistence"
+  },
+  {
+   "id": "PMID:25443490",
+   "type": "record",
+   "label": "Napier AD 2014",
+   "year": 2014,
+   "category": "12"
+  },
+  {
+   "id": "PMID:36502848",
+   "type": "record",
+   "label": "Devakumar D 2022",
+   "year": 2022,
+   "category": "12"
+  },
+  {
+   "id": "PMID:36502849",
+   "type": "record",
+   "label": "Selvarajah S 2022",
+   "year": 2022,
+   "category": "12"
+  },
+  {
+   "id": "PMID:42314718",
+   "type": "record",
+   "label": "Abubakar I 2026",
+   "year": 2026,
+   "category": "12"
+  },
+  {
+   "id": "PMID:24793445",
+   "type": "record",
+   "label": "Horvat L 2014",
+   "year": 2014,
+   "category": "12"
+  },
+  {
+   "id": "PMID:37208113",
+   "type": "record",
+   "label": "Li S 2023",
+   "year": 2023,
+   "category": "12"
+  },
+  {
+   "id": "PMID:39969882",
+   "type": "record",
+   "label": "Reaume M 2025",
+   "year": 2025,
+   "category": "12"
+  },
+  {
+   "id": "PMID:35080609",
+   "type": "record",
+   "label": "Axinn WG 2022",
+   "year": 2022,
+   "category": "12"
+  },
+  {
+   "id": "PMID:41887826",
+   "type": "record",
+   "label": "Watt RG 2026",
+   "year": 2026,
+   "category": "12"
+  }
+ ],
+ "edges": [
+  {
+   "source": "PMID:41386261",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41386261",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41386261",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35182472",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35182472",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:25248996",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25248996",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:25248996",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:27084116",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27084116",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26924488",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26924488",
+   "target": "P5",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:26924488",
+   "target": "SG:bounded authority and referral",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:26924488",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33578229",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33578229",
+   "target": "P7",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:33578229",
+   "target": "SG:repairability",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:27682273",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27682273",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:27682273",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:27682273",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33355268",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33355268",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33355268",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31686618",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31686618",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:30125773",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30125773",
+   "target": "P4",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:30125773",
+   "target": "P5",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:30125773",
+   "target": "SG:bounded authority and referral",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:30125773",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:30125773",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37329160",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37329160",
+   "target": "P3",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:29384426",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29384426",
+   "target": "P5",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:29384426",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:29384426",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37649394",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37649394",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:37649394",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32896204",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32896204",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:32896204",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:32896204",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40625533",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42556995",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29162117",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29162117",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:32257154",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30613427",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30613427",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:40462272",
+   "target": "CAT:01",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40462272",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:18837590",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:18837590",
+   "target": "P1",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:18837590",
+   "target": "P6",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:18837590",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:18837590",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:22304880",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22304880",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:35040124",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23421844",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23421844",
+   "target": "P1",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:23421844",
+   "target": "P4",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:23421844",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25664643",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25664643",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:25664643",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24294929",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24294929",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:24294929",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:24294929",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24294929",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24294929",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:30489129",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30489129",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:30489129",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:30489129",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:21355646",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:21355646",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:30725473",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30725473",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:30725473",
+   "target": "P7",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:25938709",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33729071",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33729071",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:33729071",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:33729071",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33729071",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:21287968",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:21287968",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:21287968",
+   "target": "SG:cultural intelligibility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:9779330",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:9779330",
+   "target": "P6",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:10081741",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:10081741",
+   "target": "P7",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:10081741",
+   "target": "SG:repairability",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:9230490",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39757299",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39757299",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:39757299",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39757299",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39757299",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40783649",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40783649",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42442188",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42442188",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41454335",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41454335",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41454335",
+   "target": "SG:affected-person visibility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:41454335",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36620784",
+   "target": "CAT:02",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36620784",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36620784",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36620784",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40553450",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40553450",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:40553450",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40553450",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:30357305",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30357305",
+   "target": "P5",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:30357305",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:30357305",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:23338828",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23338828",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:14996680",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:14996680",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:14996680",
+   "target": "SG:epistemic humility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:22565034",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22565034",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:22565034",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26200817",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26200817",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:26200817",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:26200817",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26200817",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26200817",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32608505",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32608505",
+   "target": "P5",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:32608505",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25467583",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25467583",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:25467583",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25467583",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41267027",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41267027",
+   "target": "P5",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:41267027",
+   "target": "SG:repairability",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:41267027",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41151831",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41151831",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41151831",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41151831",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41151831",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32460786",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32460786",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:32460786",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:32460786",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32460786",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41330529",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41330529",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41330529",
+   "target": "SG:dignity and consent",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:34838218",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34838218",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34838218",
+   "target": "SG:repairability",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:34838218",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:28789659",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28789659",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:23917943",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23917943",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:23917943",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25022633",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25022633",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:25022633",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25022633",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32869478",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32869478",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:32869478",
+   "target": "SG:dignity and consent",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:32869478",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36693203",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36693203",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:36693203",
+   "target": "SG:epistemic humility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:36693203",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24082017",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:",
+   "target": "P2",
+   "relation": "relates_to"
+  },
+  {
+   "source": "REF:",
+   "target": "P5",
+   "relation": "relates_to"
+  },
+  {
+   "source": "REF:",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "REF:",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "REF:",
+   "target": "CAT:03",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "REF:",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:27377617",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27377617",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:27377617",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:18624089",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:18624089",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:18624089",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:18624089",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:18624089",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:25039387",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25039387",
+   "target": "P4",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:25039387",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:21780535",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:21780535",
+   "target": "P4",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:21780535",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34167331",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34167331",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34167331",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42323273",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42323273",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:42323273",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42323273",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:35611345",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35611345",
+   "target": "P5",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:35611345",
+   "target": "SG:bounded authority and referral",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:35611345",
+   "target": "SG:repairability",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:35611345",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:27927659",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27927659",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:27927659",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24860075",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24860075",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:26645540",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26645540",
+   "target": "P2",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:26645540",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26645540",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38206858",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38206858",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38206858",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:30357304",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:30357304",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:30357304",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:30357304",
+   "target": "OD:harms",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:28649297",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28649297",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:28649297",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "SG:bounded authority and referral",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24053261",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:15661584",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:15661584",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31012540",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31012540",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:31012540",
+   "target": "SG:epistemic humility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:31012540",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:28375750",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28375750",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:28375750",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32791967",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32791967",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:32791967",
+   "target": "P4",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:32791967",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:16882959",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:16882959",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:16882959",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:23012348",
+   "target": "CAT:04",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23012348",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24615573",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24615573",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:24615573",
+   "target": "P7",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:24615573",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:24615573",
+   "target": "OD:coercion recognition",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:27639927",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27639927",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:27639927",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:27639927",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:27639927",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:27639927",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37316890",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37316890",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:37316890",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:37316890",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33336831",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33336831",
+   "target": "P3",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:33336831",
+   "target": "SG:cultural intelligibility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:33336831",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42015126",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42015126",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:42015126",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:42015126",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:37922257",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37922257",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:37922257",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39266993",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39266993",
+   "target": "P3",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:38339841",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38339841",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38339841",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:41613074",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41613074",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:41613074",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36657958",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36657958",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:32690468",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32690468",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:32690468",
+   "target": "P7",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:26982668",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26982668",
+   "target": "P1",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:26982668",
+   "target": "P2",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:26982668",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:26892333",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26892333",
+   "target": "P1",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:26892333",
+   "target": "P4",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:26892333",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:29683049",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29683049",
+   "target": "P5",
+   "relation": "relates_to"
+  },
+  {
+   "source": "PMID:29683049",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:29683049",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:29683049",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34770188",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34770188",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34770188",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34770188",
+   "target": "SG:cultural intelligibility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:34770188",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34770188",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40340915",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40340915",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40340915",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38754758",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31306331",
+   "target": "CAT:05",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31306331",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:31306331",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:31306331",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40116416",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40116416",
+   "target": "P2",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:40116416",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:40116416",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40116416",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40116416",
+   "target": "OD:private channel",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:42300599",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42300599",
+   "target": "P1",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:42300599",
+   "target": "P6",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:38970860",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38970860",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38970860",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38970860",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38970860",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36429857",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36429857",
+   "target": "P7",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:36429857",
+   "target": "SG:repairability",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:36429857",
+   "target": "OD:reproductive-health literacy",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32138744",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32138744",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:39395200",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39395200",
+   "target": "P3",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:39395200",
+   "target": "SG:cultural intelligibility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:34253076",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34253076",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34253076",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34253076",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34253076",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34253076",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "SG:cultural intelligibility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:39425490",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31896308",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:31896308",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:31896308",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:31896308",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31896308",
+   "target": "OD:help-seeking",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:31896308",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:12429436",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:12429436",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:12429436",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:15162975",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:15162975",
+   "target": "P5",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:15162975",
+   "target": "SG:bounded authority and referral",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:15162975",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:32460657",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32460657",
+   "target": "SG:epistemic humility",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:32460657",
+   "target": "SG:bounded authority and referral",
+   "relation": "informs"
+  },
+  {
+   "source": "PMID:32460657",
+   "target": "OD:referral",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:29587705",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29587705",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:29587705",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:29587705",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:18038283",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:18038283",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:18038283",
+   "target": "P6",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34780506",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34780506",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34780506",
+   "target": "P6",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:17457732",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:17457732",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38968277",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38968277",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38968277",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:38968277",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36163286",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36163286",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:36163286",
+   "target": "P3",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34527969",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34527969",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34527969",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34527969",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:36550423",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36550423",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:36550423",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40091116",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40091116",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:40091116",
+   "target": "P4",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:40091116",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:40091116",
+   "target": "OD:stop rule",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:34323166",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34323166",
+   "target": "P1",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:34323166",
+   "target": "P6",
+   "relation": "supports"
+  },
+  {
+   "source": "PMID:12962056",
+   "target": "CAT:06",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:12962056",
+   "target": "P1",
+   "relation": "complicates"
+  },
+  {
+   "source": "PMID:12962056",
+   "target": "OD:decision control",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:33372646",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36006258",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34272187",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38867221",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39653570",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38971727",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24684694",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40256382",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35964378",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37793931",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38426444",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33816420",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36816444",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39696623",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39243595",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32138744",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40693305",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39640929",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38160059",
+   "target": "CAT:07",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41386261",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37052388",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41312737",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41312737",
+   "target": "OD:reproductive coercion",
+   "relation": "measures_or_discusses"
+  },
+  {
+   "source": "PMID:38426290",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38822327",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35040124",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37499317",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27377617",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40553460",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24615573",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34057734",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:DOI:10.3389/fmed.2023.1140787",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:DOI:10.1186/s12978-026-02385-y",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:PMC12445309",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:COCHRANE:CD001431",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:B09860",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:9789240117020",
+   "target": "CAT:08",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:9789240116962",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41386261",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38081957",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35569504",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:9789240117020",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25467575",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38702097",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40017928",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40553460",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:40553450",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22893165",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:26241603",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:19654384",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:9789241548595",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:WHO-RHR-14.26",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:NICE:CKS-domestic-abuse",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:27377617",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38284415",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29109079",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34593508",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:34344699",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25791983",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:10073197",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO-EURO:9789289053594",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO-EURO:9789289058353",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:18837590",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:JAKIM:guideline",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:MALAYSIA-GOV:kursus",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "REF:WHO:factsheet-2026",
+   "target": "CAT:09",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29904232",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33308089",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:18408170",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39536796",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35950590",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:32549162",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35079589",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37554485",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:28024446",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41540416",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41872869",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:38025912",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:29417854",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37442996",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41540416",
+   "target": "CAT:10",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35040124",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:33502054",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:22304880",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39377020",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41773204",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42316254",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:23527470",
+   "target": "CAT:11",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:25443490",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36502848",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:36502849",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:42314718",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:24793445",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:37208113",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:39969882",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:35080609",
+   "target": "CAT:12",
+   "relation": "in_category"
+  },
+  {
+   "source": "PMID:41887826",
+   "target": "CAT:12",
+   "relation": "in_category"
+  }
+ ]
+}
