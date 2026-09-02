@@ -17,6 +17,7 @@ the TIMA/FIMA Scientific Convention 2026.
 | **Web copy** | [`abstract/ABSTRACT.md`](abstract/ABSTRACT.md) |
 | **Evidence ledger** | [`CLAIMS.md`](CLAIMS.md) — every statement in the abstract graded by the type of evidence behind it |
 | **Setting** | [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) — background on the originating organisation, each statement labelled by source status; context for readers, not part of the paper |
+| **Side data** | [`docs/side-data/family-of-peace-theory-of-change.md`](docs/side-data/family-of-peace-theory-of-change.md) — the organisation's theory of change in logic-model form; T-PHE does not adopt it |
 | **License** | [CC BY 4.0](LICENSE) |
 
 ## What the abstract claims, in one paragraph
@@ -76,6 +77,7 @@ See [`CITATION.cff`](CITATION.cff). Suggested form:
 abstract/       camera-ready PDF (document of record), SHA256SUMS, web copy
 CLAIMS.md       evidence ledger for every statement in the abstract
 ABOUT_ARAYA_NIKAH.md  organisational setting, source-status labelled (context, not evidence)
+docs/side-data/  the organisation's own theory of change, logic-model form (side data; not adopted by the paper)
 AGENTS.md       rules for any human or AI contributor (review gate, language standard)
 GOAL.md         what this research programme is trying to achieve, and how it will know
 logbook.jsonl   append-only record of what was actually done
