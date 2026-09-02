@@ -21,14 +21,21 @@ This is a **public medical-science research repository**. Read this file before 
 - Write in the register of public health, preventive medicine and health-promotion research:
   intervention, programme theory, mechanism, outcome domain, process measure, level of evidence,
   safeguarding, referral, critical appraisal, prospective evaluation.
-- Do **not** import working vocabulary from other projects or philosophies into this repository.
-  A reader from a medical faculty must be able to read every file without a glossary.
-- **Islamic ethical terms are part of this work's declared framework** (the abstract names limited
-  knowledge, entrusted responsibility, human dignity, just boundaries and repair; the manuscript names
-  them as *faqr*, *taqwa*, *amanah*, *ʿadl*). They may be used, always with a plain-language gloss,
-  as the named ethical frame — never as evidence. Every ethical statement must be paired with the
-  medical or public-health evidence it governs. Islamic medical-ethics literature may be cited only
-  when it is PubMed-indexed and of high quality (systematic review, guideline, or leading journal).
+- Do **not** import working vocabulary from other projects or philosophies into this repository
+  (with the one declared exception below). A reader from a medical faculty must be able to read every
+  file without a glossary.
+- **Declared exception — the work's own Islamic ethical frame.** The abstract names limited knowledge,
+  entrusted responsibility, human dignity, just boundaries and repair; the manuscript names them as
+  *faqr*, *taqwa*, *amanah*, *ʿadl* (and *shura* for consultation). These terms may be used as the named
+  ethical frame, always with a plain-language gloss on first use in each file, and never as evidence: every
+  ethical statement is paired with the medical or public-health evidence it governs.
+- **Admission tiers for Islamic medical-ethics and Muslim-health sources** (library category 18), all of
+  which must be PubMed-indexed: (i) systematic review or meta-analysis; (ii) clinical or professional
+  guideline recorded by PubMed as such; (iii) randomised trial; (iv) article in a leading general,
+  specialty or medical-ethics journal (the category file names the journal and the reason);
+  (v) a labelled carve-out for the professional-association journal of the convention's umbrella body
+  (Journal of the Islamic Medical Association), shown as "carve-out" in the record. Opinion pieces and
+  lower-tier journals are excluded.
 - Grade every claim by evidence type as in `CLAIMS.md`. Never upgrade a conceptual synthesis to
   a finding, or an organisational figure to a verified count.
 
