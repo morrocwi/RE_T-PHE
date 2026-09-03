@@ -123,6 +123,7 @@ with a group nikah ceremony; completion of the course confers no automatic right
 | Weddings facilitated | more than 1,200 couples |
 | Premarital group-training cohorts | 19 (first cohort 10 February 2024) |
 | Cross-cultural couples supported | more than 300 |
+| Countries of origin represented among international couples | more than 30 (reported directly by the author, 2026-09-04; not in the governance records listed under Sources; organisation-reported reach, not an outcome) |
 | Women and children reached by education | more than 500 |
 | Premarital-programme participants since 2024 (figure used in the abstract) | more than 600 (reported directly by the author for the abstract; not in the governance records listed under Sources; see `CLAIMS.md` C-06) |
 
