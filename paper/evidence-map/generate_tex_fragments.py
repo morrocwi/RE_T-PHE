@@ -45,6 +45,26 @@ PUBMED_BATCH_SIZE = 50
 PUBMED_SLEEP_S = 0.4
 
 
+
+def strip_verifier_block(text):
+    """Remove a leading '[CORRECTION: ... FIX ...]' verifier block (bracket-balanced) from a charted
+    finding and append a short marker, so the public table shows the charted finding text while the
+    full verifier note stays in library/library.json. The finding text itself is not rewritten."""
+    t = text.lstrip()
+    if not t.startswith("[CORRECTION"):
+        return text
+    depth = 0
+    for i, ch in enumerate(t):
+        if ch == "[":
+            depth += 1
+        elif ch == "]":
+            depth -= 1
+            if depth == 0:
+                rest = t[i + 1:].strip()
+                return (rest + " (Verifier correction recorded in the library entry.)").strip()
+    return text
+
+
 def load_json(path):
     with open(path, "r", encoding="utf-8") as fh:
         return json.load(fh)
@@ -424,6 +444,7 @@ def main():
                 design = tex_escape(entry.get("design") or "not derivable from the logged files")
                 population = tex_escape(entry.get("population_setting") or "not derivable from the logged files")
                 finding = entry.get("finding") or entry.get("verifier_note") or "not derivable from the logged files"
+                finding = strip_verifier_block(finding)
                 finding = tex_escape(finding)
                 rows.append(
                     {

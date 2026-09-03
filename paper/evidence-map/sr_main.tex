@@ -218,7 +218,7 @@ with a blank \texttt{identifier} field, so both would naively collide onto the s
 identifier-less key and only one (the 2014 handbook) would ever appear in the rendered tables,
 silently dropping the 2013 guideline's own finding from every proposition table it is linked to.
 \texttt{library.json} itself was not edited (per this repository's separation between the public
-\texttt{library/} and this private manuscript's build scripts); instead, both \texttt{build\_prisma.py}
+\texttt{library/} and the build scripts released with it); instead, both \texttt{build\_prisma.py}
 and \texttt{generate\_tex\_fragments.py} resolve the collision with a deterministic fallback key
 (PMID if present, otherwise a slug of first\_author+year+title), so the two documents are counted
 and tabulated as the two distinct records they are. This is flagged here as a data-quality issue

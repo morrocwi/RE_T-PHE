@@ -10,6 +10,7 @@ matrix and claim–evidence ledger (S3), the operational checklist (S4) and the 
 - The abstract in `../../abstract/` remains the document of record; nothing here claims that T-PHE
   improves, prevents or reduces any outcome.
 - Every reference carries its PubMed identifier; every citing sentence was checked against the source
-  abstract before this version (review trail in `../../docs/reports/`).
+  abstract before this version. The independent appraisal reports that gate every public change are in
+  `../../docs/reports/`.
 - Build: `latexmk -pdf main_journal.tex` and `latexmk -pdf supplementary.tex`.
 - `SHA256SUMS` pins both PDFs. Licence: CC BY 4.0, as the repository.
