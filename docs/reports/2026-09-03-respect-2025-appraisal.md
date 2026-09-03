@@ -71,8 +71,8 @@ rewritten) — consistent with `AGENTS.md` §6's append-only rule. No finding.
 
 ## 4. Privacy / leak scan of the diff
 
+```
 $ git diff main..docs/respect-2025 | grep -Ei "<local username>|<home path>|<private IP range>|session_|<author email>|hostname"
-$ git diff main..docs/respect-2025 | grep -Ei "yaoharee-lt|/home/|192\.168|session_|arayawedding@gmail|hostname"
 (no output)
 ```
 No local paths, usernames, internal IPs, session identifiers, or contact details in either changed
