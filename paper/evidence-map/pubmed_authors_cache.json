@@ -1,0 +1,6494 @@
+{
+  "14996680": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "14996680"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.7326/0003-4819-140-5-200403020-00014"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "140/5/382"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "CollectiveName",
+        "clusterid": "",
+        "name": "U. S. Preventive Services Task Force"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "",
+    "epubdate": "",
+    "essn": "1539-3704",
+    "fulljournalname": "Annals of internal medicine",
+    "history": [
+      {
+        "date": "2004/03/05 05:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2004/03/12 05:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2004/03/05 05:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "0003-4819",
+    "issue": "5",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "U. S. Preventive Services Task Force",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "0372351",
+    "pages": "382-6",
+    "pmcrefcount": "",
+    "pubdate": "2004 Mar 2",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Guideline",
+      "Journal Article",
+      "Practice Guideline"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 14996683,
+        "refsource": "Ann Intern Med. 2004 Mar 2;140(5):399-400. doi: 10.7326/0003-4819-140-5-200403020-00017.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 14996696,
+        "refsource": "Ann Intern Med. 2004 Mar 2;140(5):I70. doi: 10.7326/0003-4819-140-5-200403020-00006.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 15238384,
+        "refsource": "Ann Intern Med. 2004 Jul 6;141(1):81-2; discussion 82. doi: 10.7326/0003-4819-141-1-200407060-00033.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 15238385,
+        "refsource": "Ann Intern Med. 2004 Jul 6;141(1):81; discussion 82. doi: 10.7326/0003-4819-141-1-200407060-00032.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 15238388,
+        "refsource": "Ann Intern Med. 2004 Jul 6;141(1):82; discussion 82. doi: 10.7326/0003-4819-141-1-200407060-00034.",
+        "reftype": "Comment in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "U. S. Preventive Services Task Force",
+    "sortpubdate": "2004/03/02 00:00",
+    "sorttitle": "screening for family and intimate partner violence recommendation statement",
+    "source": "Ann Intern Med",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Screening for family and intimate partner violence: recommendation statement.",
+    "uid": "14996680",
+    "vernaculartitle": "",
+    "volume": "140"
+  },
+  "17457732": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "17457732"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1080/13691050601120589"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "777635638"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Blackwood E"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "",
+    "epubdate": "",
+    "essn": "",
+    "fulljournalname": "Culture, health & sexuality",
+    "history": [
+      {
+        "date": "2007/04/26 09:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2007/06/27 09:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2007/04/26 09:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1369-1058",
+    "issue": "3",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Blackwood E",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100883416",
+    "pages": "293-307",
+    "pmcrefcount": "",
+    "pubdate": "2007 May-Jun",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Blackwood E",
+    "sortpubdate": "2007/05/01 00:00",
+    "sorttitle": "regulation of sexuality in indonesian discourse normative gender criminal law and shifting strategies of control",
+    "source": "Cult Health Sex",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Regulation of sexuality in Indonesian discourse: normative gender, criminal law and shifting strategies of control.",
+    "uid": "17457732",
+    "vernaculartitle": "",
+    "volume": "9"
+  },
+  "21355646": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "21355646"
+      },
+      {
+        "idtype": "mid",
+        "idtypen": 8,
+        "value": "NIHMS253791"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC4298124"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC4298124;manuscript-id: NIHMS253791;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1037/a0022084"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "2011-03781-006"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Owen JJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Rhoades GK"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Stanley SM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Markman HJ"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1037/a0022084",
+    "epubdate": "",
+    "essn": "1939-1293",
+    "fulljournalname": "Journal of family psychology : JFP : journal of the Division of Family Psychology of the American Psychological Association (Division 43)",
+    "history": [
+      {
+        "date": "2011/03/02 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2011/03/02 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2011/07/13 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2015/01/19 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "0893-3200",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Markman HJ",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "8802265",
+    "pages": "49-57",
+    "pmcrefcount": 42,
+    "pubdate": "2011 Feb",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Owen JJ",
+    "sortpubdate": "2011/02/01 00:00",
+    "sorttitle": "role of leaders working alliance in premarital education",
+    "source": "J Fam Psychol",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "The role of leaders' working alliance in premarital education.",
+    "uid": "21355646",
+    "vernaculartitle": "",
+    "volume": "25"
+  },
+  "22565034": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "22565034"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.7326/0003-4819-156-11-201206050-00447"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "0003-4819-156-11-201206050-00447"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Nelson HD"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bougatsos C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Blazina I"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.7326/0003-4819-156-11-201206050-00447",
+    "epubdate": "2012 May 7",
+    "essn": "1539-3704",
+    "fulljournalname": "Annals of internal medicine",
+    "history": [
+      {
+        "date": "2012/05/09 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2012/05/09 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2012/08/14 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0003-4819",
+    "issue": "11",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Blazina I",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "0372351",
+    "pages": "796-808, W-279, W-280, W-281, W-282",
+    "pmcrefcount": "",
+    "pubdate": "2012 Jun 5",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Systematic Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 23128869,
+        "refsource": "Ann Intern Med. 2012 Nov 6;157(9):676; author reply 676-7. doi: 10.7326/0003-4819-157-9-201211060-00019.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 23405378,
+        "refsource": "J Fam Pract. 2013 Feb;62(2):90-2.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 23870859,
+        "refsource": "Ann Emerg Med. 2013 Dec;62(6):609-11. doi: 10.1016/j.annemergmed.2013.06.012.",
+        "reftype": "Comment in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "Nelson HD",
+    "sortpubdate": "2012/06/05 00:00",
+    "sorttitle": "screening women for intimate partner violence a systematic review to update the u s preventive services task force recommendation",
+    "source": "Ann Intern Med",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Screening women for intimate partner violence: a systematic review to update the U.S. Preventive Services Task Force recommendation.",
+    "uid": "22565034",
+    "vernaculartitle": "",
+    "volume": "156"
+  },
+  "24860075": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "24860075"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/0886260514534778"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "0886260514534778"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tiwari A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Fong DY"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Chan KL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Yan EC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lam GL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tang DH"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Graham-Kevan N"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/0886260514534778",
+    "epubdate": "2014 May 23",
+    "essn": "1552-6518",
+    "fulljournalname": "Journal of interpersonal violence",
+    "history": [
+      {
+        "date": "2014/05/27 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2014/05/27 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2015/07/22 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0886-2605",
+    "issue": "2",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Graham-Kevan N",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "8700910",
+    "pages": "314-32",
+    "pmcrefcount": "",
+    "pubdate": "2015 Jan",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Evaluation Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Tiwari A",
+    "sortpubdate": "2015/01/01 00:00",
+    "sorttitle": "evaluating the chinese revised controlling behaviors scale",
+    "source": "J Interpers Violence",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Evaluating the Chinese Revised Controlling Behaviors Scale.",
+    "uid": "24860075",
+    "vernaculartitle": "",
+    "volume": "30"
+  },
+  "25467583": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "25467583"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1016/S0140-6736(14)61837-7"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "S0140-6736(14)61837-7"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "García-Moreno C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hegarty K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "d'Oliveira AF"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Koziol-McLain J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Colombini M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Feder G"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1016/S0140-6736(14)61837-7",
+    "epubdate": "2014 Nov 21",
+    "essn": "1474-547X",
+    "fulljournalname": "Lancet (London, England)",
+    "history": [
+      {
+        "date": "2014/12/04 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2014/12/04 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2015/05/20 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0140-6736",
+    "issue": "9977",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Feder G",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "2985213R",
+    "pages": "1567-79",
+    "pmcrefcount": "",
+    "pubdate": "2015 Apr 18",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 25933282,
+        "refsource": "Lancet. 2015 Apr 18;385(9977):1510. doi: 10.1016/S0140-6736(15)60754-1.",
+        "reftype": "Erratum in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "García-Moreno C",
+    "sortpubdate": "2015/04/18 00:00",
+    "sorttitle": "health systems response to violence against women",
+    "source": "Lancet",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "The health-systems response to violence against women.",
+    "uid": "25467583",
+    "vernaculartitle": "",
+    "volume": "385"
+  },
+  "26924488": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "26924488"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC4770522"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC4770522;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12889-016-2883-6"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12889-016-2883-6"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Michaels-Igbokwe C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Abramsky T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Devries K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Michau L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Musuya T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Watts C"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12889-016-2883-6",
+    "epubdate": "2016 Feb 29",
+    "essn": "1471-2458",
+    "fulljournalname": "BMC public health",
+    "history": [
+      {
+        "date": "2015/10/01 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2016/02/17 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2016/03/01 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2016/03/01 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2016/11/04 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2016/02/29 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Watts C",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100968562",
+    "pages": "196",
+    "pmcrefcount": 19,
+    "pubdate": "2016 Feb 29",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Michaels-Igbokwe C",
+    "sortpubdate": "2016/02/29 00:00",
+    "sorttitle": "cost and cost effectiveness analysis of a community mobilisation intervention to reduce intimate partner violence in kampala uganda",
+    "source": "BMC Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Cost and cost-effectiveness analysis of a community mobilisation intervention to reduce intimate partner violence in Kampala, Uganda.",
+    "uid": "26924488",
+    "vernaculartitle": "",
+    "volume": "16"
+  },
+  "26982668": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "26982668"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bhandari TR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Dangal G"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Sarma PS"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kutty VR"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "",
+    "epubdate": "",
+    "essn": "",
+    "fulljournalname": "JNMA; journal of the Nepal Medical Association",
+    "history": [
+      {
+        "date": "2016/03/17 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2014/07/01 00:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2017/01/14 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0028-2715",
+    "issue": "195",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Kutty VR",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "0045233",
+    "pages": "925-34",
+    "pmcrefcount": "",
+    "pubdate": "2014 Jul-Sep",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Bhandari TR",
+    "sortpubdate": "2014/07/01 00:00",
+    "sorttitle": "construction and validation of a women s autonomy measurement scale with reference to utilization of maternal health care services in nepal",
+    "source": "JNMA J Nepal Med Assoc",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Construction and Validation of a Women's Autonomy Measurement Scale with Reference to Utilization of Maternal Health Care Services in Nepal.",
+    "uid": "26982668",
+    "vernaculartitle": "",
+    "volume": "52"
+  },
+  "27682273": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "27682273"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC5243896"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC5243896;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1007/s11121-016-0716-6"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1007/s11121-016-0716-6"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Starmann E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Collumbien M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kyegombe N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Devries K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Michau L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Musuya T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Watts C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Heise L"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1007/s11121-016-0716-6",
+    "epubdate": "",
+    "essn": "1573-6695",
+    "fulljournalname": "Prevention science : the official journal of the Society for Prevention Research",
+    "history": [
+      {
+        "date": "2016/09/30 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2017/12/16 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2016/09/30 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2016/09/29 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1389-4986",
+    "issue": "2",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Heise L",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100894724",
+    "pages": "233-244",
+    "pmcrefcount": 64,
+    "pubdate": "2017 Feb",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Starmann E",
+    "sortpubdate": "2017/02/01 00:00",
+    "sorttitle": "exploring couples processes of change in the context of sasa a violence against women and hiv prevention intervention in uganda",
+    "source": "Prev Sci",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Exploring Couples' Processes of Change in the Context of SASA!, a Violence Against Women and HIV Prevention Intervention in Uganda.",
+    "uid": "27682273",
+    "vernaculartitle": "",
+    "volume": "18"
+  },
+  "28649297": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "28649297"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC5475351"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC5475351;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1080/20008198.2017.1314159"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "1314159"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Sprague S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Scott T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Garibaldi A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bzovsky S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Slobogean GP"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McKay P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Spurr H"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Arseneau E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Memon M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bhandari M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Swaminathan A"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1080/20008198.2017.1314159",
+    "epubdate": "2017 May 5",
+    "essn": "2000-8066",
+    "fulljournalname": "European journal of psychotraumatology",
+    "history": [
+      {
+        "date": "2016/12/21 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2017/03/25 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2017/06/27 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2017/06/27 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2017/06/27 06:01",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2017/05/05 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "2000-8066",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Swaminathan A",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101559025",
+    "pages": "1314159",
+    "pmcrefcount": 75,
+    "pubdate": "2017",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "258",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "recordstatus": "PubMed",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Sprague S",
+    "sortpubdate": "2017/05/05 00:00",
+    "sorttitle": "scoping review of intimate partner violence assistance programmes within health care settings",
+    "source": "Eur J Psychotraumatol",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "A scoping review of intimate partner violence assistance programmes within health care settings.",
+    "uid": "28649297",
+    "vernaculartitle": "",
+    "volume": "8"
+  },
+  "28789659": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "28789659"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC5549533"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC5549533;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12916-017-0903-8"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12916-017-0903-8"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Thombs BD"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Saadat N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Riehm KE"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Karter JM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Vaswani A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Andrews BK"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Simons P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Cosgrove L"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12916-017-0903-8",
+    "epubdate": "2017 Aug 9",
+    "essn": "1741-7015",
+    "fulljournalname": "BMC medicine",
+    "history": [
+      {
+        "date": "2016/12/07 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2017/06/26 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2017/08/10 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2017/08/10 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2017/12/07 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2017/08/09 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Cosgrove L",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101190723",
+    "pages": "150",
+    "pmcrefcount": 62,
+    "pubdate": "2017 Aug 9",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Comparative Study",
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Thombs BD",
+    "sortpubdate": "2017/08/09 00:00",
+    "sorttitle": "consistency and sources of divergence in recommendations on screening with questionnaires for presently experienced health problems or symptoms a comparison of recommendations from the canadian task force on preventive health care uk national screening committee and us preventive services task force",
+    "source": "BMC Med",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Consistency and sources of divergence in recommendations on screening with questionnaires for presently experienced health problems or symptoms: a comparison of recommendations from the Canadian Task Force on Preventive Health Care, UK National Screening Committee, and US Preventive Services Task Force.",
+    "uid": "28789659",
+    "vernaculartitle": "",
+    "volume": "15"
+  },
+  "29162117": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "29162117"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC5698924"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC5698924;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12978-017-0414-2"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12978-017-0414-2"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Semahegn A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Torpey K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Manu A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Assefa N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ankomah A"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12978-017-0414-2",
+    "epubdate": "2017 Nov 21",
+    "essn": "1742-4755",
+    "fulljournalname": "Reproductive health",
+    "history": [
+      {
+        "date": "2017/10/23 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2017/11/10 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2017/11/23 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2017/11/23 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2018/07/10 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2017/11/21 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Ankomah A",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101224380",
+    "pages": "155",
+    "pmcrefcount": 82,
+    "pubdate": "2017 Nov 21",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Controlled Clinical Trial",
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Semahegn A",
+    "sortpubdate": "2017/11/21 00:00",
+    "sorttitle": "community based intervention to prevent domestic violence against women in the reproductive age in northwestern ethiopia a protocol for quasi experimental study",
+    "source": "Reprod Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Community based intervention to prevent domestic violence against women in the reproductive age in Northwestern Ethiopia: a protocol for quasi-experimental study.",
+    "uid": "29162117",
+    "vernaculartitle": "",
+    "volume": "14"
+  },
+  "29384426": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "29384426"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/1757975917747878"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Choi YJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Orpinas P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kim I"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ko KS"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/1757975917747878",
+    "epubdate": "2018 Jan 31",
+    "essn": "1757-9767",
+    "fulljournalname": "Global health promotion",
+    "history": [
+      {
+        "date": "2018/02/01 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2020/07/24 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2018/02/01 06:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1757-9759",
+    "issue": "4",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Ko KS",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101497462",
+    "pages": "25-32",
+    "pmcrefcount": "",
+    "pubdate": "2019 Dec",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Choi YJ",
+    "sortpubdate": "2019/12/01 00:00",
+    "sorttitle": "korean clergy for healthy families online intervention for preventing intimate partner violence",
+    "source": "Glob Health Promot",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Korean clergy for healthy families: online intervention for preventing intimate partner violence.",
+    "uid": "29384426",
+    "vernaculartitle": "",
+    "volume": "26"
+  },
+  "29683049": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "29683049"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/1524838018770412"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bundock K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Chan C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hewitt O"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/1524838018770412",
+    "epubdate": "2018 Apr 22",
+    "essn": "1552-8324",
+    "fulljournalname": "Trauma, violence & abuse",
+    "history": [
+      {
+        "date": "2018/04/24 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/06/22 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2018/04/24 06:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1524-8380",
+    "issue": "2",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Hewitt O",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100890578",
+    "pages": "350-366",
+    "pmcrefcount": "",
+    "pubdate": "2020 Apr",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Bundock K",
+    "sortpubdate": "2020/04/01 00:00",
+    "sorttitle": "adolescents help seeking behavior and intentions following adolescent dating violence a systematic review",
+    "source": "Trauma Violence Abuse",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Adolescents' Help-Seeking Behavior and Intentions Following Adolescent Dating Violence: A Systematic Review.",
+    "uid": "29683049",
+    "vernaculartitle": "",
+    "volume": "21"
+  },
+  "30357304": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "30357304"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1001/jama.2018.13212"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "2708120"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Feltner C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wallace I"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Berkman N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kistler CE"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Middleton JC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Barclay C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Higginbotham L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Green JT"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jonas DE"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1001/jama.2018.13212",
+    "epubdate": "",
+    "essn": "1538-3598",
+    "fulljournalname": "JAMA",
+    "history": [
+      {
+        "date": "2018/10/26 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2018/10/26 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2018/11/06 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0098-7484",
+    "issue": "16",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Jonas DE",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "7501160",
+    "pages": "1688-1701",
+    "pmcrefcount": "",
+    "pubdate": "2018 Oct 23",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Systematic Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 30357278,
+        "refsource": "JAMA. 2018 Oct 23;320(16):1645-1647. doi: 10.1001/jama.2018.14745.",
+        "reftype": "Comment in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "Feltner C",
+    "sortpubdate": "2018/10/23 00:00",
+    "sorttitle": "screening for intimate partner violence elder abuse and abuse of vulnerable adults evidence report and systematic review for the us preventive services task force",
+    "source": "JAMA",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Screening for Intimate Partner Violence, Elder Abuse, and Abuse of Vulnerable Adults: Evidence Report and Systematic Review for the US Preventive Services Task Force.",
+    "uid": "30357304",
+    "vernaculartitle": "",
+    "volume": "320"
+  },
+  "30357305": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "30357305"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1001/jama.2018.14741"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "2708121"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "CollectiveName",
+        "clusterid": "",
+        "name": "US Preventive Services Task Force"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Curry SJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Krist AH"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Owens DK"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Barry MJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Caughey AB"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Davidson KW"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Doubeni CA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Epling JW Jr"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Grossman DC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kemper AR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kubik M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kurth A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Landefeld CS"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Mangione CM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Silverstein M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Simon MA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tseng CW"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wong JB"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1001/jama.2018.14741",
+    "epubdate": "",
+    "essn": "1538-3598",
+    "fulljournalname": "JAMA",
+    "history": [
+      {
+        "date": "2018/10/26 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2018/10/26 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2018/11/06 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0098-7484",
+    "issue": "16",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Wong JB",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "7501160",
+    "pages": "1678-1687",
+    "pmcrefcount": "",
+    "pubdate": "2018 Oct 23",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Practice Guideline",
+      "Research Support, U.S. Gov't, P.H.S."
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 30357278,
+        "refsource": "JAMA. 2018 Oct 23;320(16):1645-1647. doi: 10.1001/jama.2018.14745.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 30357300,
+        "refsource": "JAMA. 2018 Oct 23;320(16):1718. doi: 10.1001/jama.2018.14851.",
+        "reftype": "Summary for patients in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "Curry SJ",
+    "sortpubdate": "2018/10/23 00:00",
+    "sorttitle": "screening for intimate partner violence elder abuse and abuse of vulnerable adults us preventive services task force final recommendation statement",
+    "source": "JAMA",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Screening for Intimate Partner Violence, Elder Abuse, and Abuse of Vulnerable Adults: US Preventive Services Task Force Final Recommendation Statement.",
+    "uid": "30357305",
+    "vernaculartitle": "",
+    "volume": "320"
+  },
+  "30613427": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "30613427"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC6304103"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC6304103;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1136/bmjgh-2018-001109"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "bmjgh-2018-001109"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Abramsky T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Musuya T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Namy S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Watts C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Michau L"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1136/bmjgh-2018-001109",
+    "epubdate": "2018 Dec 14",
+    "essn": "2059-7908",
+    "fulljournalname": "BMJ global health",
+    "history": [
+      {
+        "date": "2018/08/13 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2018/10/19 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2018/11/17 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2019/01/08 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2019/01/08 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2019/01/08 06:01",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2018/12/14 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "2059-7908",
+    "issue": "6",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Michau L",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101685275",
+    "pages": "e001109",
+    "pmcrefcount": 56,
+    "pubdate": "2018",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "258",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Abramsky T",
+    "sortpubdate": "2018/12/14 00:00",
+    "sorttitle": "changing the norms that drive intimate partner violence findings from a cluster randomised trial on what predisposes bystanders to take action in kampala uganda",
+    "source": "BMJ Glob Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Changing the norms that drive intimate partner violence: findings from a cluster randomised trial on what predisposes bystanders to take action in Kampala, Uganda.",
+    "uid": "30613427",
+    "vernaculartitle": "",
+    "volume": "3"
+  },
+  "31012540": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "31012540"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1111/wvn.12360"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lee ASD"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McDonald LR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Will S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wahab M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lee J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Coleman JS"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1111/wvn.12360",
+    "epubdate": "2019 Apr 23",
+    "essn": "1741-6787",
+    "fulljournalname": "Worldviews on evidence-based nursing",
+    "history": [
+      {
+        "date": "2018/11/21 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2019/04/24 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2019/08/14 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2019/04/24 06:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1545-102X",
+    "issue": "3",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Coleman JS",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101185267",
+    "pages": "204-210",
+    "pmcrefcount": "",
+    "pubdate": "2019 Jun",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Lee ASD",
+    "sortpubdate": "2019/06/01 00:00",
+    "sorttitle": "improving provider readiness for intimate partner violence screening",
+    "source": "Worldviews Evid Based Nurs",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Improving Provider Readiness for Intimate Partner Violence Screening.",
+    "uid": "31012540",
+    "vernaculartitle": "",
+    "volume": "16"
+  },
+  "31306331": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "31306331"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC6687410"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC6687410;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1097/AOG.0000000000003374"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "00006250-201908000-00020"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hill AL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jones KA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McCauley HL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tancredi DJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Silverman JG"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Miller E"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1097/AOG.0000000000003374",
+    "epubdate": "",
+    "essn": "1873-233X",
+    "fulljournalname": "Obstetrics and gynecology",
+    "history": [
+      {
+        "date": "2019/07/16 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2020/03/24 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2019/07/16 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2019/08/08 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "0029-7844",
+    "issue": "2",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Miller E",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "0401101",
+    "pages": "351-359",
+    "pmcrefcount": 37,
+    "pubdate": "2019 Aug",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Evaluation Study",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Hill AL",
+    "sortpubdate": "2019/08/01 00:00",
+    "sorttitle": "reproductive coercion and relationship abuse among adolescents and young women seeking care at school health centers",
+    "source": "Obstet Gynecol",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Reproductive Coercion and Relationship Abuse Among Adolescents and Young Women Seeking Care at School Health Centers.",
+    "uid": "31306331",
+    "vernaculartitle": "",
+    "volume": "134"
+  },
+  "31686618": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "31686618"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1080/13691058.2019.1679394"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McLean L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Heise LL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Stern EA"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1080/13691058.2019.1679394",
+    "epubdate": "2019 Nov 5",
+    "essn": "1464-5351",
+    "fulljournalname": "Culture, health & sexuality",
+    "history": [
+      {
+        "date": "2019/11/07 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/10/16 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2019/11/06 06:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1369-1058",
+    "issue": "sup1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Stern EA",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100883416",
+    "pages": "13-30",
+    "pmcrefcount": "",
+    "pubdate": "2020 Apr",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "McLean L",
+    "sortpubdate": "2020/04/01 00:00",
+    "sorttitle": "shifting and transforming gender inequitable beliefs behaviours and norms in intimate partnerships the indashyikirwa couples programme in rwanda",
+    "source": "Cult Health Sex",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Shifting and transforming gender-inequitable beliefs, behaviours and norms in intimate partnerships: the Indashyikirwa couples programme in Rwanda.",
+    "uid": "31686618",
+    "vernaculartitle": "",
+    "volume": "22"
+  },
+  "31896308": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "31896308"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/1077801219895115"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Couture-Carron A"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/1077801219895115",
+    "epubdate": "2020 Jan 3",
+    "essn": "1552-8448",
+    "fulljournalname": "Violence against women",
+    "history": [
+      {
+        "date": "2020/01/04 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/08/19 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2020/01/04 06:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1077-8012",
+    "issue": "15-16",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Couture-Carron A",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "9506308",
+    "pages": "2004-2023",
+    "pmcrefcount": "",
+    "pubdate": "2020 Dec",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Couture-Carron A",
+    "sortpubdate": "2020/12/01 00:00",
+    "sorttitle": "shame family honor and dating abuse lessons from an exploratory study of south asian muslims",
+    "source": "Violence Against Women",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Shame, Family Honor, and Dating Abuse: Lessons From an Exploratory Study of South Asian Muslims.",
+    "uid": "31896308",
+    "vernaculartitle": "",
+    "volume": "26"
+  },
+  "32460786": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "32460786"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC7251735"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC7251735;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12978-020-00916-9"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12978-020-00916-9"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Uysal J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Carter N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Johns N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Boyce S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Liambila W"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Undie CC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Muketo E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Adhiambo J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gray K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wendoh S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Silverman JG"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12978-020-00916-9",
+    "epubdate": "2020 May 27",
+    "essn": "1742-4755",
+    "fulljournalname": "Reproductive health",
+    "history": [
+      {
+        "date": "2020/04/24 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2020/05/03 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2020/05/29 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2020/05/29 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/03/16 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2020/05/27 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Silverman JG",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101224380",
+    "pages": "77",
+    "pmcrefcount": 51,
+    "pubdate": "2020 May 27",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Clinical Trial Protocol",
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Uysal J",
+    "sortpubdate": "2020/05/27 00:00",
+    "sorttitle": "protocol for a matched pair cluster control trial of arches addressing reproductive coercion in health settings among women and girls seeking contraceptive services from community based clinics in nairobi kenya",
+    "source": "Reprod Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Protocol for a matched-pair cluster control trial of ARCHES (Addressing Reproductive Coercion in Health Settings) among women and girls seeking contraceptive services from community-based clinics in Nairobi, Kenya.",
+    "uid": "32460786",
+    "vernaculartitle": "",
+    "volume": "17"
+  },
+  "32608505": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "32608505"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC7390063"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC7390063;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1002/14651858.CD013017.pub2"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hameed M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "O'Doherty L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gilchrist G"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tirado-Muñoz J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Taft A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Chondros P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Feder G"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tan M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hegarty K"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1002/14651858.CD013017.pub2",
+    "epubdate": "2020 Jul 1",
+    "essn": "1469-493X",
+    "fulljournalname": "The Cochrane database of systematic reviews",
+    "history": [
+      {
+        "date": "2020/07/02 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2020/07/02 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2020/09/26 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2021/07/01 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1361-6137",
+    "issue": "7",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Hegarty K",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100909747",
+    "pages": "CD013017",
+    "pmcrefcount": 290,
+    "pubdate": "2020 Jul 1",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 34060784,
+        "refsource": "Am Fam Physician. 2021 Jun 1;103(11):661-662.",
+        "reftype": "Comment in"
+      },
+      {
+        "note": "",
+        "pmid": 37707505,
+        "refsource": "Clin Orthop Relat Res. 2023 Nov 1;481(11):2091-2097. doi: 10.1097/CORR.0000000000002838.",
+        "reftype": "Comment in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "Hameed M",
+    "sortpubdate": "2020/07/01 00:00",
+    "sorttitle": "psychological therapies for women who experience intimate partner violence",
+    "source": "Cochrane Database Syst Rev",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Psychological therapies for women who experience intimate partner violence.",
+    "uid": "32608505",
+    "vernaculartitle": "",
+    "volume": "7"
+  },
+  "32791967": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "32791967"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC7424651"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC7424651;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12913-020-05595-7"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12913-020-05595-7"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Portnoy GA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Colon R"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gross GM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Adams LJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bastian LA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Iverson KM"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12913-020-05595-7",
+    "epubdate": "2020 Aug 13",
+    "essn": "1472-6963",
+    "fulljournalname": "BMC health services research",
+    "history": [
+      {
+        "date": "2019/10/24 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2020/07/29 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2020/08/15 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2020/08/15 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2020/12/23 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2020/08/13 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Iverson KM",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101088677",
+    "pages": "746",
+    "pmcrefcount": 49,
+    "pubdate": "2020 Aug 13",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Portnoy GA",
+    "sortpubdate": "2020/08/13 00:00",
+    "sorttitle": "patient and provider barriers facilitators and implementation preferences of intimate partner violence perpetration screening",
+    "source": "BMC Health Serv Res",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Patient and provider barriers, facilitators, and implementation preferences of intimate partner violence perpetration screening.",
+    "uid": "32791967",
+    "vernaculartitle": "",
+    "volume": "20"
+  },
+  "32869478": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "32869478"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC7459168"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC7459168;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1002/jia2.25562"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Stangl AL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Sebany M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kapungu C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jessee C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ricker CL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Chard E"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1002/jia2.25562",
+    "epubdate": "",
+    "essn": "1758-2652",
+    "fulljournalname": "Journal of the International AIDS Society",
+    "history": [
+      {
+        "date": "2020/03/13 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2020/05/22 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2020/06/05 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2020/09/02 06:00",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2020/09/02 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/04/17 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2020/08/31 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "Suppl 5",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Chard E",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101478566",
+    "pages": "e25562",
+    "pmcrefcount": 63,
+    "pubdate": "2020 Sep",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Stangl AL",
+    "sortpubdate": "2020/09/01 00:00",
+    "sorttitle": "is hiv index testing and partner notification safe for adolescent girls and young women in low and middle income countries",
+    "source": "J Int AIDS Soc",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Is HIV index testing and partner notification safe for adolescent girls and young women in low- and middle-income countries?",
+    "uid": "32869478",
+    "vernaculartitle": "",
+    "volume": "23 Suppl 5"
+  },
+  "32896204": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "32896204"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1080/13691058.2020.1801843"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Stern E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Willan S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gibbs A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Myrttinen H"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Washington L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Sikweyiya Y"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Addo-Lartey A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Mastonshoeva S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jewkes R"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1080/13691058.2020.1801843",
+    "epubdate": "2020 Sep 8",
+    "essn": "1464-5351",
+    "fulljournalname": "Culture, health & sexuality",
+    "history": [
+      {
+        "date": "2020/09/09 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/12/15 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2020/09/08 08:45",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1369-1058",
+    "issue": "12",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Jewkes R",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100883416",
+    "pages": "1700-1716",
+    "pmcrefcount": "",
+    "pubdate": "2021 Dec",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Stern E",
+    "sortpubdate": "2021/12/01 00:00",
+    "sorttitle": "pathways of change qualitative evaluations of intimate partner violence prevention programmes in ghana rwanda south africa and tajikistan",
+    "source": "Cult Health Sex",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Pathways of change: qualitative evaluations of intimate partner violence prevention programmes in Ghana, Rwanda, South Africa and Tajikistan.",
+    "uid": "32896204",
+    "vernaculartitle": "",
+    "volume": "23"
+  },
+  "33336831": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "33336831"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1111/sifp.12141"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wood SN"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kennedy SR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Akumu I"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tallam C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Asira B"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hameeduddin Z"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McGready J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Zimmerman LA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kennedy CE"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Glass N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Decker MR"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1111/sifp.12141",
+    "epubdate": "",
+    "essn": "1728-4465",
+    "fulljournalname": "Studies in family planning",
+    "history": [
+      {
+        "date": "2020/12/18 08:37",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2020/12/19 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/10/05 06:00",
+        "pubstatus": "medline"
+      }
+    ],
+    "issn": "0039-3665",
+    "issue": "4",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Decker MR",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "7810364",
+    "pages": "343-360",
+    "pmcrefcount": "",
+    "pubdate": "2020 Dec",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Wood SN",
+    "sortpubdate": "2020/12/01 00:00",
+    "sorttitle": "reproductive coercion among intimate partner violence survivors in nairobi",
+    "source": "Stud Fam Plann",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Reproductive Coercion among Intimate Partner Violence Survivors in Nairobi.",
+    "uid": "33336831",
+    "vernaculartitle": "",
+    "volume": "51"
+  },
+  "34253076": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "34253076"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC9465547"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC9465547;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/08862605211021516"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Alghamdi MS"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lee BK"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Nagy GA"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/08862605211021516",
+    "epubdate": "2021 Jul 12",
+    "essn": "1552-6518",
+    "fulljournalname": "Journal of interpersonal violence",
+    "history": [
+      {
+        "date": "2021/07/14 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2022/09/11 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2021/07/13 05:28",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2022/09/12 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "0886-2605",
+    "issue": "17-18",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Nagy GA",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "8700910",
+    "pages": "NP15153-NP15175",
+    "pmcrefcount": 43,
+    "pubdate": "2022 Sep",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Alghamdi MS",
+    "sortpubdate": "2022/09/01 00:00",
+    "sorttitle": "intimate partner violence among canadian muslim women",
+    "source": "J Interpers Violence",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Intimate Partner Violence among Canadian Muslim Women.",
+    "uid": "34253076",
+    "vernaculartitle": "",
+    "volume": "37"
+  },
+  "34527969": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "34527969"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC8356092"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC8356092;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1016/j.lanwpc.2021.100175"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "S2666-6065(21)00084-5"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Islam MM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Khan MN"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Rahman MM"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1016/j.lanwpc.2021.100175",
+    "epubdate": "2021 Jun 8",
+    "essn": "2666-6065",
+    "fulljournalname": "The Lancet regional health. Western Pacific",
+    "history": [
+      {
+        "date": "2021/01/31 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2021/04/07 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2021/05/11 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2021/09/16 07:21",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2021/09/17 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/09/17 06:01",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2021/06/08 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Rahman MM",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101774968",
+    "pages": "100175",
+    "pmcrefcount": 37,
+    "pubdate": "2021 Jul",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "258",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Islam MM",
+    "sortpubdate": "2021/06/08 00:00",
+    "sorttitle": "factors affecting child marriage and contraceptive use among rohingya girls in refugee camps",
+    "source": "Lancet Reg Health West Pac",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Factors affecting child marriage and contraceptive use among Rohingya girls in refugee camps.",
+    "uid": "34527969",
+    "vernaculartitle": "",
+    "volume": "12"
+  },
+  "34770188": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "34770188"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC8582911"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC8582911;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.3390/ijerph182111674"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "ijerph182111674"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "James LE"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Welton-Mitchell C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Michael S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Santoadi F"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Shakirah S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hussin H"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Anwar M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kilzar L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "James A"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.3390/ijerph182111674",
+    "epubdate": "2021 Nov 7",
+    "essn": "1660-4601",
+    "fulljournalname": "International journal of environmental research and public health",
+    "history": [
+      {
+        "date": "2021/09/15 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2021/11/02 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2021/11/03 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2021/11/13 01:09",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2021/11/14 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2021/11/18 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2021/11/07 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1661-7827",
+    "issue": "21",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "James A",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101238455",
+    "pages": "",
+    "pmcrefcount": 98,
+    "pubdate": "2021 Nov 7",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "James LE",
+    "sortpubdate": "2021/11/07 00:00",
+    "sorttitle": "development and testing of a community based intervention to address intimate partner violence among rohingya and syrian refugees a social norms based mental health integrated approach",
+    "source": "Int J Environ Res Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Development and Testing of a Community-Based Intervention to Address Intimate Partner Violence among Rohingya and Syrian Refugees: A Social Norms-Based Mental Health-Integrated Approach.",
+    "uid": "34770188",
+    "vernaculartitle": "",
+    "volume": "18"
+  },
+  "34838218": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "34838218"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1016/S2468-2667(21)00234-6"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "S2468-2667(21)00234-6"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Yakubovich AR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bartsch A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Metheny N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gesink D"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "O'Campo P"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1016/S2468-2667(21)00234-6",
+    "epubdate": "2021 Nov 24",
+    "essn": "2468-2667",
+    "fulljournalname": "The Lancet. Public health",
+    "history": [
+      {
+        "date": "2021/08/17 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2021/10/11 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2021/10/15 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2021/11/29 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2022/02/17 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2021/11/28 20:35",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "O'Campo P",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101699003",
+    "pages": "e23-e35",
+    "pmcrefcount": "",
+    "pubdate": "2022 Jan",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [
+      {
+        "note": "",
+        "pmid": 34838217,
+        "refsource": "Lancet Public Health. 2022 Jan;7(1):e2-e3. doi: 10.1016/S2468-2667(21)00257-7.",
+        "reftype": "Comment in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "Yakubovich AR",
+    "sortpubdate": "2022/01/01 00:00",
+    "sorttitle": "housing interventions for women experiencing intimate partner violence a systematic review",
+    "source": "Lancet Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Housing interventions for women experiencing intimate partner violence: a systematic review.",
+    "uid": "34838218",
+    "vernaculartitle": "",
+    "volume": "7"
+  },
+  "35611345": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "35611345"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC9119570"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC9119570;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1007/s10896-022-00408-3"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "408"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gutowski ER"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Goodman LA"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1007/s10896-022-00408-3",
+    "epubdate": "2022 May 19",
+    "essn": "1573-2851",
+    "fulljournalname": "Journal of family violence",
+    "history": [
+      {
+        "date": "2022/04/29 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2022/05/26 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2022/05/26 06:01",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2022/05/25 01:51",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2022/05/19 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "0885-7482",
+    "issue": "3",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Goodman LA",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "8704564",
+    "pages": "527-542",
+    "pmcrefcount": 74,
+    "pubdate": "2023",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Gutowski ER",
+    "sortpubdate": "2023/01/01 00:00",
+    "sorttitle": "coercive control in the courtroom the legal abuse scale las",
+    "source": "J Fam Violence",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Coercive Control in the Courtroom: the Legal Abuse Scale (LAS).",
+    "uid": "35611345",
+    "vernaculartitle": "",
+    "volume": "38"
+  },
+  "36163286": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "36163286"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC9511735"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC9511735;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s41256-022-00252-4"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s41256-022-00252-4"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ratnaningsih M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wibowo HR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Goodwin NJ"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Rezki AAKS"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ridwan R"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hadyani RN"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Minnick E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ulum DF"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kostaman TK"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Faizah SN"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s41256-022-00252-4",
+    "epubdate": "2022 Sep 26",
+    "essn": "2397-0642",
+    "fulljournalname": "Global health research and policy",
+    "history": [
+      {
+        "date": "2021/07/07 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2022/06/01 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2022/09/26 23:52",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2022/09/27 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2022/09/28 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2022/09/26 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Faizah SN",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101705789",
+    "pages": "32",
+    "pmcrefcount": 35,
+    "pubdate": "2022 Sep 26",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Ratnaningsih M",
+    "sortpubdate": "2022/09/26 00:00",
+    "sorttitle": "child marriage acceptability index cmai as an essential indicator an investigation in south and central sulawesi indonesia",
+    "source": "Glob Health Res Policy",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Child Marriage Acceptability Index (CMAI) as an essential indicator: an investigation in South and Central Sulawesi, Indonesia.",
+    "uid": "36163286",
+    "vernaculartitle": "",
+    "volume": "7"
+  },
+  "36429857": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "36429857"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC9691026"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC9691026;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.3390/ijerph192215138"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "ijerph192215138"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Subramanee SD"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Agho K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lakshmi J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Huda MN"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Joshi R"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Akombi-Inyang B"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.3390/ijerph192215138",
+    "epubdate": "2022 Nov 17",
+    "essn": "1660-4601",
+    "fulljournalname": "International journal of environmental research and public health",
+    "history": [
+      {
+        "date": "2022/10/21 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2022/11/11 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2022/11/14 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2022/11/26 01:12",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2022/11/27 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2022/11/30 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2022/11/17 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1661-7827",
+    "issue": "22",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Akombi-Inyang B",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101238455",
+    "pages": "",
+    "pmcrefcount": 61,
+    "pubdate": "2022 Nov 17",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Systematic Review",
+      "Meta-Analysis",
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Subramanee SD",
+    "sortpubdate": "2022/11/17 00:00",
+    "sorttitle": "child marriage in south asia a systematic review",
+    "source": "Int J Environ Res Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Child Marriage in South Asia: A Systematic Review.",
+    "uid": "36429857",
+    "vernaculartitle": "",
+    "volume": "19"
+  },
+  "36550423": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "36550423"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC9780094"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC9780094;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12889-022-14832-z"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12889-022-14832-z"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gausman J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Huda FA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Othman A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Al Atoom M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Shaheen A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hamad I"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Dabobe M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Mahmood HR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ibnat R"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Langer A"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12889-022-14832-z",
+    "epubdate": "2022 Dec 23",
+    "essn": "1471-2458",
+    "fulljournalname": "BMC public health",
+    "history": [
+      {
+        "date": "2022/06/21 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2022/12/07 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2022/12/22 23:45",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2022/12/23 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2022/12/27 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2022/12/23 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Langer A",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100968562",
+    "pages": "2417",
+    "pmcrefcount": 41,
+    "pubdate": "2022 Dec 23",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Gausman J",
+    "sortpubdate": "2022/12/23 00:00",
+    "sorttitle": "girl child marriage and the social context of displacement a qualitative comparative exploration of syrian refugees in jordan and rohingya refugees in bangladesh",
+    "source": "BMC Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Girl child marriage and the social context of displacement: a qualitative comparative exploration of Syrian refugees in Jordan and Rohingya refugees in Bangladesh.",
+    "uid": "36550423",
+    "vernaculartitle": "",
+    "volume": "22"
+  },
+  "36657958": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "36657958"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC10359515"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC10359515;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1136/bmjsrh-2022-201685"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "bmjsrh-2022-201685"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Riches E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Barrett G"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hall JA"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1136/bmjsrh-2022-201685",
+    "epubdate": "2023 Jan 19",
+    "essn": "2515-2009",
+    "fulljournalname": "BMJ sexual & reproductive health",
+    "history": [
+      {
+        "date": "2022/08/30 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2022/12/21 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2023/07/14 13:07",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2023/01/20 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2023/01/19 21:12",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2023/07/21 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "2515-1991",
+    "issue": "3",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Hall JA",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101715577",
+    "pages": "151-157",
+    "pmcrefcount": 22,
+    "pubdate": "2023 Jul",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Riches E",
+    "sortpubdate": "2023/07/01 00:00",
+    "sorttitle": "evaluation of the psychometric properties of the reproductive autonomy scale for use in the uk",
+    "source": "BMJ Sex Reprod Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Evaluation of the psychometric properties of the Reproductive Autonomy Scale for use in the UK.",
+    "uid": "36657958",
+    "vernaculartitle": "",
+    "volume": "49"
+  },
+  "36693203": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "36693203"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC10548965"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC10548965;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1370/afm.20.s1.2822"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Singh V"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Callen E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lutgen C"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1370/afm.20.s1.2822",
+    "epubdate": "2022 Apr 1",
+    "essn": "1544-1717",
+    "fulljournalname": "Annals of family medicine",
+    "history": [
+      {
+        "date": "2023/01/24 15:24",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2023/01/25 06:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2023/01/27 06:00",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2022/04/01 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1544-1709",
+    "issue": "20 Suppl 1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Lutgen C",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101167762",
+    "pages": "",
+    "pmcrefcount": "",
+    "pubdate": "2022 Apr 1",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Singh V",
+    "sortpubdate": "2022/04/01 00:00",
+    "sorttitle": "family medicine provider and staff identification and response to male patient intimate partner violence perpetration",
+    "source": "Ann Fam Med",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Family medicine provider and staff identification and response to male patient intimate partner violence perpetration.",
+    "uid": "36693203",
+    "vernaculartitle": "",
+    "volume": "20"
+  },
+  "37316890": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "37316890"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC10265906"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC10265906;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12978-023-01632-w"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12978-023-01632-w"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Boyce SC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Minnis AM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Deardorff J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McCoy SI"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Challa S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Johns N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Aliou S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Brooks M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Nouhou AM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gochyyev P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wilson M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Baker H"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Silverman JG"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12978-023-01632-w",
+    "epubdate": "2023 Jun 14",
+    "essn": "1742-4755",
+    "fulljournalname": "Reproductive health",
+    "history": [
+      {
+        "date": "2022/09/25 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2023/06/02 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2023/06/16 06:42",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2023/06/15 01:08",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2023/06/14 23:38",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2023/06/14 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Silverman JG",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101224380",
+    "pages": "90",
+    "pmcrefcount": 62,
+    "pubdate": "2023 Jun 14",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Boyce SC",
+    "sortpubdate": "2023/06/14 00:00",
+    "sorttitle": "measuring social norms of intimate partner violence to exert control over wife agency sexuality and reproductive autonomy an item response modelling of the ipv asra scale",
+    "source": "Reprod Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Measuring social norms of intimate partner violence to exert control over wife agency, sexuality, and reproductive autonomy: an item response modelling of the IPV-ASRA scale.",
+    "uid": "37316890",
+    "vernaculartitle": "",
+    "volume": "20"
+  },
+  "37649394": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "37649394"
+      },
+      {
+        "idtype": "mid",
+        "idtypen": 8,
+        "value": "NIHMS2129918"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC12939686"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC12939686;manuscript-id: NIHMS2129918;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/15248399231193693"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Debinski B"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bittle M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kennedy CE"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jones V"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gielen AC"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/15248399231193693",
+    "epubdate": "2023 Aug 30",
+    "essn": "1552-6372",
+    "fulljournalname": "Health promotion practice",
+    "history": [
+      {
+        "date": "2025/03/03 06:21",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2023/08/31 06:41",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2023/08/31 02:53",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2026/02/26 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1524-8399",
+    "issue": "2",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Gielen AC",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100890609",
+    "pages": "342-351",
+    "pmcrefcount": 31,
+    "pubdate": "2025 Mar",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Debinski B",
+    "sortpubdate": "2025/03/01 00:00",
+    "sorttitle": "qualitative assessment of key implementation factors in a faith based response to intimate partner violence",
+    "source": "Health Promot Pract",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Qualitative Assessment of Key Implementation Factors in a Faith-Based Response to Intimate Partner Violence.",
+    "uid": "37649394",
+    "vernaculartitle": "",
+    "volume": "26"
+  },
+  "37922257": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "37922257"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC10624301"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC10624301;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1371/journal.pone.0293586"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "PONE-D-22-29689"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gausman J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Saggurti N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Adanu R"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bandoh DAB"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Berrueta M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Chakraborty S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kenu E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Khan N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Langer A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Nigri C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Odikro MA"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Pingray V"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ramesh S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Vázquez P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Williams CR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jolivet RR"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1371/journal.pone.0293586",
+    "epubdate": "2023 Nov 3",
+    "essn": "1932-6203",
+    "fulljournalname": "PloS one",
+    "history": [
+      {
+        "date": "2022/10/27 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2023/10/17 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2023/11/06 06:42",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2023/11/03 18:43",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2023/11/03 13:33",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2023/11/03 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "11",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Jolivet RR",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101285081",
+    "pages": "e0293586",
+    "pmcrefcount": 48,
+    "pubdate": "2023",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "258",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Gausman J",
+    "sortpubdate": "2023/11/03 00:00",
+    "sorttitle": "validation of a measure to assess decision making autonomy in family planning services in three low and middle income countries the family planning autonomous decision making scale fp adm",
+    "source": "PLoS One",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Validation of a measure to assess decision-making autonomy in family planning services in three low- and middle-income countries: The Family Planning Autonomous Decision-Making scale (FP-ADM).",
+    "uid": "37922257",
+    "vernaculartitle": "",
+    "volume": "18"
+  },
+  "38339841": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "38339841"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1111/jog.15905"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hazar S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "İnal CG"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Nacar G"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Taşhan ST"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1111/jog.15905",
+    "epubdate": "2024 Feb 10",
+    "essn": "1447-0756",
+    "fulljournalname": "The journal of obstetrics and gynaecology research",
+    "history": [
+      {
+        "date": "2023/11/28 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2024/01/31 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2024/04/04 06:45",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2024/02/10 10:44",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2024/02/10 03:10",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1341-8076",
+    "issue": "4",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Taşhan ST",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "9612761",
+    "pages": "728-733",
+    "pmcrefcount": "",
+    "pubdate": "2024 Apr",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Hazar S",
+    "sortpubdate": "2024/04/01 00:00",
+    "sorttitle": "turkish adaptation of the reproductive autonomy scale validity and reliability study",
+    "source": "J Obstet Gynaecol Res",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Turkish adaptation of the reproductive autonomy scale: Validity and reliability study.",
+    "uid": "38339841",
+    "vernaculartitle": "",
+    "volume": "50"
+  },
+  "38970860": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "38970860"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1016/j.chiabu.2024.106930"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "S0145-2134(24)00320-X"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Han X"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Emery CR"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Xie W"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ma C"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1016/j.chiabu.2024.106930",
+    "epubdate": "2024 Jul 5",
+    "essn": "1873-7757",
+    "fulljournalname": "Child abuse & neglect",
+    "history": [
+      {
+        "date": "2024/04/19 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2024/06/24 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2024/06/27 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2024/08/10 15:45",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2024/07/07 00:42",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2024/07/06 18:01",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "0145-2134",
+    "issue": "",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Ma C",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "7801702",
+    "pages": "106930",
+    "pmcrefcount": "",
+    "pubdate": "2024 Aug",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Han X",
+    "sortpubdate": "2024/08/01 00:00",
+    "sorttitle": "maternal victimization and neglected offspring child marriage ipv and depression symptoms among salar muslim women",
+    "source": "Child Abuse Negl",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Maternal victimization and neglected offspring: Child marriage, IPV and depression symptoms among Salar Muslim women.",
+    "uid": "38970860",
+    "vernaculartitle": "",
+    "volume": "154"
+  },
+  "39425490": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "39425490"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC12397528"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC12397528;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/15248380241286836"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Sharifnia AM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bulut H"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Ali P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Rogers M"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/15248380241286836",
+    "epubdate": "2024 Oct 18",
+    "essn": "1552-8324",
+    "fulljournalname": "Trauma, violence & abuse",
+    "history": [
+      {
+        "date": "2025/09/05 06:35",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2024/10/19 16:23",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2024/10/19 02:33",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2025/08/30 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1524-8380",
+    "issue": "4",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Rogers M",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100890578",
+    "pages": "694-711",
+    "pmcrefcount": 64,
+    "pubdate": "2025 Oct",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Sharifnia AM",
+    "sortpubdate": "2025/10/01 00:00",
+    "sorttitle": "muslim women s experiences of domestic violence and abuse a meta ethnography of global evidence",
+    "source": "Trauma Violence Abuse",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Muslim Women's Experiences of Domestic Violence and Abuse: A Meta-Ethnography of Global Evidence.",
+    "uid": "39425490",
+    "vernaculartitle": "",
+    "volume": "26"
+  },
+  "39757299": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "39757299"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC12906565"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC12906565;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1007/s11121-024-01761-z"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1007/s11121-024-01761-z"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Park J"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lee J"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1007/s11121-024-01761-z",
+    "epubdate": "2025 Jan 6",
+    "essn": "1573-6695",
+    "fulljournalname": "Prevention science : the official journal of the Society for Prevention Research",
+    "history": [
+      {
+        "date": "2024/11/29 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2026/02/14 13:38",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2025/01/06 10:07",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2025/01/05 23:22",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2025/01/06 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1389-4986",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Lee J",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100894724",
+    "pages": "131-143",
+    "pmcrefcount": 76,
+    "pubdate": "2026 Jan",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Park J",
+    "sortpubdate": "2026/01/01 00:00",
+    "sorttitle": "videoconferencing delivery of the seoul premarital education program during covid 19 a quasi experimental study using inverse probability of treatment weighting",
+    "source": "Prev Sci",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Videoconferencing Delivery of the Seoul Premarital Education Program During COVID-19: A Quasi-experimental Study Using Inverse Probability of Treatment Weighting.",
+    "uid": "39757299",
+    "vernaculartitle": "",
+    "volume": "27"
+  },
+  "40091116": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "40091116"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC11912763"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC11912763;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s13031-025-00656-2"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s13031-025-00656-2"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Mieth K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hasan T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Chakrabarty A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lee K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kaiser A"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hasan T"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Elnakib S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jackson C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Robinson WC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Zimmerman LA"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s13031-025-00656-2",
+    "epubdate": "2025 Mar 17",
+    "essn": "1752-1505",
+    "fulljournalname": "Conflict and health",
+    "history": [
+      {
+        "date": "2024/08/21 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2025/03/06 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2025/03/17 15:20",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2025/03/17 15:19",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2025/03/17 00:18",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2025/03/17 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "1752-1505",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Zimmerman LA",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101286573",
+    "pages": "16",
+    "pmcrefcount": 56,
+    "pubdate": "2025 Mar 17",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Mieth K",
+    "sortpubdate": "2025/03/17 00:00",
+    "sorttitle": "what other option did i have the effect of conflict and displacement on child marriage and early childbearing among displaced rohingya adolescents",
+    "source": "Confl Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "\"What other option did I have?\"- The effect of conflict and displacement on child marriage and early childbearing among displaced Rohingya adolescents.",
+    "uid": "40091116",
+    "vernaculartitle": "",
+    "volume": "19"
+  },
+  "40116416": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "40116416"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/10105395251328421"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Azalee M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Othman S"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Wan Yuen C"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Che Ha N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Mohd Zain N"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/10105395251328421",
+    "epubdate": "2025 Mar 21",
+    "essn": "1941-2479",
+    "fulljournalname": "Asia-Pacific journal of public health",
+    "history": [
+      {
+        "date": "2025/06/02 06:28",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2025/03/21 20:02",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2025/03/21 08:23",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1010-5395",
+    "issue": "4",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Mohd Zain N",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "8708538",
+    "pages": "379-385",
+    "pmcrefcount": "",
+    "pubdate": "2025 May",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "256",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Azalee M",
+    "sortpubdate": "2025/05/01 00:00",
+    "sorttitle": "wounded healers exploring coping with intimate partner violence among health care workers in malaysia",
+    "source": "Asia Pac J Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Wounded Healers: Exploring Coping With Intimate Partner Violence Among Health Care Workers in Malaysia.",
+    "uid": "40116416",
+    "vernaculartitle": "",
+    "volume": "37"
+  },
+  "41330529": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "41330529"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.31128/AJGP-02-25-7571"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Giles F"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McKenzie M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "McLindon E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Tarzia L"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Hegarty K"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.31128/AJGP-02-25-7571",
+    "epubdate": "",
+    "essn": "2208-7958",
+    "fulljournalname": "Australian journal of general practice",
+    "history": [
+      {
+        "date": "2025/12/03 01:17",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2025/12/03 01:16",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2025/12/02 19:25",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "",
+    "issue": "12",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Hegarty K",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101718099",
+    "pages": "867-873",
+    "pmcrefcount": "",
+    "pubdate": "2025 Dec",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Giles F",
+    "sortpubdate": "2025/12/01 00:00",
+    "sorttitle": "women s preferences for how health practitioners respond to coercive control by a partner open ended survey qualitative analysis",
+    "source": "Aust J Gen Pract",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Women's preferences for how health practitioners respond to coercive control by a partner: Open-ended survey qualitative analysis.",
+    "uid": "41330529",
+    "vernaculartitle": "",
+    "volume": "54"
+  },
+  "41454335": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "41454335"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC12849633"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC12849633;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12978-025-02243-3"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12978-025-02243-3"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Nsengiyumva R"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Bazirete O"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Uhawenimana TC"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Gishoma D"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Carlsson IM"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Meharry P"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Lee H"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Jody R L"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12978-025-02243-3",
+    "epubdate": "2025 Dec 26",
+    "essn": "1742-4755",
+    "fulljournalname": "Reproductive health",
+    "history": [
+      {
+        "date": "2024/11/10 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2025/12/10 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2025/12/27 00:54",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2025/12/27 00:54",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2025/12/26 23:26",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2025/12/26 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Jody R L",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101224380",
+    "pages": "24",
+    "pmcrefcount": 40,
+    "pubdate": "2025 Dec 26",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - in process",
+    "references": [
+      {
+        "note": "",
+        "pmid": 42163276,
+        "refsource": "Reprod Health. 2026 May 20;23(1):101. doi: 10.1186/s12978-026-02352-7.",
+        "reftype": "Erratum in"
+      }
+    ],
+    "reportnumber": "",
+    "sortfirstauthor": "Nsengiyumva R",
+    "sortpubdate": "2025/12/26 00:00",
+    "sorttitle": "perceived need of information and education about conception preparedness cp among engaged and soon to be married couples a qualitative survey",
+    "source": "Reprod Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Perceived need of information and education about conception preparedness (CP) among engaged and soon to be married couples: a qualitative survey.",
+    "uid": "41454335",
+    "vernaculartitle": "",
+    "volume": "23"
+  },
+  "41613074": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "41613074"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC12847381"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC12847381;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.3389/fpubh.2025.1712168"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Böttcher B"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Flatscher-Thoeni M"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Reiser E"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Toth B"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Riedl D"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.3389/fpubh.2025.1712168",
+    "epubdate": "2026 Jan 14",
+    "essn": "2296-2565",
+    "fulljournalname": "Frontiers in public health",
+    "history": [
+      {
+        "date": "2025/09/24 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2025/12/03 00:00",
+        "pubstatus": "revised"
+      },
+      {
+        "date": "2025/12/17 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2026/01/30 06:30",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2026/01/30 06:29",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2026/01/30 04:39",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2026/01/14 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Riedl D",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "101616579",
+    "pages": "1712168",
+    "pmcrefcount": 18,
+    "pubdate": "2025",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "258",
+    "pubtype": [
+      "Journal Article",
+      "Validation Study"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Böttcher B",
+    "sortpubdate": "2026/01/14 00:00",
+    "sorttitle": "reproductive autonomy scale german validation and application in an austrian student population",
+    "source": "Front Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "The Reproductive Autonomy Scale: German validation and application in an Austrian student population.",
+    "uid": "41613074",
+    "vernaculartitle": "",
+    "volume": "13"
+  },
+  "42015126": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "42015126"
+      },
+      {
+        "idtype": "pmc",
+        "idtypen": 8,
+        "value": "PMC13235112"
+      },
+      {
+        "idtype": "pmcid",
+        "idtypen": 5,
+        "value": "pmc-id: PMC13235112;"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1186/s12889-026-27509-8"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "10.1186/s12889-026-27509-8"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kurnaz K"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Süzer Özkan F"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1186/s12889-026-27509-8",
+    "epubdate": "2026 Apr 21",
+    "essn": "1471-2458",
+    "fulljournalname": "BMC public health",
+    "history": [
+      {
+        "date": "2025/10/03 00:00",
+        "pubstatus": "received"
+      },
+      {
+        "date": "2026/04/17 00:00",
+        "pubstatus": "accepted"
+      },
+      {
+        "date": "2026/06/27 18:39",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2026/04/22 06:32",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2026/04/22 00:20",
+        "pubstatus": "entrez"
+      },
+      {
+        "date": "2026/04/21 00:00",
+        "pubstatus": "pmc-release"
+      }
+    ],
+    "issn": "",
+    "issue": "1",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Süzer Özkan F",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "100968562",
+    "pages": "",
+    "pmcrefcount": 43,
+    "pubdate": "2026 Apr 21",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "3",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Kurnaz K",
+    "sortpubdate": "2026/04/21 00:00",
+    "sorttitle": "reproductive coercion gender role attitudes and fertility desire among married women in t rkiye a descriptive and explanatory study",
+    "source": "BMC Public Health",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Reproductive coercion, gender role attitudes and fertility desire among married women in Türkiye: a descriptive and explanatory study.",
+    "uid": "42015126",
+    "vernaculartitle": "",
+    "volume": "26"
+  },
+  "42300599": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "42300599"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1177/10778012261458796"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Phonkacha N"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Pholphirul P"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "doi: 10.1177/10778012261458796",
+    "epubdate": "2026 Jun 16",
+    "essn": "1552-8448",
+    "fulljournalname": "Violence against women",
+    "history": [
+      {
+        "date": "2026/06/16 13:49",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "2026/06/16 13:49",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "2026/06/16 08:33",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "1077-8012",
+    "issue": "",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Pholphirul P",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "9506308",
+    "pages": "10778012261458796",
+    "pmcrefcount": "",
+    "pubdate": "2026 Jun 16",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "10",
+    "pubtype": [
+      "Journal Article"
+    ],
+    "recordstatus": "PubMed - as supplied by publisher",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Phonkacha N",
+    "sortpubdate": "2026/06/16 00:00",
+    "sorttitle": "technology access and attitudes toward intimate partner violence evidence from a national survey in thailand",
+    "source": "Violence Against Women",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Technology Access and Attitudes Toward Intimate Partner Violence: Evidence From a National Survey in Thailand.",
+    "uid": "42300599",
+    "vernaculartitle": "",
+    "volume": ""
+  },
+  "9779330": {
+    "articleids": [
+      {
+        "idtype": "pubmed",
+        "idtypen": 1,
+        "value": "9779330"
+      },
+      {
+        "idtype": "doi",
+        "idtypen": 3,
+        "value": "10.1016/s0272-7358(98)00026-9"
+      },
+      {
+        "idtype": "pii",
+        "idtypen": 4,
+        "value": "S0272-7358(98)00026-9"
+      }
+    ],
+    "attributes": [
+      "Has Abstract"
+    ],
+    "authors": [
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Sayers SL"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Kohn CS"
+      },
+      {
+        "authtype": "Author",
+        "clusterid": "",
+        "name": "Heavey C"
+      }
+    ],
+    "availablefromurl": "",
+    "bookname": "",
+    "booktitle": "",
+    "chapter": "",
+    "doccontriblist": [],
+    "docdate": "",
+    "doctype": "citation",
+    "edition": "",
+    "elocationid": "",
+    "epubdate": "",
+    "essn": "",
+    "fulljournalname": "Clinical psychology review",
+    "history": [
+      {
+        "date": "1998/10/21 00:00",
+        "pubstatus": "pubmed"
+      },
+      {
+        "date": "1998/10/21 00:01",
+        "pubstatus": "medline"
+      },
+      {
+        "date": "1998/10/21 00:00",
+        "pubstatus": "entrez"
+      }
+    ],
+    "issn": "0272-7358",
+    "issue": "6",
+    "lang": [
+      "eng"
+    ],
+    "lastauthor": "Heavey C",
+    "locationlabel": "",
+    "medium": "",
+    "nlmuniqueid": "8111117",
+    "pages": "713-44",
+    "pmcrefcount": "",
+    "pubdate": "1998 Sep",
+    "publisherlocation": "",
+    "publishername": "",
+    "pubstatus": "4",
+    "pubtype": [
+      "Journal Article",
+      "Review"
+    ],
+    "recordstatus": "PubMed - indexed for MEDLINE",
+    "references": [],
+    "reportnumber": "",
+    "sortfirstauthor": "Sayers SL",
+    "sortpubdate": "1998/09/01 00:00",
+    "sorttitle": "prevention of marital dysfunction behavioral approaches and beyond",
+    "source": "Clin Psychol Rev",
+    "srccontriblist": [],
+    "srcdate": "",
+    "title": "Prevention of marital dysfunction: behavioral approaches and beyond.",
+    "uid": "9779330",
+    "vernaculartitle": "",
+    "volume": "18"
+  }
+}
