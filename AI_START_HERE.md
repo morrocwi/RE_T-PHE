@@ -20,13 +20,16 @@ effectiveness testing has been done**, and the authors say so in the abstract it
 2. [`CLAIMS.md`](CLAIMS.md) — every disputable statement in the abstract, graded by the type of
    evidence behind it (external guideline, organisational report, conceptual synthesis,
    proposed-untested, normative).
-3. [`docs/reports/`](docs/reports/) — the independent critical appraisals this repository has
+3. [`paper/main.pdf`](paper/main.pdf) — the full paper (preprint draft v0.4): programme theory, five
+   rules, one failure criterion, evidence review, safeguarding specification, and an invitation to
+   co-design. Not peer reviewed; every claim stays under the abstract's ceiling.
+4. [`docs/reports/`](docs/reports/) — the independent critical appraisals this repository has
    already undergone, with findings and what was changed.
-4. [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) and [`docs/side-data/`](docs/side-data/) —
+5. [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) and [`docs/side-data/`](docs/side-data/) —
    the originating organisation, each statement labelled by source status. Context only.
-5. [`library/README.md`](library/README.md) — the verified evidence library that positions the proposal:
+6. [`library/README.md`](library/README.md) — the verified evidence library that positions the proposal:
    PubMed and global-guidance records by category, each with the verifier's verdict; not a systematic review.
-6. [`GOAL.md`](GOAL.md) and [`AGENTS.md`](AGENTS.md) — what the programme is trying to achieve
+7. [`GOAL.md`](GOAL.md) and [`AGENTS.md`](AGENTS.md) — what the programme is trying to achieve
    and the rules every contributor (human or AI) works under.
 
 ## How to check us rather than trust us

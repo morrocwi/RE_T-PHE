@@ -1,0 +1,291 @@
+\documentclass[10pt,twocolumn]{article}
+\usepackage[a4paper,top=22mm,bottom=22mm,left=17mm,right=17mm,columnsep=7mm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{booktabs,tabularx,array}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{balance}
+\usepackage{float}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,fit,calc,shapes.misc}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[hidelinks,breaklinks]{hyperref}
+
+\urlstyle{same}
+
+\definecolor{ocsi}{RGB}{30,60,90}
+\definecolor{rule}{RGB}{150,150,150}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\scriptsize\textsc{Trustworthy Premarital Health Education} \,|\, full paper draft v0.4}
+\fancyhead[R]{\scriptsize preprint --- not peer reviewed}
+\fancyfoot[C]{\scriptsize\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\titleformat{\section}{\normalfont\large\bfseries\color{ocsi}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}{\normalfont\small\bfseries\itshape}{\thesubsubsection}{0.6em}{}
+\titlespacing*{\section}{0pt}{1.4ex plus .4ex}{0.8ex}
+\titlespacing*{\subsection}{0pt}{1.1ex plus .3ex}{0.5ex}
+\setlist{nosep,leftmargin=*}
+\newcommand{\tphe}{T\mbox{-}PHE}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+\title{}
+\begin{document}
+\twocolumn[
+\begin{center}
+{\footnotesize\textsc{ARAYA Nikah Social Enterprise Co., Ltd. \,\textbullet\, Bangkok, Thailand}}\par
+{\scriptsize Preprint --- not peer reviewed \,\textbullet\, Practitioner-led conceptual paper / programme-theory paper}\par\vspace{4mm}
+{\LARGE\bfseries\color{ocsi} Before Family Risk Becomes a Health Crisis}\par\vspace{1.5mm}
+{\large Trustworthy Premarital Health Education as Primary Prevention Infrastructure}\par\vspace{1mm}
+{\small\itshape Expanded from the accepted abstract, TIMA/FIMA Scientific Convention 2026}\par\vspace{4mm}
+{\normalsize Yaoharee Lahtee$^{1,2}$}\par
+{\small $^{1}$ARAYA Nikah Social Enterprise Co., Ltd., Bangkok, Thailand \,\textbullet\, $^{2}$Independent Researcher, Thailand}\par
+{\small ORCID 0009-0005-3861-0626 \,\textbullet\, \texttt{arayawedding@gmail.com}}\par\vspace{2mm}
+{\small Draft v0.4 \,\textbullet\, 3 September 2026}\par
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\noindent\textbf{Abstract} (accepted, preserved verbatim)\par\vspace{2pt}
+\textbf{Background.} A family should be a space of physical, psychological, and economic safety. Whether it becomes one is shaped at the transition into marriage, a governance threshold where consent, authority, help-seeking, and access to protection are organized before a household is formed. When that threshold fails, the health consequences include violence-related injury, psychological distress, reproductive harm, and avoidable crisis-service use. Prevention frameworks such as WHO's RESPECT cover relationship skills, empowerment, safe environments, and services, yet this transition remains an underdeveloped intervention point.
+\textbf{Objective.} To propose Trustworthy Premarital Health Education (\tphe) as primary prevention infrastructure that increases each participant's control over marriage-related health decisions within safeguarding and referral boundaries.
+\textbf{Methods.} This practitioner-led, document-informed conceptual synthesis drew on the governance and safeguarding procedures of ARAYA Nikah, a Muslim-led social enterprise registered in Thailand, and on its premarital education programme for Muslim and intercultural couples (over 600 participants since 2024). Recurring concerns in these sources were synthesized, through a culturally rooted ethic of limited knowledge, entrusted responsibility, human dignity, just boundaries, and repair, into a programme theory with six safeguards, a failure criterion, and outcome domains for prospective testing. Sources came from one organization; no effectiveness testing was undertaken.
+\textbf{Results.} \tphe{} is trustworthy only when it protects informed choice rather than relationship continuation. It rests on one mechanism: increasing each participant's control over whether to proceed with, delay, or refuse marriage and over when and how to seek help. Six safeguards protect that choice: epistemic humility, cultural intelligibility, affected-person visibility, dignity and consent, bounded authority and referral, and repairability. Educators must make power asymmetries and coercion visible, keep culture and religion from becoming unchecked authority, and refer beyond their own competence. Communication and conflict training is not universally benign. Where violence, fear, or coercive control is suspected or disclosed, joint work must stop pending confidential assessment and must not resume where coercive control is confirmed; survivor-centred support and qualified referral take precedence. \tphe{} fails if it raises knowledge scores, attendance, satisfaction, or marriage completion while leaving informed choice, recognition of coercion, reproductive and mental-health literacy, safe help-seeking, and accountable referral unchanged.
+\textbf{Conclusion.} Premarital health education should be recognized, governed, and tested as primary prevention infrastructure, not optional relationship advice. Public health should enter before the family becomes a site of clinical rescue.\par\vspace{2pt}
+\textbf{Keywords:} premarital health education; health promotion; intimate-partner harm; primary prevention; safeguarding
+\end{minipage}
+\end{center}
+\vspace{3mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\footnotesize
+\noindent\textbf{Claim boundary.} This paper reports a conceptual synthesis and a programme theory. It is not an effectiveness trial, a systematic review, a qualitative study, a Delphi exercise, an implementation study, or a validated intervention. The accepted abstract is the claim ceiling: nothing in the full text claims that \tphe{} improves, prevents, or reduces any outcome. Nothing here is clinical advice. Suspected or disclosed violence or coercive control requires qualified, survivor-centred services.
+\end{minipage}
+\end{center}
+\vspace{4mm}
+]
+
+\section{Introduction}
+
+\subsection{The family as a health environment}
+The family is not only a private relationship or a cultural institution. It is a durable environment in which health risks and protections are distributed: emotional safety, material resources, reproductive autonomy, access to care, legal documentation, social support, and the ability to seek help. Intimate-partner violence (IPV) is therefore a public-health concern rather than a private moral failure. WHO identifies serious physical, mental, sexual, and reproductive consequences, including injury, depression, anxiety, post-traumatic stress, unintended pregnancy, sexually transmitted infections, miscarriage, stillbirth, preterm delivery, and low birth weight, and assigns health systems a role in protocols, training, survivor-centred services, multisectoral referral, and prevention \cite{who_vaw_2026}.
+
+Global Burden of Disease estimates for 2023 attribute 18.5 million disability-adjusted life-years (95\% UI 8.74--30.0 million) to IPV among females, with a substantial mental-health component \cite{ref1}. In Thailand, the Department of Women's Affairs and Family Development reported an average of 42 persons affected by violence per day in 2024 across recorded cases involving children, women, or families \cite{dwf2024}. This is a recorded-case statistic, not a prevalence estimate, and it is not Muslim-specific. These data establish the seriousness of the problem and the need to examine upstream intervention points; they do not establish that a premarital programme prevents IPV.
+
+\subsection{Marriage as a governance threshold}
+The transition into marriage is usually treated as an educational moment. This paper reframes it as a \emph{governance threshold}: before a household is formed, arrangements are made about authority, consent, documentation, residence, finance, reproduction, conflict, help-seeking, and the legitimacy of outside intervention. A programme that occupies this transition already structures a decision environment---the sequence of activities, the presence or absence of private conversation, the wording of religious or cultural guidance, documentation practices, referral options, and the consequences of pausing. The ethical question is therefore not only \emph{what should couples know?} but \emph{whose interests does the programme protect when participants disagree; can each person speak privately and safely; can a participant delay or refuse without being treated as a programme failure; what happens when fear or coercion appears; where does education end and clinical, legal, religious, or crisis response begin; and how can a mistaken decision be corrected?}
+
+\subsection{Why existing content is not enough}
+\input{sections/intro_1_3}
+
+\subsection{Objective}
+To propose \tphe{} as primary prevention infrastructure that increases each participant's control over marriage-related health decisions within safeguarding and referral boundaries, and to state the programme theory in a form that can be tested and can fail. Beyond the accepted abstract, this full paper adds operational definitions, the stop--assess--refer--record pathway, a named outcome framework, seven testable propositions, and the ethical root from which the safeguards are derived.
+
+\section{Methods}
+
+\subsection{Study design}
+A practitioner-led, document-informed conceptual synthesis, designed to translate recurring governance and safeguarding concerns into a coherent, falsifiable programme theory. It was not a formal qualitative study and did not analyse participant-level data.
+
+\subsection{Setting and researcher positionality}
+The originating practice context was ARAYA Nikah, a Muslim-led social enterprise registered in Thailand, and its premarital education programme for Muslim and intercultural couples (more than 600 participants since 2024; programme reach, not study enrolment). The author is the founder and programme developer; the conflict of interest is disclosed (Declarations). Practitioner proximity provides access to organisational documents and operational dilemmas and carries a risk of confirmation bias, selective interpretation, and reputational interest. The response is not to erase practitioner knowledge but to prevent proximity from being presented as independent validation.
+
+\subsection{Data sources}
+\begin{enumerate}
+\item Internal governance and safeguarding materials: role boundaries, consent protection, stop--route--record procedures, documentation and referral.
+\item Premarital education materials and workflow documents.
+\item Practice-level recurring concerns encountered in delivery, treated as prompts for design, not as a coded dataset or frequency estimate.
+\item External frameworks and literature used for positioning: WHO violence-prevention and health-system guidance, IPV screening and referral guidance, relationship-education research, cultural humility, and selected Islamic consent sources.
+\end{enumerate}
+
+\subsection{Analysis}
+(i)~Identify the decision whose protection defines programme success; (ii)~identify failure modes that make apparently successful education unsafe or untrustworthy; (iii)~convert ethical commitments into observable programme duties and boundaries; (iv)~specify outcomes and disconfirming evidence that can be tested prospectively. A person-level scenario simulation over declared assumptions was run to rank delivery conditions; it is a sensitivity exercise, not evidence, and is reported separately in Appendix F.
+
+\subsection{Ethical framework}
+The synthesis used five commitments: limited knowledge, entrusted responsibility, human dignity, just boundaries, and repair. Epistemic humility is illuminated by the working sequence \emph{faqr} $\rightarrow$ \emph{taqwa} $\rightarrow$ \emph{amanah}, with \emph{shura} as the method of acting when limits are reached and \emph{'adl} (justice) as the test of the result (Section~\ref{sec:root}). Each term has a Qur'anic basis; the ordering as a \tphe{} architecture is this paper's synthesis, not a model declared by the sources.
+
+\subsection{Ethical considerations and methodological limits}
+No systematic sampling, independent coding, saturation, participant interviews, consensus panel, control group, pre--post comparison, or causal analysis was undertaken. These limits define the next research steps; a programme theory can be useful before effectiveness testing if its derivation, boundaries, mechanism, and falsifiers are transparent.
+
+\tphe{}'s safeguards assume adult participants able to consent in their own right. Where a participant is, or may be, below the age of legal capacity to marry or consent, the organisation's duty of care and any applicable mandatory-reporting obligation take precedence over R3's revocable-consent framing and R2's partner-exclusion rule; this boundary and its procedure are not yet specified and must be resolved before any pilot enrols participants who may be minors.
+
+\subsection{Reporting guideline}
+No published reporting guideline currently governs a pre-effectiveness programme-theory paper of
+this kind; CONSORT, SPIRIT, STROBE and SRQR presuppose a conducted trial, cohort, or qualitative
+study, and TIDieR presupposes an already-delivered, evaluated intervention. In their absence, this
+paper follows an IMRAD structure and discloses its own evidence-grading practice throughout
+(Appendix D, Claim--evidence ledger; \texttt{CLAIMS.md} in the source repository), naming for every
+load-bearing statement whether it is externally sourced, conceptually derived, or proposed and
+untested. TIDieR will be applied to the intervention description once Phase 2 delivery is fixed.
+
+\section{Results}
+
+\input{sections/fig_dag}
+\input{sections/results_model}
+
+\subsection{Research and development pathway}
+Phase~0: framework clarification and evidence mapping (definitions; alignment with WHO RESPECT and clinical guidance and Thai service pathways; inventory of validated brief screens and measures; legal and data-governance review; distinguishing current ARAYA practice from proposed pilot requirements; external advisory group with conflict-of-interest management). Phase~1: co-design and content validation with survivors and advocates, Muslim and intercultural community members, Thai and non-Thai prospective participants, obstetric, reproductive-health, mental-health, social-work, substance-use, legal, and crisis-service professionals, Health Region~12, provincial Islamic committees, educators, interpreters, and data-governance expertise. Phase~1 is expected to proceed through facilitated co-design workshops together with cognitive interviewing of draft outcome instruments, with an indicative participant range of approximately 4--8 per stakeholder group, stated here as indicative rather than fixed. It would be chaired by an independent chair from outside ARAYA Nikah, and any activity involving survivors or community members would be sought through an accredited Thai research-ethics committee (for example a Health Region~12 provincial-hospital REC or an independent REC) before it begins. Phase~2: feasibility and safety pilot with pre-specified progression criteria---testing whether \tphe{} can be delivered safely and consistently, not whether it reduces violence. Phase~3: prospective comparative evaluation with decision control as primary candidate outcome, provided equipoise, safety, and referral standards are protected in all arms; violence reduction is not claimed without adequate power, follow-up, and attention to disclosure bias. The failure criterion and primary outcome set will be deposited in a public registry (for example the Thai Clinical Trials Registry) before Phase 3 data collection begins. Phase~4: independent replication outside ARAYA and in different legal, service, religious, and cultural settings.
+
+\section{Discussion}
+
+\subsection{Principal findings}
+\tphe{} shifts the organising question of premarital education from content delivery to the governance of choice. Values such as respect, consent, culture, and referral become trustworthy only when translated into roles, trigger criteria, private channels, competence boundaries, records, review points, and measurable outcomes.
+
+\subsection{Novelty and standpoint}
+\input{sections/discussion_novelty}
+
+\subsection{Comparison with existing frameworks and literature}
+\input{sections/discussion_4_2}
+\input{sections/discussion_4_2_supplement}
+
+\subsection{Ethical root: faqr, taqwa, amanah, and justice}\label{sec:root}
+The framework does not treat culture as a barrier to be removed. Its epistemic-humility safeguard rests on a working sequence: \emph{faqr} makes us aware of our own incompleteness and dependence on God (Qur'an 35:15); \emph{taqwa} is God-conscious restraint over one's knowledge, speech, judgement, and use of power (Qur'an 59:18); \emph{amanah} frames authority and knowledge as an entrusted responsibility to be rendered to those to whom it belongs, placed by the Qur'an beside just judgement (4:58). \emph{Faqr}'s classical sense is existential neediness before God; this paper narrows it to the epistemic case (what one does not know) as one instance of that neediness, not as a redefinition of the term. \emph{Shura} is the method of acting when limits are reached (42:38); it accompanies the sequence and does not replace \emph{taqwa} within it. \emph{'Adl} is the test: not whether the person holding authority meant well, but whether the affected person retains dignity, rights, voice, and a real route to correction.
+
+Applied to the family, in the author's formulation: \emph{faqr} makes us aware of our own incompleteness and our dependence on God; because no one is complete, the members of a family must depend on and be responsible to one another, with \emph{taqwa} as the governing restraint, and with \emph{amanah} made visible through the steady, dependable fulfilment of duties that never violate one another's rights. Mutual dependence is the reason a family needs safeguards; \emph{taqwa} is why authority within it must be restrained; \emph{amanah} is why fulfilling one's role and respecting the other's rights are the same act rather than competing ones. Humility here is not passivity: a person may fulfil duties, ask for help, challenge misuse of authority, and claim rights with humility, and a teacher who admits uncertainty must still act when safety procedures require it. This is compatible with cultural humility in health education \cite{ref58}. The sequence is this paper's conceptual synthesis; the terms are Qur'anic, the architecture is not a model declared by the sources, and full jurisprudential interpretation requires qualified scholarship. Where Table~\ref{tab:ethic} marks a term's evidence pairing Open, the rule it governs (R1 for taqwa, R2/R3/R5 for amanah) is supported only by the rule's own falsifier and observable trace in Table~\ref{tab:rules}, not by external evidence for the ethical term itself.
+
+\subsection{Implications for practice and policy}
+Without a failure criterion, programmes can absorb safeguarding language while retaining continuation-oriented incentives. If knowledge and satisfaction rise while a person remains unable to pause, refuse, recognise coercion, or reach qualified help, the mechanism has not been achieved. Infrastructure should be judged by what it enables under pressure, not by what it teaches under ideal conditions. A scenario simulation over declared assumptions (Appendix~F) ranked pre-arranged assessor, room and interpreter, a facilitator-training gate, a narrow trained trigger list and a follow-up slot as the delivery conditions most likely to decide whether the stop rule can be executed; it produces no evidence about outcomes.
+
+\subsection{Institutional position}
+Why does a social enterprise, rather than a clinical, academic, or religious institution, convene this synthesis? What follows is a declared position, not an evidentiary claim, and it rests on process, not authority. ARAYA Nikah occupies what this paper calls the process position: it is present with a couple across the weeks before a wedding, controls the sequence in which content, documentation, and referral are offered, and observes what actually happens at the point where consent, authority, and help-seeking are organised. That sustained proximity is not ordinarily available to a single clinic visit, a one-off curriculum audit, or a legal review conducted after the fact.
+
+The organisation is registered, per the organisation's own governance records, under Thailand's Social Enterprise Promotion Act B.E.~2562, which binds it in law to a declared social objective and limits the distribution of profit. That legal binding, and no broader legal claim, is what is asserted here; the Act's other provisions, and any claim about prenuptial law or domestic-violence law reform, are outside this paper's competence and are not made. Because the organisation's continuation does not depend on completing marriages, it can afford to declare a failure criterion that treats marriage completion as irrelevant to success --- a criterion a fee-for-service or completion-incentivised provider would find harder to state without undermining its own model.
+
+This position carries no authority of its own, and none is claimed. It offers depth in one relationship, repeated many times, not population coverage; a clinical, academic, or religious body with broader reach and different obligations is not replaced by it and is not asked to defer to it. Its legitimacy is borrowed, not earned: it stands until survivors, advocates, religious and community leaders, and independent reviewers examine the procedures described in this paper and say plainly whether they hold up. Being bound by law to a social objective changes what the organisation's incentives are re-bound to; it does not remove incentive, interest, or the founder's disclosed conflict (Declarations), and none of the above is offered as a substitute for that independent review.
+
+\subsection{Implications for research: transferability and next steps}
+\tphe{} originated in a Muslim-led Thai practice environment but addresses a general problem. Transferability is an empirical question. Adaptation may change language, examples, religious sources, legal procedures, service partners, facilitators, and settings; it must preserve the invariants: the participant, not marriage completion, is the unit of protection; usable decision control is the mechanism; each person has a safe private route; culture and religion do not override consent or safety; educator authority is bounded; fear, violence, or coercive control changes the course of education; qualified referral takes priority beyond competence; decisions and records can be reviewed and corrected; conventional outcomes cannot substitute for safeguarding outcomes.
+
+\subsection{Artificial intelligence: boundary only}
+AI is not part of the \tphe{} mechanism and is not an evaluated intervention (distinct from the manuscript-drafting disclosure in Declarations). Any future exploration is limited to facilitator-reviewed drafting of teaching materials or fictional scenarios, with no AI counselling, no autonomous safety decisions, no automated classification of violence or coercion, and human review for accuracy, cultural meaning, safety, and bias. No participant data are entered into any AI system; the anonymous self-check (Results, Layer~0), if used, is scored without AI.
+
+\subsection{Strengths and limitations}
+Strengths: the programme theory is stated with a pre-specified failure criterion, named outcome domains, and seven propositions with falsifiers, before any effectiveness testing; the claim ceiling is explicit; the conflict of interest is disclosed. Limitations: (1)~Derived from one founder-led organisation. (2)~Not a formal qualitative study: no systematic sampling, independent coding, or participant validation. (3)~No effectiveness or safety testing; the mechanism, safeguards, measures, and pathway may prove incomplete, burdensome, or harmful. (4)~Grounded in Muslim and intercultural couples in Thailand; not representative of all Muslim communities, Thai settings, or non-Muslim contexts. (5)~Identifies a governance problem without establishing that existing programmes lack comparable safeguards; direct claims about any programme require its complete procedures to be examined. (6)~Decision control is not a validated measure and may overlap with autonomy, self-efficacy, informed choice, safety, and service access. (7)~Referral capacity is context-dependent. (8)~Founder authorship creates conflict of interest; independent co-design, external review, and replication are necessary.
+
+\subsection{Invitation to co-design}
+This framework is offered at the point where practice-derived synthesis must stop and shared testing must begin. ARAYA Nikah does not propose to validate \tphe{} alone, and does not claim the authority to decide what ``trustworthy'' means for communities it does not represent. What the organisation can offer into a Phase~1 co-design process (\S3.6, ``Research and development pathway'') is what this paper has already made explicit and auditable: its governance and safeguarding procedures, its stop--assess--refer--record pathway, its documentation practice, its practice context of 600+ participants offered here as demand for this work, not evidence that it succeeds, and a pre-specified failure criterion against which its own work is willing to be judged --- \tphe{} fails if knowledge, attendance, or satisfaction rises while informed choice and accountable referral do not.
+
+Co-design under that criterion needs partners this paper cannot substitute for. Survivors and advocates are needed to test whether the private channel and the stop rule protect rather than perform protection. Health Region~12 and its existing premarital services are needed as the clinical and public-health infrastructure this framework is designed to add governance to, not replace. Provincial Islamic committees are needed because premarital education in the deep South already has standing and reach this framework does not. This framework does not yet know, and does not assert, whether OSCC and equivalent referral services are reachable within a safe timeframe across all delivery sites, including after-hours and in Malay/Yawi-medium settings, or how a state referral pathway is meant to interact with a participant's existing recourse to family or religious dispute resolution; these are named here as open questions for Phase~1, not as solved problems. Referral services, including One-Stop Crisis Centres (OSCC) and other designated multidisciplinary services, are needed to confirm that the pathways named here are real, timely, and accessible where couples actually live. TIMA/FIMA members are needed as the clinical judgement this synthesis was never positioned to supply on its own.
+
+Phase~1 would be chaired independently of ARAYA Nikah, with decision authority in a steering group on which the organisation holds one seat and no veto. Materials co-developed in Phase~1 would be held by the co-design consortium under a Creative Commons Attribution (CC~BY~4.0) licence, not by the company. Partners take on reputational exposure to a framework that has not yet been tested; the failure criterion and the right to withdraw at any phase are offered as the protection against that exposure.
+
+The organisation's contribution ends where these partners' expertise begins. What is asked in return is not endorsement but scrutiny: a Phase~1 co-design process free to keep, revise, or reject any element of this synthesis, tested against the failure criterion stated above and in the accepted abstract. Nothing here proceeds to scale before feasibility and safety testing (Phase~2) confirm that \tphe{} can be delivered safely and consistently, before any claim of effectiveness is made.
+
+\section{Conclusion}
+Premarital health education is a consequential decision environment. When it teaches couples but cannot protect the individual participant, stop unsafe joint work, refer beyond educator competence, or correct an earlier decision, it remains incomplete as public-health infrastructure. \tphe{} proposes one mechanism---decision control---protected by six safeguards, operationalised as five rules (R1--R5), and a stop rule under which routine couple education yields to confidential assessment, survivor-centred support, and qualified referral. The framework is not yet validated; its value will depend on whether co-design and empirical testing show that it improves usable choice and accountable routing without creating new harms. Judge premarital health education not by how many marriages it completes, but by how safely people can choose. That judgement is not the organisation's to make alone: it is offered to TIMA/FIMA, Health Region~12, provincial Islamic committees, referral services, survivors, and advocates as an invitation to co-design and test this framework together, under the failure criterion stated above, before any claim of effectiveness is made.
+
+\section*{Declarations}
+\addcontentsline{toc}{section}{Declarations}
+\footnotesize
+\textbf{Conflict of interest.} The author is the founder and programme developer of ARAYA Nikah Social Enterprise Co., Ltd., the organisation whose procedures informed this synthesis, and has a reputational and commercial interest in the programme described. This conflict is disclosed in every public version of the work. No grant or award funded this work.\\
+\textbf{Funding.} None.\\
+\textbf{Ethics.} This conceptual paper involved no participant research, no participant data, and no identifiable information. Any co-design, cognitive interviewing, pilot data collection, or evaluation will undergo ethics review before it begins.\\
+\textbf{Data availability.} No participant dataset was generated or analysed. The scenario-simulation code and its declared parameters (Appendix F) are available from the corresponding author on request.\\
+\textbf{Use of AI.} AI tools assisted drafting and editing; the author verified all content and is accountable for it. No participant data are entered into any AI system; the anonymous self-check (Results, Layer~0), if used, is scored without AI.\\
+\textbf{Author contributions.} YL conceived the framework, conducted the synthesis, and wrote the manuscript; there are no further contributors.\\
+\textbf{Acknowledgements.} The author thanks Walancha Supantarika for her support during the development of this work.\\
+\textbf{Disclaimer.} This paper is a theoretical framework. It is not medical, legal, or religious advice, not a diagnostic instrument, and not a substitute for qualified clinical, legal, or survivor-support services. Laws governing health advice, safeguarding, data protection, and marriage vary by jurisdiction; institutional, educational, or public use requires legal and professional review.
+
+\balance
+\input{sections/refs_all}
+
+\onecolumn
+\appendix
+\section{Construct dictionary}
+\footnotesize
+\begin{tabularx}{\textwidth}{@{}p{2.6cm}YYYp{2.6cm}@{}}
+\toprule
+\textbf{Construct} & \textbf{Working definition} & \textbf{Not equivalent to} & \textbf{Observable trace} & \textbf{Status}\\
+\midrule
+Decision control & Usable, timely, safe capacity to proceed, pause, delay, refuse, withdraw, revise, or seek help & Satisfaction; knowledge alone; relationship continuation & Options explained, private voice, enacted pause, safe help route & Proposed primary mechanism; requires validation\\
+Epistemic humility & Admission of limits, source transparency, consultation, accountable authority & Indecision; passivity; silence & Uncertainty marked, roles stated, out-of-scope consultation & Conceptually derived\\
+Cultural intelligibility & Meaningful guidance within culture without unchecked cultural authority & Cultural competence as mastery; cultural exemption from safety & Language adaptation, source labelling, comprehension and enactability check & Conceptually derived\\
+Affected-person visibility & Direct, safe visibility of each person who bears consequences & Couple treated as one voice; forced disclosure & Routine private route, safe contact, privacy controls & Conceptually derived\\
+Dignity and consent & Ongoing respect for each person's decision and refusal & One-time signature; family or programme permission & Consent revisited; pause or refusal enacted without penalty & Conceptually derived\\
+Bounded authority and referral & Role limits connected to competent, timely service pathways & Abandonment; referral leaflet alone & Stop criteria, service map, warm referral, follow-through & Conceptually derived\\
+Repairability & Review and correction when new information appears & Erasure of audit trail; automatic restart & Review points, corrected record, incident learning & Conceptually derived\\
+Trustworthiness & Earned property of a governed programme whose observable practice protects choice and safety & Branding; participant trust alone & Safeguard fidelity, harms, accountable referral, failure criterion & Higher-order evaluative construct\\
+\bottomrule
+\end{tabularx}
+
+\section{Minimum viable \tphe{} pathway}
+\footnotesize
+\textbf{Before delivery.} Define scope and exclusions; verify referral services and emergency routes; train and assess facilitators; name a safeguarding lead, independent of routine facilitation duty, who owns supervision, escalation decisions and incident review; establish supervision and escalation; prepare language access and non-Thai pathways; separate administrative and proposed safeguarding record systems, with access restricted to the named safeguarding lead and assessor, a defined retention period, and a documented protocol for third-party requests (including from a spouse, family member or religious authority) that defaults to non-disclosure absent a legal requirement; explain consent, privacy, and limits of confidentiality.\\
+\textbf{During routine education.} Mark source and uncertainty; make content culturally intelligible; offer each person a safely designed private voice; reconfirm the right to pause, delay, refuse, withdraw, or seek help; observe for fear, threats, control, unsafe participation, or out-of-scope needs.\\
+\textbf{When triggered.} (0)~If danger appears imminent, the routine sequence below is suspended in favour of the organisation's emergency protocol: immediate safety planning and contact with emergency services or the OSCC emergency line take precedence over scheduling confidential assessment; facilitators are trained to recognise the difference and are never the final decision-maker for either pathway. (1)~Stop routine joint work. (2)~Protect immediate privacy and safety. (3)~Arrange confidential assessment within defined competence. (4)~Refer to qualified services. (5)~Record the minimum necessary reason, action, referral, and safe follow-up. (6)~Review; do not restart joint work without documented safe assessment. (7)~Do not resume couple mediation where coercive control is confirmed.\\
+\textbf{After delivery.} Review referral connection and barriers where safe and consented; correct records or decisions when new information emerges; audit fidelity and harms; use incidents and complaints for system repair.
+
+\section{Candidate outcome and measurement matrix}
+\footnotesize
+\begin{tabularx}{\textwidth}{@{}p{3cm}YYp{2.2cm}Y@{}}
+\toprule
+\textbf{Domain} & \textbf{Candidate indicator} & \textbf{Data source} & \textbf{Timing} & \textbf{Safety note}\\
+\midrule
+Decision control & Adapted decision-quality\slash shared-decision-making instrument (see Appendix~E, ``Decision quality, autonomy measurement...''), context-adapted per the MRC ADAPT guidance \cite{ref53}; no instrument yet validated in a Thai or Thai Muslim population. & Individual confidential survey & Baseline, post, follow-up & Avoid partner-visible completion\\
+Option awareness & Correct identification of proceed\slash pause\slash delay\slash refuse\slash help options & Knowledge task & Post & Does not prove enactability\\
+Private voice & Safely offered; perceived freedom to speak & Process log, confidential survey & During, post & Do not record disclosure content unnecessarily\\
+Coercion recognition & Scenario-based recognition & Individual assessment & Baseline, post & Trauma-informed fictional scenarios\\
+Mental-health literacy & Recognition and help-route knowledge & Survey, scenario & Baseline, post & Not diagnosis\\
+Reproductive-health literacy & Consent, contraception, reproductive coercion, care pathways & Survey, scenario & Baseline, post & Protect sexual-health privacy\\
+Legal-protection literacy & Status verification, documentation, available help & Survey, task & Baseline, post & Jurisdiction-specific\\
+Stop-rule fidelity & Correct facilitator response in simulation or audit & Observation & Training, delivery & Independent review preferred\\
+Referral fidelity & Offer, consent, connection, latency, failed route & Safeguarding log & Trigger, follow-up & Minimum necessary data\\
+Cultural intelligibility & Comprehension and relevance across groups & Survey, interview & Post & Analyse differential outcomes\\
+Repairability & Appropriate review or correction completed & Audit & Ongoing & Preserve protected audit trail\\
+Harms & Privacy breach, retaliation concern, distress, unsafe referral, inappropriate restart & Incident system, safe follow-up & Immediate, ongoing & Independent safety governance\\
+Conventional outcomes & Attendance, satisfaction, completion, knowledge & Programme records & Post & Secondary; never sufficient alone\\
+\bottomrule
+\end{tabularx}
+
+\section{Claim--evidence ledger}
+\footnotesize
+\begin{tabularx}{\textwidth}{@{}YYYYY@{}}
+\toprule
+\textbf{Claim} & \textbf{Evidence type} & \textbf{Current support} & \textbf{Allowed wording} & \textbf{Not yet allowed}\\
+\midrule
+IPV produces major health burden & Externally observed or modelled & WHO and GBD sources & ``IPV is a major public-health problem with physical, mental, sexual, and reproductive consequences.'' & Local causal estimates not measured\\
+Thailand recorded an average 42 affected persons per day in 2024 & Official administrative report & DWF page & ``Recorded cases averaged 42 persons per day across children, women, or family violence.'' & ``Thai prevalence is 42/day''; Muslim-specific claim\\
+ARAYA reached 600+ participants since 2024 & Organisation-reported practice context & Internal programme record & ``Programme reach exceeded 600 participants.'' & Effectiveness, representativeness, harm reduction\\
+Decision control is the \tphe{} mechanism & Conceptual derivation & This synthesis & ``\tphe{} proposes decision control as its mechanism.'' & ``Decision control has been validated as the mechanism.''\\
+Six safeguards protect decision control & Conceptual derivation & This synthesis and practice-source logic & ``Six safeguards are proposed.'' & ``The safeguards are proven effective.''\\
+Stop rule is safer when fear or coercion appears & Normative design and external clinical safety logic & WHO guidance; bounded couple-intervention literature & ``\tphe{} requires routine joint work to stop pending qualified assessment.'' & Comparative safety superiority before testing\\
+\tphe{} improves outcomes & Open empirical question & None & ``\tphe{} is designed to improve\ldots'' / ``should be tested for\ldots'' & ``\tphe{} improves,'' ``prevents,'' ``reduces''\\
+Framework transfers beyond ARAYA & Open empirical question & Conceptual relevance only & ``Potentially adaptable; requires local testing.'' & Universal applicability\\
+\bottomrule
+\end{tabularx}
+\smallskip
+
+\noindent\footnotesize\textit{Note.} The six safeguards named in the row above are operationalised in Results as five rules, R1--R5 (\S3.1, Table~\ref{tab:rules}): epistemic humility and cultural intelligibility are jointly implemented as R1; affected-person visibility maps to R2; dignity and consent to R3; bounded authority and referral splits across R1 and R4; repairability maps to R5. Every safeguard survives; ``six safeguards'' and ``five rules'' name the same commitments at two levels of description throughout this paper.
+
+\section{Extended evidence review}
+\footnotesize
+This appendix carries the full literature narrative and the evidence map for propositions P1--P7 that Discussion \S4.3 (``Comparison with existing frameworks and literature'') synthesises in condensed form. It is reproduced in full so that every citation can be checked in context.
+
+\input{sections/appendix_extended_evidence}
+
+\section{Illustrative scenario modelling (not evidence)}
+\footnotesize
+\input{sections/discussion_delivery}
+
+\section{Version history}
+\footnotesize
+\begin{tabularx}{\textwidth}{@{}p{1.6cm}p{2.6cm}Y@{}}
+\toprule
+\textbf{Version} & \textbf{Date} & \textbf{Principal change}\\
+\midrule
+Abstract & 2026 (accepted) & Camera-ready abstract, TIMA/FIMA Scientific Convention 2026; document of record in the RE\_T-PHE repository.\\
+Note v1.0 & 2 Sep 2026 & Full paper note expanded from the abstract (17 sections, 5 appendices).\\
+Note v1.1 & 2 Sep 2026 & Ethical root corrected to faqr $\rightarrow$ taqwa $\rightarrow$ amanah; shura repositioned as method; 'adl as test.\\
+Paper v0.1 & 2 Sep 2026 & This IMRAD skeleton, two-column preprint format. Private until independent critical appraisal.\\
+Paper v0.2 & 3 Sep 2026 & Purpose-review pass (audit/purpose-review.md): six-safeguards/five-rules mapping stated explicitly; Institutional position and Invitation to co-design subsections written; Novelty and standpoint subsection added; OSCC named in the referral pathway; AI/no-participant-data wording unified; \S4.2's literature narrative moved intact to Appendix~E, replaced with a condensed synthesis; remaining placeholder markers resolved or removed.\\
+Paper v0.4 & 3 Sep 2026 & Merged independent adversarial review pass (public-health, clinician, judge; audit/v0.4-editlist.md): affiliations restored exactly as in the submitted abstract; filled the Reporting-guideline subsection; the failure-criterion register corrected to ``pre-specified'' throughout, with no registry-deposit term used anywhere; R4 assessor-unavailable default, an emergency/imminent-danger pathway, a named safeguarding lead, assessor dual-relationship independence, a data-handling protocol, and a minors/mandatory-reporting boundary added to the safeguarding specification; the scenario-simulation section moved out of Discussion into Appendix~F (``Illustrative scenario modelling, not evidence''), disclosed in Methods, and its vocabulary de-jargoned; WHO RESPECT citation reconciled to the 2025 second edition; Phase~1 co-design design detail and governance/ownership/partner-risk sentences added.\\
+\bottomrule
+\end{tabularx}
+
+\end{document}
