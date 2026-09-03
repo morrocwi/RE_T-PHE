@@ -23,6 +23,10 @@ effectiveness testing has been done**, and the authors say so in the abstract it
 3. [`paper/main.pdf`](paper/main.pdf) — the full paper (preprint draft v0.4): programme theory, five
    rules, one failure criterion, evidence review, safeguarding specification, and an invitation to
    co-design. Not peer reviewed; every claim stays under the abstract's ceiling.
+   A shorter journal-format version with the same claims is [`paper/journal/main_journal.pdf`](paper/journal/main_journal.pdf)
+   (plain headings, glossary, key messages); the evidence library is mapped in
+   [`paper/evidence-map/sr_main.pdf`](paper/evidence-map/sr_main.pdf) (scoping review, PRISMA-ScR; not an
+   effectiveness review).
 4. [`docs/reports/`](docs/reports/) — the independent critical appraisals this repository has
    already undergone, with findings and what was changed.
 5. [`ABOUT_ARAYA_NIKAH.md`](ABOUT_ARAYA_NIKAH.md) and [`docs/side-data/`](docs/side-data/) —

@@ -11,6 +11,8 @@ Claim ceiling: the accepted abstract. Nothing in this repository claims that T-P
 ## Document of record
 - [Abstract, verbatim web copy](abstract/ABSTRACT.md): the accepted abstract; PDF in the same folder is the document of record, SHA-256 pinned
 - [Evidence ledger](CLAIMS.md): every disputable statement graded by evidence type
+- [Journal-format version](paper/journal/main_journal.pdf): the same programme theory in tier-one medical-journal format (≤4,300 words, 56 references, structured abstract, key messages, glossary); supplementary material in paper/journal/supplementary.pdf; not peer reviewed
+- [Systematic evidence map](paper/evidence-map/sr_main.pdf): scoping review (PRISMA-ScR) of the evidence library; all counts script-derived from library/; not a systematic review of effectiveness
 - [Full paper, preprint draft v0.4](paper/main.pdf): the abstract expanded to a programme-theory paper (IMRAD, evidence review, safeguarding specification, invitation to co-design); not peer reviewed; LaTeX source in paper/
 
 ## Evidence library

@@ -17,6 +17,8 @@ the TIMA/FIMA Scientific Convention 2026.
 | **Author** | Yaoharee Lahtee (ARAYA Nikah Social Enterprise Co., Ltd., Bangkok; Independent Researcher, Thailand) |
 | **Document of record** | [`abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf`](abstract/TIMA-FIMA_2026_Abstract_FINAL_Yaoharee_Lahtee.pdf) (camera-ready, SHA-256 in [`abstract/SHA256SUMS`](abstract/SHA256SUMS)) |
 | **Web copy** | [`abstract/ABSTRACT.md`](abstract/ABSTRACT.md) |
+| **Journal-format version** | [`paper/journal/main_journal.pdf`](paper/journal/main_journal.pdf) — the same programme theory condensed to a tier-one medical-journal format (≤4,300 words, 56 references, plain headings, structured abstract) with [`supplementary.pdf`](paper/journal/supplementary.pdf); not peer reviewed; the accepted abstract remains the claim ceiling |
+| **Systematic evidence map** | [`paper/evidence-map/sr_main.pdf`](paper/evidence-map/sr_main.pdf) — scoping review (PRISMA-ScR) of the evidence library behind the programme theory; every count produced by the scripts in the same folder from `library/`; not a systematic review of effectiveness |
 | **Full paper (preprint draft v0.4)** | [`paper/main.pdf`](paper/main.pdf) — the abstract expanded to a full IMRAD programme-theory paper (LaTeX source in [`paper/`](paper/)); not peer reviewed; the abstract remains the claim ceiling and the document of record; SHA-256 in [`paper/SHA256SUMS`](paper/SHA256SUMS) |
 | **Evidence ledger** | [`CLAIMS.md`](CLAIMS.md) — every statement in the abstract graded by the type of evidence behind it |
 | **Evidence library** | [`library/README.md`](library/README.md) — verified PubMed and global-guidance records by category (see the index for the current count), with a unified JSON and a knowledge graph; context sources separated; not a systematic review |
@@ -82,6 +84,8 @@ AI_START_HERE.md  entry point for readers who scanned the QR code (human or AI)
 llms.txt        machine-readable index of this repository
 abstract/       camera-ready PDF (document of record), SHA256SUMS, web copy
 paper/          full paper, preprint draft v0.4 (main.pdf, LaTeX source, SHA256SUMS); not peer reviewed
+paper/journal/  journal-format version (main_journal.pdf, supplementary.pdf, LaTeX source, SHA256SUMS)
+paper/evidence-map/  systematic evidence map (sr_main.pdf, LaTeX source, build scripts, counts JSON, SHA256SUMS)
 CLAIMS.md       evidence ledger for every statement in the abstract
 ABOUT_ARAYA_NIKAH.md  organisational setting, source-status labelled (context, not evidence)
 library/        evidence library by category (verified records, library.json, kg/graph.json); tools/build_library.py rebuilds it

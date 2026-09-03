@@ -1,0 +1,467 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,top=25mm,bottom=25mm,left=25mm,right=25mm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{booktabs,tabularx,array,longtable}
+\usepackage{seqsplit}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{float}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,fit,calc,shapes.misc}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[hidelinks,breaklinks]{hyperref}
+\usepackage[labelfont=bf,font=small]{caption}
+
+\urlstyle{same}
+\setlist{nosep,leftmargin=*}
+\newcommand{\tphe}{T\mbox{-}PHE}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash\footnotesize}p{#1}}
+\sloppy
+\setlength{\tabcolsep}{4pt}
+
+\definecolor{ocsi}{RGB}{30,60,90}
+\titleformat{\section}{\normalfont\Large\bfseries\color{ocsi}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\itshape}{\thesubsubsection}{0.6em}{}
+
+\title{}
+\begin{document}
+
+\begin{center}
+{\footnotesize\textsc{ARAYA Nikah Social Enterprise Co., Ltd. \,\textbullet\, Bangkok, Thailand}}\par
+{\scriptsize Preprint --- not peer reviewed \,\textbullet\, Systematic evidence map (scoping review), reported per PRISMA-ScR}\par\vspace{4mm}
+{\LARGE\bfseries\color{ocsi} Evidence for trustworthy premarital health education as primary prevention of intimate-partner harm}\par\vspace{1.5mm}
+{\large A systematic evidence map}\par\vspace{4mm}
+{\normalsize Yaoharee Lahtee$^{1,2}$}\par
+{\small $^{1}$ARAYA Nikah Social Enterprise Co., Ltd., Bangkok, Thailand\\
+$^{2}$Independent Researcher, Thailand}\par
+{\small ORCID 0009-0005-3861-0626 \,\textbullet\, \texttt{arayawedding@gmail.com}}\par\vspace{2mm}
+{\small Draft v0.1 \,\textbullet\, 3 September 2026}\par
+\end{center}
+
+\vspace{3mm}
+\noindent\textbf{Claim boundary.} This is a systematic evidence map (scoping review) of the
+literature searched and admitted while building the evidence library behind the Trustworthy
+Premarital Health Education (\tphe) programme theory. It is \emph{not} a systematic review of
+effectiveness, has no protocol registration (no PROSPERO record), used single-reviewer
+screening with an AI-assisted, human-owned adversarial verification pass rather than independent
+duplicate screening, applied no risk-of-bias tool at the individual-study level, and performed
+no meta-analysis. Nothing in this document is evidence that \tphe{} works. The claim ceiling is
+the accepted TIMA/FIMA 2026 abstract and the \tphe{} full-paper draft (\texttt{paper\slash{}main.pdf} in the public repository); this evidence map is a separate, subordinate document that maps what the
+literature search behind that programme theory actually found, admitted, and could not find.
+
+\vspace{4mm}
+\noindent\textbf{Abstract}\par\vspace{2pt}
+\noindent\begin{minipage}{\textwidth}
+\small\raggedright\tolerance=10000\emergencystretch=2em\hbadness=10000
+\textbf{Background.} Trustworthy Premarital Health Education (\tphe) is a proposed governance
+architecture for premarital education, stated as seven testable propositions (P1--P7) about a
+decision-control mechanism, a private channel, cultural intelligibility, a stop rule, referral
+quality, the gap between conventional and safeguarding outcomes, and repairable records. Before
+any of these propositions is tested, the evidence already assembled while building them needs to
+be mapped, not narrated.
+
+\textbf{Methods.} Eighteen category-specific, and to that extent structured, literature searches
+were run over PubMed (NCBI E-utilities) plus six supplementary reading-list passes, logged as
+18 angle files. A single reviewer screened records; an independent AI-assisted verifier pass
+re-fetched each PubMed record and assigned a verdict of KEEP, FIX (admitted with a correction),
+DROP, or CONTEXT-ONLY (not PubMed-indexed, no evidential weight). No protocol was registered, no
+risk-of-bias tool was applied at study level, and no meta-analysis was performed. All counts
+below are computed directly from the logged search, verification, library, and knowledge-graph
+files by an accompanying script (\texttt{build\-\_prisma.py}); none is estimated.
+
+\textbf{Results.} The search logged 358 candidate records across 18 angle files (160 PubMed
+E-utilities queries), reducing to 277 unique PMIDs after de-duplication among the
+PMID-bearing candidates. The verifier processed 358 records: 250 KEEP, 97 FIX, 2 DROP, and 9
+CONTEXT-ONLY. The library admits 347 category-level entries (313 unique PMIDs, plus 18 admitted
+non-PMID rows corresponding to 17 unique guidance documents without a PMID -- one blank-identifier
+collision between two distinct WHO documents was resolved by a deterministic fallback key rather
+than a naive count of rows; see Limitations) across 18 categories, 330 unique records in total.
+Records linked in the knowledge graph
+to at least one of the seven propositions numbered 109 unique records, distributed unevenly:
+44 linked to P1, 37 to P5, 23 to P4, 18 to P2, 16 to P3, and only 6 each to P6 and P7. No record
+in the library was PubMed-indexed as directly evaluating a premarital education programme, of
+any design, in a Thai or Thai Muslim population.
+
+\textbf{Conclusions.} The evidence library supports the plausibility of a premarital governance
+layer and repeatedly documents a knowledge-to-behaviour and process-to-outcome gap in adjacent
+literatures (screening, relationship education, cultural-competence training), but it contains
+no direct effectiveness evidence for \tphe{} or for any comparable programme, and coverage of
+Thai/Thai-Muslim samples, premarital-specific trials, validated decision-control instruments, and
+the two proposed extension layers (Layer 0, Layer 2) remains sparse to absent. This map is offered
+to pre-specify the scope of a future full systematic review with protocol registration, not as a
+substitute for one.
+\end{minipage}
+
+\vspace{4mm}
+\section{Introduction}
+
+\subsection{Why a map, not a narrative}
+The \tphe{} programme theory (full paper, \texttt{paper\slash{}main.pdf} in the public repository) states seven testable
+propositions and cites an evidence base assembled across 18 literature-search categories. That
+evidence base is narrated once, in prose, in the full paper's Discussion and Appendix~E. A
+narrative synthesis is not the same document as a map of what was searched, what was found, what
+was admitted, what was verified, and what gap each search pass itself logged. This document is
+that map: it reports the literature-mapping process as a scoping review in its own right, against
+the PRISMA extension for Scoping Reviews (PRISMA-ScR), and treats every count as something to be
+computed from the logged files, not recalled from the narrative.
+
+\subsection{Review questions}
+The seven propositions that organise the \tphe{} programme theory are used here as the review
+questions, unchanged from the full paper:
+
+\begin{itemize}
+\item \textbf{P1.} A governance layer improves decision control beyond content-only education.
+\item \textbf{P2.} A routine private channel makes materially relevant concerns more visible.
+\item \textbf{P3.} Cultural intelligibility helps only when culture cannot override consent or
+safety.
+\item \textbf{P4.} A stop rule prevents routine joint education from worsening risk when fear or
+coercion appears.
+\item \textbf{P5.} Referral quality depends on timeliness, accessibility and follow-through, not
+offer alone.
+\item \textbf{P6.} Conventional programme success can coexist with \tphe{} failure.
+\item \textbf{P7.} Repairability is necessary because relevant information emerges over time.
+\end{itemize}
+
+For each, Results \S3.3 charts every record the knowledge graph links to that proposition, its
+design, its population, its finding as charted, and whether it supports, complicates, or is
+relevant only to the proposition (no record in the library is tagged \emph{contradicts} any
+proposition; this absence is itself reported, not filled in).
+
+\section{Methods}
+
+\subsection{Eligibility}
+Eligible records were PubMed-indexed literature (any design) or named global-guidance documents
+(WHO, USPSTF, NICE, Cochrane, MRC) relevant to one of 18 pre-declared search categories spanning
+IPV burden and prevention frameworks, premarital/relationship education, screening and referral,
+couple-based work and coercive control, decision-autonomy measurement, Muslim/Thailand/Southeast
+Asian populations, multicultural clinical safety, preconception medicine, global guidance,
+Thailand and the southern border provinces, premarital knowledge and well-being, culture as a
+health determinant, digital self-assessment, peer online support, assessor independence and
+check-in models, recognition of coercive control, humility/compassion/self-regulation, and
+tier-one Islamic medical ethics (library/library.json \texttt{categories}). Sources outside PubMed
+and the named global-guidance bodies were admitted only as \emph{context}, carrying no evidential
+weight (library/library.json \texttt{context\_sources}); two identified records were dropped
+outright as unverifiable (library/library.json \texttt{not\_admitted}).
+
+\subsection{Information sources and search strategy}
+Twelve of the 18 categories were searched directly against PubMed using NCBI E-utilities
+(\texttt{esearch}/\texttt{efetch}), with every query string logged in that category's
+\texttt{search-*.json} file under \texttt{queries\_run}. Six categories (external-culture,
+external-dossier, external-draft, external-multicultural, external-thailand, external-wellbeing)
+were built from a supplied external reading list rather than a fresh PubMed search pass, and carry
+no \texttt{queries\_run} log; this is stated plainly in Table~\ref{tab:queries}, not smoothed over.
+The full set of logged query strings, reproduced verbatim, is in Table~\ref{tab:queries}
+(Supplementary search strategy).
+
+\input{frag_search_queries_table}
+
+\subsection{Selection of sources of evidence}
+A single reviewer ran each search pass, read the abstract of each candidate record, and drafted a
+finding and a relevance annotation. An independent verifier pass (AI-assisted, human-owned)
+re-fetched every PubMed record by PMID via NCBI E-utilities (no web fetch) and checked title,
+year, the finding against the abstract, and whether the relevance annotation overstated the
+abstract; WHO/USPSTF/NICE/Cochrane items not indexed in PubMed were checked by title or
+identifier search only, not against the live document, and this is flagged per record. Each
+record received one verdict: KEEP (admitted as drafted), FIX (admitted with the verifier's
+correction, shown verbatim in the record), DROP (not admitted), or CONTEXT-ONLY (not
+PubMed-indexed, retained only as context, no evidential weight). This is single-reviewer
+screening with an independent adversarial verification pass, not independent duplicate
+screening by two reviewers as a full systematic review would require; this is the process's
+central limitation and is stated as such throughout, not only here.
+
+\subsection{Data charting items}
+For every admitted record, the library charts: identifier (PMID or, for a guidance document, its
+own identifier), category, first author, title, year, journal, design, evidence level, population
+or setting, finding, a relevance annotation linking the record to the \tphe{} programme theory,
+the verifier's verdict and note, and (where applicable) the other categories the same record was
+also placed in. The knowledge graph (\texttt{library/kg/graph.json}) additionally links each
+record to zero or more of the seven propositions (P1--P7), by a relation of \texttt{supports},
+\texttt{complicates}, \texttt{relates\_to} (relevant only), or \texttt{contradicts}; to the
+safeguards and outcome domains it measures or discusses; and to its category.
+
+\subsection{Synthesis approach}
+No meta-analysis was performed and none is appropriate: the library spans burden estimates,
+guidance documents, systematic reviews, single RCTs, qualitative studies, psychometric validation
+studies and narrative reviews across 18 categories with no common outcome metric. Synthesis is
+narrative, organised two ways: by category (Results \S3.2) and by proposition P1--P7 (Results
+\S3.3, one table per proposition, listing every linked record with its design, population, finding
+as charted, and its direction relative to the proposition). No risk-of-bias tool was applied at
+the individual-study level; a future full systematic review of any one proposition would apply
+ROBIS or AMSTAR-2 to included systematic reviews and Cochrane RoB~2 to included randomised trials,
+neither of which was in scope for a scoping-level evidence map.
+
+\subsection{Limitations of the process}
+(1) Single-reviewer screening throughout, with an AI-assisted independent verifier pass as the
+only check, not independent duplicate human screening. (2) No protocol was registered before the
+search began; no PROSPERO record exists. (3) Search scope was fixed to PubMed-indexed literature
+and five named global-guidance bodies (WHO, USPSTF, NICE, Cochrane, MRC); grey literature, Thai
+national databases such as ThaiJO/TCI, and non-English sources were excluded by design and are
+logged only where a search pass happened to attempt and fail to resolve one (library/library.json
+\texttt{context\_sources}). (4) No risk-of-bias assessment was applied at the individual-study
+level. (5) No meta-analysis was performed or attempted. (6) The 18 category searches were run
+across different sessions with different query strategies (12 with a logged PubMed query set, 6 as
+supplied reading lists), so search sensitivity is not uniform across categories; this is a stated
+limitation, not something the counts in \S3.1 attempt to correct for. (7) design and
+evidence-level fields were not populated for the six externally-sourced categories
+(07--12) in the logged data, so the design/evidence-level distribution in Table~\ref{tab:design}
+undercounts those 96 entries as blank rather than reconstructing a design label that was never
+charted. (8) \textbf{Data-quality issue in the source library, resolved downstream, not upstream.}
+Two genuinely different admitted documents -- a WHO 2013 clinical/policy guideline and a distinct
+WHO 2014 clinical handbook, both charted in \texttt{library/library.json} category 03 -- were left
+with a blank \texttt{identifier} field, so both would naively collide onto the same
+identifier-less key and only one (the 2014 handbook) would ever appear in the rendered tables,
+silently dropping the 2013 guideline's own finding from every proposition table it is linked to.
+\texttt{library.json} itself was not edited (per this repository's separation between the public
+\texttt{library/} and this private manuscript's build scripts); instead, both \texttt{build\_prisma.py}
+and \texttt{generate\_tex\_fragments.py} resolve the collision with a deterministic fallback key
+(PMID if present, otherwise a slug of first\_author+year+title), so the two documents are counted
+and tabulated as the two distinct records they are. This is flagged here as a data-quality issue
+of the source library, to be corrected upstream (assigning the 2013 guideline its own non-blank
+identifier in \texttt{library.json}) in a future revision of that repository. A related point not
+to be conflated with the identifier fix: \texttt{kg/graph.json} records only one
+\texttt{relates\_to} edge from the collided source id to each of P2 and P5, so the two documents'
+appearance as separate rows in Tables~\ref{tab:p2} and~\ref{tab:p5} rests on applying that single
+knowledge-graph edge to both resolved documents, not on two independently coded relations -- the
+proposition link itself is exactly as recorded in the knowledge graph, no more and no less.
+
+\section{Results}
+
+\subsection{Selection of sources of evidence (PRISMA flow)}
+Figure~\ref{fig:prisma} and Table~\ref{tab:prismaflow} report the PRISMA-ScR flow, computed
+directly from the logged files by \texttt{build\_prisma.py}. Records identified through search
+(358, sum of hits across 18 angle files, 160 logged PubMed queries) de-duplicate to 277 unique
+PMIDs among the PMID-bearing candidates (285 of the 358 candidates carried a PMID at the search
+stage; the remaining 73 were guidance documents or non-PMID items in the six externally-sourced
+angle files, and are not part of the PMID de-duplication count). All 358 candidate records were
+passed to the independent verifier: 250 KEEP, 97 FIX, 2 DROP, 9 CONTEXT-ONLY. The library admits
+347 category-level entries, corresponding to 330 unique records (313 unique PMIDs plus 17 admitted
+guidance documents without a PMID); the gap between 347 and 330 is records placed in more than one
+category (\texttt{also\_in\_category}), each counted once per category it appears in. Of the 18
+non-PMID rows, one pair (a WHO 2013 clinical/policy guideline and a distinct WHO 2014 clinical
+handbook, both charted with a blank \texttt{identifier} field in \texttt{library.json}) would
+naively collide onto the same identifier-less key; both scripts resolve this with a deterministic
+fallback key (PMID if present, otherwise a slug of first\_author+year+title) so the two documents
+are counted, and tabulated, separately -- see Limitations.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=7mm,
+  box/.style={draw, rounded corners, align=center, text width=9.3cm, minimum height=9mm, font=\small},
+  arr/.style={-{Latex[length=2mm]}}
+]
+\node[box] (id) {Records identified through search: \textbf{358}\\(18 angle files; 160 logged PubMed queries)};
+\node[box, below=of id] (dedup) {Unique PMIDs after de-duplication: \textbf{277}\\(among 285 PMID-bearing candidates; 8 duplicate PMIDs removed)};
+\node[box, below=of dedup] (verify) {Records passed to independent verification: \textbf{358}};
+\node[box, below=of verify] (verdict) {Verifier verdicts: KEEP \textbf{250} \,\textbullet\, FIX \textbf{97} \,\textbullet\, DROP \textbf{2} \,\textbullet\, CONTEXT-ONLY \textbf{9}};
+\node[box, below=of verdict] (admit) {Admitted entries (category-level rows): \textbf{347}\\(330 unique records: 313 unique PMIDs + 17 non-PMID guidance documents)};
+\node[box, below=of admit] (link) {Records linked to at least one proposition (P1--P7)\\in the knowledge graph: \textbf{109}};
+\draw[arr] (id) -- (dedup);
+\draw[arr] (dedup) -- (verify);
+\draw[arr] (verify) -- (verdict);
+\draw[arr] (verdict) -- (admit);
+\draw[arr] (admit) -- (link);
+\end{tikzpicture}
+\caption{PRISMA-ScR flow. Every number is computed by \texttt{build\_prisma.py} from
+library/data/search-*.json, library/data/verify-*.json, library/library.json and
+library/kg/graph.json.}
+\label{fig:prisma}
+\end{figure}
+
+\input{frag_prisma_flow_table}
+
+\subsection{Characteristics of included records}
+Table~\ref{tab:categories} reports admitted entries per category, cross-checked between the count
+declared in \texttt{library.json} and a direct recount over the entries themselves (the two agree
+for every category). By design/evidence-level keyword count over the free-text fields as logged
+(Table~\ref{tab:design}), 41 admitted entries (11.8\% of 347) read as a systematic review, scoping
+review, meta-analysis, or Cochrane review by keyword match; 12 (3.5\%) read as a guideline or
+recommendation statement, matched only by the two keywords the row label names (``guideline'' and
+``recommendation statement''; no broader term such as ``guidance'' is matched, so a record is not
+counted here merely for mentioning guidance in passing); and 59 (17.0\%) read as a randomised or
+cluster-randomised controlled
+trial. These are keyword counts over free text, not a closed design taxonomy applied by a second
+coder, and are reported as such. The design and evidence-level fields were not populated for the
+96 entries admitted from the six externally-sourced categories (07--12); this is a property of the
+logged data, not a search-strategy failure, and is reported as ``not derivable from the logged
+files'' rather than reconstructed. Admitted entries span publication years 1991--2026, with 70 of
+347 entries (20.2\%) dated 2024 or 2025 and 36 dated 2026 (year-bucketing rule, applied
+identically by \texttt{build\_prisma.py}: a \texttt{year} value counts toward a numeric year only
+if it is an integer or a clean 4-digit string; every other value -- blank, or an annotated/range
+string such as ``2021 (base report); 2023/2024 update per draft claim'' -- is bucketed under
+``year not parsed'' and shown as its own row rather than folded into any numeric year; 7 of 347
+entries fall in that row. The full year distribution is in the accompanying
+\texttt{prisma\_counts.md}).
+
+\begin{table}[H]
+\centering\footnotesize
+\caption{Admitted entries per category (library.json declared count vs. direct recount over entries; the two agree in every row).}
+\label{tab:categories}
+\begin{tabularx}{\textwidth}{@{}p{0.6cm}Yr@{}}
+\toprule
+\textbf{\#} & \textbf{Category} & \textbf{Admitted}\\
+\midrule
+01 & Burden of intimate-partner violence and primary-prevention frameworks & 20\\
+02 & Premarital and relationship education: measured outcomes & 20\\
+03 & Screening, first-line response and referral & 21\\
+04 & Couple-based work and coercive control & 20\\
+05 & Decision autonomy, reproductive coercion and measurement instruments & 18\\
+06 & Muslim populations, Thailand and Southeast Asia & 23\\
+07 & Multicultural clinical safety and language access & 19\\
+08 & Preconception medicine, premarital screening and adjacent guidance & 17\\
+09 & Global guidance, frameworks and methods & 29\\
+10 & Thailand and the southern border provinces & 15\\
+11 & Premarital knowledge and well-being pathways & 7\\
+12 & Culture as a health determinant and intercultural coexistence & 9\\
+13 & Digital self-assessment and safety decision aids for IPV & 20\\
+14 & Peer online support, moderated communities and digital safe spaces & 20\\
+15 & Assessor independence, risk assessment and check-in models & 24\\
+16 & Recognition of coercive control and psychological manipulation; inoculation & 20\\
+17 & Humility, compassion, self-regulation and responsibility & 25\\
+18 & Islamic medical ethics and spirituality in Muslim health care (tier-one only) & 20\\
+\midrule
+\multicolumn{2}{r}{\textbf{Total (category-level rows)}} & \textbf{347}\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering\footnotesize
+\caption{Design/evidence-level keyword shares over the free-text \texttt{design} and
+\texttt{evidence\_level} fields as logged (not a closed taxonomy; a record can match more than one
+group, or none). The ``Guideline / recommendation statement'' row matches only the two keywords
+its label names -- the bare substrings ``guideline'' and ``recommendation statement'' -- and
+deliberately excludes the broader term ``guidance,'' so a record is not counted here merely for
+mentioning guidance in passing. The ``RCT / cluster-RCT'' row matches the substrings ``randomised controlled trial,'' ``randomized controlled trial,'' ``rct,'' ``cluster randomi,'' ``randomised trial'' and ``randomized trial'' (case-insensitive).}
+\label{tab:design}
+\begin{tabularx}{\textwidth}{@{}Yrr@{}}
+\toprule
+\textbf{Keyword group} & \textbf{n entries} & \textbf{Share of 347 admitted entries}\\
+\midrule
+Systematic review / meta-analysis / scoping review / Cochrane & 41 & 11.8\%\\
+Guideline / recommendation statement & 12 & 3.5\%\\
+Randomised or cluster-randomised controlled trial & 59 & 17.0\%\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{Evidence by proposition (P1--P7)}
+Tables~\ref{tab:p1}--\ref{tab:p7} chart every record the knowledge graph links to each proposition:
+record and design and population as charted in the library, the finding exactly as charted there
+(copied verbatim from the record's \texttt{finding} field, or its \texttt{verifier\_note} where
+\texttt{finding} was blank), and the direction of that record relative to the proposition
+(\texttt{supports}, \texttt{complicates}, or \texttt{relates\_to} shown as ``Relevant only''; no
+record in the graph is tagged \texttt{contradicts} any proposition, an absence reported in
+\S4.1, not filled in with a record that was not tagged that way). Record counts per proposition are
+uneven by construction of the search categories, not by omission: P1 (decision control, the
+paper's central mechanism) draws on burden, instrument-validation and community-mobilisation
+literatures spanning several categories (44 linked records); P6 (conventional success can coexist
+with \tphe{} failure) and P7 (repairable records) are the two propositions argued mainly by
+analogy from a small number of directly relevant records (6 each).
+
+\subsubsection*{P1 --- A governance layer improves decision control beyond content-only education}
+\input{frag_prop_P1}
+
+\subsubsection*{P2 --- A routine private channel makes materially relevant concerns more visible}
+\input{frag_prop_P2}
+
+\subsubsection*{P3 --- Cultural intelligibility helps only when culture cannot override consent or safety}
+\input{frag_prop_P3}
+
+\subsubsection*{P4 --- A stop rule prevents routine joint education from worsening risk when fear or coercion appears}
+\input{frag_prop_P4}
+
+\subsubsection*{P5 --- Referral quality depends on timeliness, accessibility and follow-through, not offer alone}
+\input{frag_prop_P5}
+
+\subsubsection*{P6 --- Conventional programme success can coexist with \tphe{} failure}
+\input{frag_prop_P6}
+
+\subsubsection*{P7 --- Repairability is necessary because relevant information emerges over time}
+\input{frag_prop_P7}
+
+\subsection{Evidence gaps}
+Table~\ref{tab:gaps} excerpts the \texttt{gaps\_noted} statements logged by each search pass at the
+time it was run, grouped into the four themes named in this review's scope: Thai/Thai-Muslim
+samples, premarital-specific trials, decision-control instruments, and Layer~0/Layer~2 evidence
+(\tphe{}'s two proposed, not-yet-accepted extensions). These are the search log's own statements
+about what it did not find, condensed to fit the table column where needed, not a new claim
+authored for this review.
+
+\input{frag_evidence_gaps_table}
+
+\section{Discussion}
+
+\subsection{What this map does and does not show}
+This map shows that a structured, logged search across 18 categories, verified by an independent
+adversarial pass, assembled a library of 313 unique PubMed-indexed records plus 17 named
+guidance documents (330 unique records in total), of which 109 unique records are linked to at
+least one of \tphe{}'s seven
+propositions. It shows where that literature is comparatively dense (P1, P5) and where it is thin
+(P6, P7), and that no record in the library is tagged as directly contradicting any proposition
+--- itself notable, since it means every proposition currently has a body of supporting,
+complicating, or merely relevant literature, but none has been tested directly against a
+competing intervention. It does not show, and is not designed to show, that \tphe{} or any of its
+five rules is effective, safe, or superior to an alternative: no admitted record evaluates \tphe{}
+itself, and no record identified in this search evaluates any premarital-education programme, of
+any design, in a Thai or Thai Muslim population.
+
+\subsection{The claim ceiling}
+Nothing in this document licenses an effectiveness inference. The library was built to ground a
+programme theory in existing, adjacent, and analogical literature, and to make explicit, by
+proposition, what remains untested. Where a table above shows a proposition with many
+``supports''-tagged records, that density reflects the volume of adjacent literature the search
+strategy located, not a strength-of-evidence judgement for \tphe{} itself; the corresponding
+finding cells, read individually, make clear that almost none of that literature was generated on
+a premarital, Thai, or Thai Muslim population, and none evaluates the governance layer \tphe{}
+proposes.
+
+\subsection{How this map will be used}
+The gaps charted in \S3.4 --- absence of Thai/Thai-Muslim premarital-specific trials, absence of a
+validated decision-control instrument for the marriage-transition decision, and absence of any
+outcome evidence for the two proposed extension layers --- are exactly the gaps a future full
+systematic review, or a primary study, would need to either fill or work around. The intended next
+use of this map is to pre-specify the scope, eligibility criteria, and outcome set of a future full
+systematic review of one or more of P1--P7 (most plausibly P1 or P5, where the adjacent evidence
+base is largest), with a registered protocol (PROSPERO), independent duplicate screening, and a
+risk-of-bias assessment (ROBIS for included systematic reviews, AMSTAR-2 for included reviews more
+generally, Cochrane RoB~2 for included randomised trials) applied at the individual-study level ---
+none of which this document performed or claims to have performed.
+
+\section*{Declarations}
+\addcontentsline{toc}{section}{Declarations}
+
+\noindent\textbf{Conflict of interest.} The author is the founder of ARAYA Nikah Social Enterprise
+Co., Ltd., the organisation whose premarital education programme motivated the \tphe{} programme
+theory this evidence map supports. This is a direct conflict of interest, disclosed here as it is
+in the \tphe{} full paper.
+
+\noindent\textbf{Use of AI.} AI tools assisted literature search execution (NCBI E-utilities
+queries), abstract screening, drafting of findings and relevance annotations, independent
+verification re-fetching, and manuscript drafting, including generation of the tables in
+\S3 directly from the logged JSON files. The author verified the generated counts against the
+underlying files, ran the accompanying scripts, and is accountable for the content of this
+document. No participant data were used at any stage; every source is a published or
+publicly-issued document (a journal article, its PMID, or a named guidance body's publication).
+
+\noindent\textbf{Data availability.} The complete evidence library --- every search log, every
+verification log, the admitted-entry table, the knowledge graph --- is public in the repository
+(\texttt{library/}, https://github.com/morrocwi/RE\_T-PHE). The two scripts that produce every count
+and table in this document, and this manuscript's source, are released in the same repository under
+\texttt{paper/evidence-map/} after the independent adversarial review that the repository requires
+before any public change.
+
+\noindent\textbf{Funding.} No external funding was received for this evidence map.
+
+\begin{thebibliography}{999}\footnotesize
+\input{frag_copied_bibitems}
+\input{frag_new_bibitems}
+\end{thebibliography}
+
+\end{document}
