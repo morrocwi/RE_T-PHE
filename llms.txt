@@ -11,6 +11,7 @@ Claim ceiling: the accepted abstract. Nothing in this repository claims that T-P
 ## Document of record
 - [Abstract, verbatim web copy](abstract/ABSTRACT.md): the accepted abstract; PDF in the same folder is the document of record, SHA-256 pinned
 - [Evidence ledger](CLAIMS.md): every disputable statement graded by evidence type
+- [Full paper, preprint draft v0.4](paper/main.pdf): the abstract expanded to a programme-theory paper (IMRAD, evidence review, safeguarding specification, invitation to co-design); not peer reviewed; LaTeX source in paper/
 
 ## Evidence library
 - [Evidence library index](library/README.md): verified PubMed and global-guidance records by category (see the index for the current count); each entry shows the verifier's verdict and corrections

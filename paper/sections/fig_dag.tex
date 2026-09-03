@@ -1,0 +1,39 @@
+\begin{figure*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[x=1mm,y=1mm,>={Latex[length=2mm]},
+  box/.style={draw,rounded corners=1pt,fill=gray!8,align=center,font=\scriptsize,inner sep=2pt,minimum height=9mm},
+  rule/.style={box,text width=26mm},
+  layer/.style={box,text width=30mm,fill=gray!4},
+  mech/.style={box,text width=50mm,fill=gray!22,minimum height=10mm},
+  ethic/.style={box,text width=64mm,dashed,fill=white},
+  test/.style={box,text width=150mm,fill=gray!30,minimum height=11mm},
+  lab/.style={font=\scriptsize\itshape,align=left}]
+\node[ethic] (E) at (85,100) {\textbf{Declared ethical frame} — limited knowledge (\emph{faqr}), conscientious restraint (\emph{taqwa}),\\ entrusted responsibility (\emph{amanah}), consultation (\emph{shura}), justice (\emph{\textquoteright adl})\\ \emph{names the duty; not evidence}};
+\node[rule] (R1) at (20,78) {\textbf{R1}\\bounded authority of knowledge \& culture};
+\node[rule] (R2) at (52,78) {\textbf{R2}\\private channel, every stage};
+\node[rule] (R3) at (84,78) {\textbf{R3}\\revocable yes, no penalty};
+\node[rule] (R4) at (116,78) {\textbf{R4}\\stop $\cdot$ assess $\cdot$ refer $\cdot$ record};
+\node[rule] (R5) at (148,78) {\textbf{R5}\\repairable records};
+\node[mech] (M) at (85,54) {\textbf{Decision control} — proceed $\cdot$ delay $\cdot$ refuse $\cdot$ seek help\\ \emph{one mechanism, protected on the whole line}};
+\node[layer] (L0) at (30,30) {\textbf{Layer 0 — before}\\first-contact signals; anonymous self-check\\ \emph{(proposed extension)}};
+\node[layer] (L1) at (85,30) {\textbf{Layer 1 — the day}\\check-in: the space exists\\ \emph{(accepted programme)}};
+\node[layer] (L2) at (140,30) {\textbf{Layer 2 — after}\\moderated peer community\\ \emph{(proposed extension)}};
+\node[test] (T) at (85,8) {\textbf{One test — failure criterion, applied to the whole line:} knowledge, attendance, satisfaction or marriage completion rise\\ while informed choice, coercion recognition, reproductive and mental-health literacy, safe help-seeking and accountable referral stay flat $\Rightarrow$ failed};
+\draw (E.south) -- (85,90);
+\draw (20,90) -- (148,90);
+\foreach \r in {R1,R2,R3,R4,R5} \draw[->] (\r.north |- 0,90) -- (\r.north);
+\foreach \r in {R1,R2,R3,R4,R5} \draw (\r.south) -- (\r.south |- 0,66);
+\draw (20,66) -- (148,66);
+\draw[->] (85,66) -- (M.north);
+\draw[->] (L0.east) -- (L1.west); \draw[->] (L1.east) -- (L2.west);
+\node[lab,anchor=north] at (85,43) {R1--R5 apply at every point on the line};
+\foreach \l in {L0,L1,L2} \draw[->] (\l.south) -- (\l.south |- T.north);
+\draw[->,dashed] (L2.north) -- (140,66);
+\node[lab,anchor=west,text width=23mm] at (142,48) {trigger from any point on the line reaches R4 through the rules bus};
+\draw[->,dashed] (E.east) -- (170,100) -- (170,8) -- (T.east);
+\node[lab,anchor=west] at (171,54) {justice\\ (\emph{\textquoteright adl})\\ as the test};
+\end{tikzpicture}}
+\caption{Programme-theory diagram of \tphe{}, not a measured causal graph: no arrow represents an estimated effect. The declared ethical frame names the duty behind each rule; it is not evidence. Five rules (R1--R5) protect the single proposed mechanism, decision control; they apply at every point on one continuous timeline, of which only Layer 1 (the day) belongs to the accepted programme --- Layers 0 and 2 are extensions proposed for co-design. One pre-specified test is applied to the whole line; a trigger from any point on the line can invoke R4 (stop--assess--refer--record) directly, and justice (\emph{\textquoteright adl}) is the standard the failure criterion itself is tested against.}
+\label{fig:dag}
+\end{figure*}
